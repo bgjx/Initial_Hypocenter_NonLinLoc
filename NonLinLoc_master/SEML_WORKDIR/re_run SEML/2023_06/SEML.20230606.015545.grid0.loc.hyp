@@ -1,0 +1,29 @@
+NLLOC "./loc/SEML.20230606.015545.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m44"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 3.943079e-02 scatter_volume 3.904667e-02
+HYPOCENTER  x 737.588 y 9818.15 z 0.890625  OT 44.5578  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 55 44.557763  Lat 9818.150298 Long 737.587798 Depth 0.890625
+QUALITY  Pmax 1.60917e+23 MFmin 29.8923 MFmax 34.1596 RMS 0.00883762 Nphs 8 Gap 322.166 Dist 1.20669 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.69327  Npair 4  Diff 0.204071
+STATISTICS  ExpectX 737.604232 Y 9818.131912 Z 0.896252  CovXX 0.0524942 XY 0.00538837 XZ 0.0120503 YY 0.0156446 YZ 0.00107146 ZZ 0.0254534 EllAz1  170.147 Dip1  -5.403 Len1  0.228658 Az2  246.076 Dip2  68.7419 Len2  0.272262 Len3  4.516292e-01
+STAT_GEOG  ExpectLat 9818.131912 Long 737.604232 Depth 0.896252
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.00883762  azGap 322.166  secAzGap 322.166  gtLevel -  minDist 1.20669 maxDist 2.84993 medDist 2.18023
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.184953  maxHorUnc 0.350017  azMaxHorUnc 81.8492
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.451629  semiMinorAxisLength 0.228658  semiIntermediateAxisLength 0.272262  majorAxisPlunge 20.4953  majorAxisAzimuth 82.1725  majorAxisRotation 352.376
+FOCALMECH  Hyp  9818.150298 737.587798 0.890625 Mech  0 0 0 mf  0 nObs -1
+PHASE ID Ins Cmp On Pha  FM Date     HrMn   Sec     Err  ErrMag    Coda      Amp       Per       PriorWt  >   TTpred    Res       Weight    StaLoc(X  Y         Z)        SDist    SAzim  RAz  RDip RQual    Tcorr       TTerr
+M06          ?    BHZ  i P      c 20230606 0155   45.2457 GAU  1.27e-03 -1.00e+00 -1.00e+00 -1.00e+00    1.0000 >    0.6829    0.0050    1.1768  738.3100 9819.1170   -1.3960    1.2067  36.76  36.8 151.3 10     0.0000    0.0137
+M06          ?    BHE  e S      ? 20230606 0155   45.7345 GAU  5.92e-04 -1.00e+00 -1.00e+00 -1.00e+00    1.0000 >    1.1744    0.0023    1.0255  738.3100 9819.1170   -1.3960    1.2067  36.76  36.8 149.1 10     0.0000    0.0235
+M14          ?    BHZ  e P      c 20230606 0155   45.3308 GAU  2.90e-03 -1.00e+00 -1.00e+00 -1.00e+00    1.0000 >    0.7787   -0.0057    1.1477  737.5530 9820.0110   -1.3980    1.8610 358.93 358.9 139.6 10     0.0000    0.0156
+M14          ?    BHN  e S      ? 20230606 0155   45.8940 GAU  1.34e-03 -1.00e+00  3.77e+02 -1.00e+00    1.0000 >    1.3387   -0.0025    0.9617  737.5530 9820.0110   -1.3980    1.8610 358.93 358.9 136.1 10     0.0000    0.0268
+M11          ?    BHZ  e P      d 20230606 0155   45.4218 GAU  1.32e-03 -1.00e+00 -1.00e+00 -1.00e+00    1.0000 >    0.8778   -0.0138    0.9966  738.4670 9820.4900   -1.3120    2.4994  20.59  20.6 129.4 10     0.0000    0.0176
+M11          ?    BHE  e S      ? 20230606 0155   46.0615 GAU  9.72e-04 -1.00e+00 -1.00e+00 -1.00e+00    1.0000 >    1.5078   -0.0040    0.8974  738.4670 9820.4900   -1.3120    2.4994  20.59  20.6 124.5 10     0.0000    0.0302
+M09          ?    BHZ  e P      d 20230606 0155   45.5056 GAU  5.19e-04 -1.00e+00  2.49e+02 -1.00e+00    1.0000 >    0.9416    0.0063    1.0894  737.8820 9820.9850   -1.2700    2.8499   5.93   5.9 124.9 10     0.0000    0.0188
+M09          ?    BHE  e S      ? 20230606 0155   46.1985 GAU  2.68e-04 -1.00e+00  3.56e+02 -1.00e+00    1.0000 >    1.6163    0.0245    0.7048  737.8820 9820.9850   -1.2700    2.8499   5.93   5.9 119.3 10     0.0000    0.0323
+END_PHASE
+END_NLLOC
+

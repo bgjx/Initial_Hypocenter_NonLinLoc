@@ -1,0 +1,1102 @@
+NLLOC "./loc/SEML.20230602.175228.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m35"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.059524/0.059524/0.056818 oct_tree_integral 2.541781e+00 scatter_volume 2.541781e+00
+HYPOCENTER  x 736.94 y 9812.96 z 1.46591  OT 26.6663  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 02  17 52 26.666307  Lat 9812.964286 Long 736.940476 Depth 1.465909
+QUALITY  Pmax 1.84739e+68 MFmin 53.6949 MFmax 59.464 RMS 0.071791 Nphs 22 Gap 343.221 Dist 6.29088 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.78213  Npair 11  Diff 0.659327
+STATISTICS  ExpectX 737.239793 Y 9813.055769 Z 1.453131  CovXX 0.737002 XY -0.0220658 XZ -0.00269323 YY 0.12064 YZ 0.020184 ZZ 0.486872 EllAz1  2.03047 Dip1  -3.12165 Len1  0.647464 Az2  196.106 Dip2  -86.7819 Len2  1.31239 Len3  1.613867e+00
+STAT_GEOG  ExpectLat 9813.055769 Long 737.239793 Depth 1.453131
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 22  usedPhCt 22  assocStaCt -1  usedStaCt 11  depthPhCt -1  stdErr 0.071791  azGap 343.221  secAzGap 343.221  gtLevel -  minDist 6.29088 maxDist 10.4161 medDist 8.07579
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.525031  maxHorUnc 1.30266  azMaxHorUnc 92.0477
+QML_ConfidenceEllipsoid  semiMajorAxisLength 1.61387  semiMinorAxisLength 0.647464  semiIntermediateAxisLength 1.31239  majorAxisPlunge -0.781111  majorAxisAzimuth 92.0731  majorAxisRotation 183.123
+FOCALMECH  Hyp  9812.964286 736.940476 1.465909 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.014044.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m35"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20019 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 1.124371e-01 scatter_volume 1.120126e-01
+HYPOCENTER  x 736.077 y 9817.82 z 0.357955  OT 44.0458  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 40 44.045847  Lat 9817.815476 Long 736.077381 Depth 0.357955
+QUALITY  Pmax 1.93925e+21 MFmin 28.3731 MFmax 36.7182 RMS 0.0151766 Nphs 8 Gap 318.332 Dist 1.67325 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.78144  Npair 4  Diff 0.301048
+STATISTICS  ExpectX 737.274846 Y 9817.765479 Z 0.536395  CovXX 1.27498 XY -0.058664 XZ 0.506643 YY 0.268415 YZ 0.437447 ZZ 1.40268 EllAz1  192.61 Dip1  22.0247 Len1  0.510952 Az2  296.51 Dip2  30.7038 Len2  1.84854 Len3  2.592573e+00
+STAT_GEOG  ExpectLat 9817.765479 Long 737.274846 Depth 0.536395
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.0151766  azGap 318.332  secAzGap 318.332  gtLevel -  minDist 1.67325 maxDist 3.64726 medDist 3.08542
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.780716  maxHorUnc 1.71473  azMaxHorUnc 93.3243
+QML_ConfidenceEllipsoid  semiMajorAxisLength 2.59257  semiMinorAxisLength 0.510952  semiIntermediateAxisLength 1.84854  majorAxisPlunge 50.6901  majorAxisAzimuth 73.0022  majorAxisRotation 285.038
+FOCALMECH  Hyp  9817.815476 736.077381 0.357955 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.014225.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m36"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 1.499976e-02 scatter_volume 1.493443e-02
+HYPOCENTER  x 737.007 y 9818.67 z 0.194602  OT 24.7667  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 42 24.766723  Lat 9818.671131 Long 737.007440 Depth 0.194602
+QUALITY  Pmax 3.69611e+23 MFmin 32.8992 MFmax 42.6612 RMS 0.00941382 Nphs 8 Gap 309.601 Dist 1.37676 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.77732  Npair 4  Diff 0.161657
+STATISTICS  ExpectX 737.009360 Y 9818.661248 Z 0.190062  CovXX 0.0250977 XY 0.00530806 XZ 0.0127368 YY 0.00897643 YZ 0.00394349 ZZ 0.0189364 EllAz1  165.355 Dip1  2.94758 Len1  0.161398 Az2  259.265 Dip2  52.947 Len2  0.177584 Len3  3.599191e-01
+STAT_GEOG  ExpectLat 9818.661248 Long 737.009360 Depth 0.190062
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.00941382  azGap 309.601  secAzGap 309.601  gtLevel -  minDist 1.37676 maxDist 2.47363 medDist 1.88938
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.130334  maxHorUnc 0.247757  azMaxHorUnc 73.3172
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.359919  semiMinorAxisLength 0.161398  semiIntermediateAxisLength 0.177584  majorAxisPlunge 36.8954  majorAxisAzimuth 73.1395  majorAxisRotation 12.9974
+FOCALMECH  Hyp  9818.671131 737.007440 0.194602 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.014822.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m36"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 1.335437e-01 scatter_volume 1.335437e-01
+HYPOCENTER  x 737.015 y 9818.25 z 0.855114  OT 22.268  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 48 22.267989  Lat 9818.247024 Long 737.014881 Depth 0.855114
+QUALITY  Pmax 7.74168e+28 MFmin 36.3443 MFmax 44.9025 RMS 0.0164307 Nphs 10 Gap 292.844 Dist 1.56019 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.67596  Npair 5  Diff 0.366199
+STATISTICS  ExpectX 737.346397 Y 9818.155228 Z 0.868494  CovXX 0.10221 XY 0.00118902 XZ 0.051023 YY 0.0242147 YZ 0.0150939 ZZ 0.0757434 EllAz1  196.155 Dip1  25.9944 Len1  0.244223 Az2  311.071 Dip2  40.8266 Len2  0.38824 Len3  7.094211e-01
+STAT_GEOG  ExpectLat 9818.155228 Long 737.346397 Depth 0.868494
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.0164307  azGap 292.844  secAzGap 292.844  gtLevel -  minDist 1.56019 maxDist 3.90839 medDist 2.672
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.235907  maxHorUnc 0.484896  azMaxHorUnc 89.1268
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.709421  semiMinorAxisLength 0.244223  semiIntermediateAxisLength 0.38824  majorAxisPlunge 38.0857  majorAxisAzimuth 83.6888  majorAxisRotation 70.377
+FOCALMECH  Hyp  9818.247024 737.014881 0.855114 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.014843.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m36"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 5.000619e-02 scatter_volume 5.000619e-02
+HYPOCENTER  x 737.03 y 9818.47 z 0.8125  OT 43.0777  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 48 43.077703  Lat 9818.470238 Long 737.029762 Depth 0.812500
+QUALITY  Pmax 1.13739e+28 MFmin 36.1704 MFmax 42.9321 RMS 0.0147741 Nphs 10 Gap 284.865 Dist 1.43433 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.75819  Npair 5  Diff 0.537739
+STATISTICS  ExpectX 737.076552 Y 9818.491353 Z 0.797147  CovXX 0.117378 XY 0.0468726 XZ 0.0911198 YY 0.0538314 YZ 0.0167384 ZZ 0.122425 EllAz1  130.76 Dip1  -27.9779 Len1  0.214806 Az2  198.939 Dip2  34.9815 Len2  0.450656 Len3  8.872974e-01
+STAT_GEOG  ExpectLat 9818.491353 Long 737.076552 Depth 0.797147
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.0147741  azGap 284.865  secAzGap 284.865  gtLevel -  minDist 1.43433 maxDist 3.69261 medDist 2.65525
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.258165  maxHorUnc 0.571955  azMaxHorUnc 62.066
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.887297  semiMinorAxisLength 0.214806  semiIntermediateAxisLength 0.450656  majorAxisPlunge 42.2012  majorAxisAzimuth 69.5564  majorAxisRotation 276.798
+FOCALMECH  Hyp  9818.470238 737.029762 0.812500 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015113.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m37"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 5.355068e-02 scatter_volume 5.355068e-02
+HYPOCENTER  x 738.391 y 9818.17 z 1.28835  OT 12.5828  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 51 12.582826  Lat 9818.165179 Long 738.391369 Depth 1.288352
+QUALITY  Pmax 1.44471e+23 MFmin 28.8003 MFmax 33.9579 RMS 0.00692947 Nphs 8 Gap 333.709 Dist 0.955293 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.68267  Npair 4  Diff 0.184252
+STATISTICS  ExpectX 738.400673 Y 9818.144044 Z 1.283843  CovXX 0.0710419 XY 0.00903891 XZ -0.00239657 YY 0.0188136 YZ 0.00100454 ZZ 0.021953 EllAz1  349.821 Dip1  -15.6301 Len1  0.244285 Az2  359.308 Dip2  74.1639 Len2  0.28023 Len3  5.064387e-01
+STAT_GEOG  ExpectLat 9818.144044 Long 738.400673 Depth 1.283843
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.00692947  azGap 333.709  secAzGap 333.709  gtLevel -  minDist 0.955293 maxDist 2.86546 medDist 2.17667
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.199437  maxHorUnc 0.408525  azMaxHorUnc 80.4539
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.506439  semiMinorAxisLength 0.244285  semiIntermediateAxisLength 0.28023  majorAxisPlunge -2.48252  majorAxisAzimuth 80.5161  majorAxisRotation 195.701
+FOCALMECH  Hyp  9818.165179 738.391369 1.288352 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015116.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m37"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 3.547970e-01 scatter_volume 3.547970e-01
+HYPOCENTER  x 737.208 y 9817.58 z 1.26705  OT 15.8725  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 51 15.872520  Lat 9817.577381 Long 737.208333 Depth 1.267045
+QUALITY  Pmax 5.48197e+20 MFmin 27.0754 MFmax 37.3546 RMS 0.0167293 Nphs 8 Gap 332.476 Dist 1.89317 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.74929  Npair 4  Diff 0.21744
+STATISTICS  ExpectX 737.822047 Y 9817.802436 Z 1.297887  CovXX 0.626348 XY 0.143894 XZ -0.0696878 YY 0.160914 YZ 0.0835794 ZZ 0.289916 EllAz1  342.145 Dip1  -25.0107 Len1  0.509704 Az2  359.712 Dip2  63.9249 Len2  1.08092 Len3  1.540862e+00
+STAT_GEOG  ExpectLat 9817.802436 Long 737.822047 Depth 1.297887
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.0167293  azGap 332.476  secAzGap 332.476  gtLevel -  minDist 1.89317 maxDist 3.47357 medDist 2.81543
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.525402  maxHorUnc 1.23881  azMaxHorUnc 74.1353
+QML_ConfidenceEllipsoid  semiMajorAxisLength 1.54086  semiMinorAxisLength 0.509704  semiIntermediateAxisLength 1.08092  majorAxisPlunge -6.90494  majorAxisAzimuth 75.3841  majorAxisRotation 205.86
+FOCALMECH  Hyp  9817.577381 737.208333 1.267045 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015131.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m38"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 3.041102e-02 scatter_volume 3.041102e-02
+HYPOCENTER  x 737.335 y 9818.22 z 1.18892  OT 30.2553  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 51 30.255296  Lat 9818.224702 Long 737.334821 Depth 1.188920
+QUALITY  Pmax 1.85366e+36 MFmin 43.6034 MFmax 54.0441 RMS 0.0145483 Nphs 12 Gap 280.471 Dist 1.3218 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.83126  Npair 6  Diff 0.522808
+STATISTICS  ExpectX 737.355716 Y 9818.219965 Z 1.211533  CovXX 0.0225445 XY -0.00349352 XZ 0.00257847 YY 0.0157881 YZ 0.00332282 ZZ 0.0271797 EllAz1  204.629 Dip1  16.2408 Len1  0.21522 Az2  298.125 Dip2  11.8248 Len2  0.28985 Len3  3.176879e-01
+STAT_GEOG  ExpectLat 9818.219965 Long 737.355716 Depth 1.211533
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 12  usedPhCt 12  assocStaCt -1  usedStaCt 6  depthPhCt -1  stdErr 0.0145483  azGap 280.471  secAzGap 280.471  gtLevel -  minDist 1.3218 maxDist 4.0036 medDist 2.16602
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.181397  maxHorUnc 0.235074  azMaxHorUnc 112.981
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.317688  semiMinorAxisLength 0.21522  semiIntermediateAxisLength 0.28985  majorAxisPlunge -69.7136  majorAxisAzimuth 242.624  majorAxisRotation 240.902
+FOCALMECH  Hyp  9818.224702 737.334821 1.188920 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015219.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m38"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 4.243022e-02 scatter_volume 4.222877e-02
+HYPOCENTER  x 737.766 y 9817.87 z 1.38778  OT 19.1117  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 52 19.111708  Lat 9817.867560 Long 737.766369 Depth 1.387784
+QUALITY  Pmax 4.38784e+65 MFmin 67.3093 MFmax 78.0884 RMS 0.0344789 Nphs 20 Gap 299.248 Dist 1.36258 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.74506  Npair 10  Diff 0.614666
+STATISTICS  ExpectX 737.993855 Y 9817.778738 Z 1.244059  CovXX 0.120153 XY -0.0389994 XZ -0.0582904 YY 0.031396 YZ 0.0232626 ZZ 0.0700279 EllAz1  18.8297 Dip1  -3.43338 Len1  0.242233 Az2  283.227 Dip2  -58.4271 Len2  0.335489 Len3  7.816245e-01
+STAT_GEOG  ExpectLat 9817.778738 Long 737.993855 Depth 1.244059
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 20  usedPhCt 20  assocStaCt -1  usedStaCt 10  depthPhCt -1  stdErr 0.0344789  azGap 299.248  secAzGap 299.248  gtLevel -  minDist 1.36258 maxDist 5.58776 medDist 3.41142
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.195954  maxHorUnc 0.556924  azMaxHorUnc 110.654
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.781624  semiMinorAxisLength 0.242233  semiIntermediateAxisLength 0.335489  majorAxisPlunge -31.3421  majorAxisAzimuth 110.924  majorAxisRotation 188.709
+FOCALMECH  Hyp  9817.867560 737.766369 1.387784 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015241.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m39"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20027 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 7.073973e-02 scatter_volume 7.073973e-02
+HYPOCENTER  x 737.35 y 9818.15 z 1.30256  OT 40.3297  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 52 40.329689  Lat 9818.150298 Long 737.349702 Depth 1.302557
+QUALITY  Pmax 1.36327e+70 MFmin 76.8016 MFmax 96.3901 RMS 0.0558776 Nphs 22 Gap 284.251 Dist 1.3626 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.81502  Npair 11  Diff 0.645611
+STATISTICS  ExpectX 737.498534 Y 9818.171610 Z 0.976542  CovXX 0.043247 XY 0.0042421 XZ -0.0436541 YY 0.0256599 YZ -0.00453804 ZZ 0.0907323 EllAz1  100.596 Dip1  29.7387 Len1  0.245559 Az2  186.028 Dip2  -7.93576 Len2  0.299859 Len3  6.428933e-01
+STAT_GEOG  ExpectLat 9818.171610 Long 737.498534 Depth 0.976542
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 22  usedPhCt 22  assocStaCt -1  usedStaCt 11  depthPhCt -1  stdErr 0.0558776  azGap 284.251  secAzGap 284.251  gtLevel -  minDist 1.3626 maxDist 5.25333 medDist 2.88425
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.238301  maxHorUnc 0.318902  azMaxHorUnc 77.1234
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.642893  semiMinorAxisLength 0.245559  semiIntermediateAxisLength 0.299859  majorAxisPlunge -59.0092  majorAxisAzimuth 82.6082  majorAxisRotation 277.449
+FOCALMECH  Hyp  9818.150298 737.349702 1.302557 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015251.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m40"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20027 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 3.294027e-02 scatter_volume 3.253888e-02
+HYPOCENTER  x 737.662 y 9817.64 z 1.51562  OT 50.3073  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 52 50.307323  Lat 9817.644345 Long 737.662202 Depth 1.515625
+QUALITY  Pmax 4.79303e+73 MFmin 72.7993 MFmax 86.8635 RMS 0.0347221 Nphs 22 Gap 305.096 Dist 1.60884 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.86395  Npair 11  Diff 0.492634
+STATISTICS  ExpectX 737.715133 Y 9817.670835 Z 1.516797  CovXX 0.0307658 XY 0.007882 XZ 0.00225725 YY 0.0299695 YZ -0.0139831 ZZ 0.0228639 EllAz1  333.383 Dip1  46.0079 Len1  0.186172 Az2  279.248 Dip2  -29.4934 Len2  0.329604 Len3  3.896233e-01
+STAT_GEOG  ExpectLat 9817.670835 Long 737.715133 Depth 1.516797
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 22  usedPhCt 22  assocStaCt -1  usedStaCt 11  depthPhCt -1  stdErr 0.0347221  azGap 305.096  secAzGap 305.096  gtLevel -  minDist 1.60884 maxDist 5.7926 medDist 3.34788
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.227363  maxHorUnc 0.296643  azMaxHorUnc 46.446
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.389623  semiMinorAxisLength 0.186172  semiIntermediateAxisLength 0.329604  majorAxisPlunge -29.3358  majorAxisAzimuth 27.783  majorAxisRotation 109.586
+FOCALMECH  Hyp  9817.644345 737.662202 1.515625 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015328.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m40"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20019 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 7.313217e-02 scatter_volume 7.313217e-02
+HYPOCENTER  x 736.948 y 9817.93 z 1.14631  OT 28.0137  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 53 28.013666  Lat 9817.927083 Long 736.947917 Depth 1.146307
+QUALITY  Pmax 8.47317e+22 MFmin 28.0011 MFmax 34.1904 RMS 0.0078613 Nphs 8 Gap 327.332 Dist 1.80864 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2.03635  Npair 4  Diff 0.166708
+STATISTICS  ExpectX 736.966578 Y 9817.919445 Z 1.143451  CovXX 0.0707319 XY -0.000815758 XZ 0.0358504 YY 0.0202066 YZ 0.00226769 ZZ 0.0526207 EllAz1  194.05 Dip1  18.0882 Len1  0.260602 Az2  304.167 Dip2  46.4789 Len2  0.300967 Len3  5.901434e-01
+STAT_GEOG  ExpectLat 9817.919445 Long 736.966578 Depth 1.143451
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.0078613  azGap 327.332  secAzGap 327.332  gtLevel -  minDist 1.80864 maxDist 3.1974 medDist 2.57464
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.215511  maxHorUnc 0.403378  azMaxHorUnc 90.9248
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.590143  semiMinorAxisLength 0.260602  semiIntermediateAxisLength 0.300967  majorAxisPlunge 37.9269  majorAxisAzimuth 89.3052  majorAxisRotation 60.283
+FOCALMECH  Hyp  9817.927083 736.947917 1.146307 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015406.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m40"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 1.336766e-01 scatter_volume 1.330360e-01
+HYPOCENTER  x 736.211 y 9817.89 z 0.372159  OT 5.29534  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 54 5.295338  Lat 9817.889881 Long 736.211310 Depth 0.372159
+QUALITY  Pmax 3.0257e+26 MFmin 34.8397 MFmax 43.2007 RMS 0.0217403 Nphs 10 Gap 301.062 Dist 2.43112 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.73632  Npair 5  Diff 0.596333
+STATISTICS  ExpectX 736.863688 Y 9817.970972 Z 0.922424  CovXX 0.943462 XY 0.0806848 XZ 0.138203 YY 0.0651488 YZ 0.0173751 ZZ 0.370375 EllAz1  174.941 Dip1  0.938242 Len1  0.45139 Az2  269.058 Dip2  77.1513 Len2  1.09359 Len3  1.862293e+00
+STAT_GEOG  ExpectLat 9817.970972 Long 736.863688 Depth 0.922424
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.0217403  azGap 301.062  secAzGap 301.062  gtLevel -  minDist 2.43112 maxDist 4.19348 medDist 3.4422
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.364604  maxHorUnc 1.47881  azMaxHorUnc 84.7947
+QML_ConfidenceEllipsoid  semiMajorAxisLength 1.86229  semiMinorAxisLength 0.45139  semiIntermediateAxisLength 1.09359  majorAxisPlunge 12.8133  majorAxisAzimuth 84.7275  majorAxisRotation 1.06716
+FOCALMECH  Hyp  9817.889881 736.211310 0.372159 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015429.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m41"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 7.145880e-02 scatter_volume 7.089058e-02
+HYPOCENTER  x 738.391 y 9817.79 z 0.322443  OT 28.8965  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 54 28.896526  Lat 9817.793155 Long 738.391369 Depth 0.322443
+QUALITY  Pmax 5.73711e+64 MFmin 69.8559 MFmax 86.4347 RMS 0.0422598 Nphs 20 Gap 310.344 Dist 1.32634 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.8756  Npair 10  Diff 0.619328
+STATISTICS  ExpectX 738.550485 Y 9817.748867 Z 0.084248  CovXX 0.0732335 XY -0.0101704 XZ -0.0653196 YY 0.0192547 YZ 0.0136048 ZZ 0.150628 EllAz1  8.34852 Dip1  -1.70907 Len1  0.247492 Az2  277.354 Dip2  -30.1812 Len2  0.357683 Len3  8.179318e-01
+STAT_GEOG  ExpectLat 9817.748867 Long 738.550485 Depth 0.084248
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 20  usedPhCt 20  assocStaCt -1  usedStaCt 10  depthPhCt -1  stdErr 0.0422598  azGap 310.344  secAzGap 310.344  gtLevel -  minDist 1.32634 maxDist 5.79504 medDist 3.5858
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.200062  maxHorUnc 0.41557  azMaxHorUnc 100.324
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.817932  semiMinorAxisLength 0.247492  semiIntermediateAxisLength 0.357683  majorAxisPlunge -59.7602  majorAxisAzimuth 101.282  majorAxisRotation 173.135
+FOCALMECH  Hyp  9817.793155 738.391369 0.322443 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015438.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m41"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 1.499496e-01 scatter_volume 1.499496e-01
+HYPOCENTER  x 736.36 y 9818.78 z 1.4233  OT 37.5368  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 54 37.536762  Lat 9818.782738 Long 736.360119 Depth 1.423295
+QUALITY  Pmax 6.31106e+26 MFmin 35.3184 MFmax 44.8158 RMS 0.0237166 Nphs 10 Gap 296.244 Dist 1.71219 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.85726  Npair 5  Diff 0.181484
+STATISTICS  ExpectX 736.555881 Y 9818.595006 Z 1.175097  CovXX 0.276126 XY -0.150788 XZ -0.11975 YY 0.292332 YZ 0.279455 ZZ 0.381172 EllAz1  15.2118 Dip1  -35.3795 Len1  0.401552 Az2  264.247 Dip2  -26.7411 Len2  0.840855 Len3  1.576045e+00
+STAT_GEOG  ExpectLat 9818.595006 Long 736.555881 Depth 1.175097
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.0237166  azGap 296.244  secAzGap 296.244  gtLevel -  minDist 1.71219 maxDist 2.87697 medDist 2.67695
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.553548  maxHorUnc 1.00052  azMaxHorUnc 136.538
+QML_ConfidenceEllipsoid  semiMajorAxisLength 1.57604  semiMinorAxisLength 0.401552  semiIntermediateAxisLength 0.840855  majorAxisPlunge -42.8384  majorAxisAzimuth 146.395  majorAxisRotation 266.647
+FOCALMECH  Hyp  9818.782738 736.360119 1.423295 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015445.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m42"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 1.312725e-01 scatter_volume 1.312241e-01
+HYPOCENTER  x 740.482 y 9818.23 z 0.8125  OT 44.1918  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 54 44.191823  Lat 9818.232143 Long 740.482143 Depth 0.812500
+QUALITY  Pmax 2.97974e+34 MFmin 37.354 MFmax 44.9508 RMS 0.0278992 Nphs 12 Gap 327.355 Dist 2.34546 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.77538  Npair 6  Diff 0.668407
+STATISTICS  ExpectX 740.370976 Y 9818.195465 Z 0.869873  CovXX 0.195212 XY 0.0669164 XZ -0.086971 YY 0.0914499 YZ -0.0483965 ZZ 0.108385 EllAz1  17.2934 Dip1  50.921 Len1  0.419554 Az2  319.128 Dip2  -23.1873 Len2  0.463871 Len3  1.001656e+00
+STAT_GEOG  ExpectLat 9818.195465 Long 740.370976 Depth 0.869873
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 12  usedPhCt 12  assocStaCt -1  usedStaCt 6  depthPhCt -1  stdErr 0.0278992  azGap 327.355  secAzGap 327.355  gtLevel -  minDist 2.34546 maxDist 6.29908 medDist 4.23139
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.367307  maxHorUnc 0.72416  azMaxHorUnc 63.8934
+QML_ConfidenceEllipsoid  semiMajorAxisLength 1.00166  semiMinorAxisLength 0.419554  semiIntermediateAxisLength 0.463871  majorAxisPlunge -29.4921  majorAxisAzimuth 63.1481  majorAxisRotation 104.647
+FOCALMECH  Hyp  9818.232143 740.482143 0.812500 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015453.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m42"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 7.480751e-02 scatter_volume 7.480751e-02
+HYPOCENTER  x 739.076 y 9818.73 z 1.48722  OT 53.2024  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 54 53.202353  Lat 9818.730655 Long 739.075893 Depth 1.487216
+QUALITY  Pmax 1.09e+21 MFmin 28.0795 MFmax 36.4762 RMS 0.00652548 Nphs 8 Gap 315.858 Dist 0.85782 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.68195  Npair 4  Diff 0.437386
+STATISTICS  ExpectX 739.079248 Y 9818.725895 Z 1.458134  CovXX 0.198592 XY 0.0230306 XZ -0.0387083 YY 0.0216207 YZ -0.0082743 ZZ 0.0345135 EllAz1  357.371 Dip1  20.7885 Len1  0.247966 Az2  323.21 Dip2  -65.3547 Len2  0.308253 Len3  8.617855e-01
+STAT_GEOG  ExpectLat 9818.725895 Long 739.079248 Depth 1.458134
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.00652548  azGap 315.858  secAzGap 315.858  gtLevel -  minDist 0.85782 maxDist 3.39117 medDist 2.20635
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.207237  maxHorUnc 0.680838  azMaxHorUnc 82.7055
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.861785  semiMinorAxisLength 0.247966  semiIntermediateAxisLength 0.308253  majorAxisPlunge -12.645  majorAxisAzimuth 82.4847  majorAxisRotation 156.641
+FOCALMECH  Hyp  9818.730655 739.075893 1.487216 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015512.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m43"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.007440/0.007440/0.007102 oct_tree_integral 6.869587e-03 scatter_volume 6.869587e-03
+HYPOCENTER  x 736.513 y 9818.14 z -0.227983  OT 12.2527  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 55 12.252722  Lat 9818.139137 Long 736.512649 Depth -0.227983
+QUALITY  Pmax 1.7088e+42 MFmin 52.7212 MFmax 68.3807 RMS 0.0273958 Nphs 14 Gap 294.97 Dist 1.26967 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.79542  Npair 7  Diff 0.791619
+STATISTICS  ExpectX 736.552127 Y 9818.090047 Z -0.298082  CovXX 0.0188918 XY -0.00706919 XZ -0.0101114 YY 0.0181346 YZ 0.0160293 ZZ 0.0592559 EllAz1  31.1165 Dip1  -9.90614 Len1  0.193416 Az2  297.155 Dip2  -21.5843 Len2  0.252226 Len3  4.887215e-01
+STAT_GEOG  ExpectLat 9818.090047 Long 736.552127 Depth -0.298082
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 14  usedPhCt 14  assocStaCt -1  usedStaCt 7  depthPhCt -1  stdErr 0.0273958  azGap 294.97  secAzGap 294.97  gtLevel -  minDist 1.26967 maxDist 5.25184 medDist 3.05713
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.162166  maxHorUnc 0.242617  azMaxHorUnc 133.467
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.488722  semiMinorAxisLength 0.193416  semiIntermediateAxisLength 0.252226  majorAxisPlunge -66.0394  majorAxisAzimuth 144.256  majorAxisRotation 145.092
+FOCALMECH  Hyp  9818.139137 736.512649 -0.227983 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015526.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m43"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 9.639929e-02 scatter_volume 9.442655e-02
+HYPOCENTER  x 737.372 y 9817.83 z 1.08239  OT 25.8083  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 55 25.808313  Lat 9817.830357 Long 737.372024 Depth 1.082386
+QUALITY  Pmax 3.04666e+61 MFmin 68.5317 MFmax 87.1724 RMS 0.058519 Nphs 20 Gap 297.716 Dist 1.59225 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.70529  Npair 10  Diff 0.614376
+STATISTICS  ExpectX 737.342517 Y 9818.002353 Z 1.090533  CovXX 0.0414671 XY -0.0395258 XZ -0.00686529 YY 0.129924 YZ 0.0142218 ZZ 0.0382503 EllAz1  70.1282 Dip1  7.6663 Len1  0.304106 Az2  202.613 Dip2  78.7285 Len2  0.357274 Len3  7.210466e-01
+STAT_GEOG  ExpectLat 9818.002353 Long 737.342517 Depth 1.090533
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 20  usedPhCt 20  assocStaCt -1  usedStaCt 10  depthPhCt -1  stdErr 0.058519  azGap 297.716  secAzGap 297.716  gtLevel -  minDist 1.59225 maxDist 5.57395 medDist 3.4124
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.246316  maxHorUnc 0.577518  azMaxHorUnc 159.107
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.721047  semiMinorAxisLength 0.304106  semiIntermediateAxisLength 0.357274  majorAxisPlunge -8.21305  majorAxisAzimuth 159.015  majorAxisRotation 171.928
+FOCALMECH  Hyp  9817.830357 737.372024 1.082386 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015545.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m44"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 3.943079e-02 scatter_volume 3.904667e-02
+HYPOCENTER  x 737.588 y 9818.15 z 0.890625  OT 44.5578  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 55 44.557763  Lat 9818.150298 Long 737.587798 Depth 0.890625
+QUALITY  Pmax 1.60917e+23 MFmin 29.8923 MFmax 34.1596 RMS 0.00883762 Nphs 8 Gap 322.166 Dist 1.20669 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.69327  Npair 4  Diff 0.204071
+STATISTICS  ExpectX 737.604232 Y 9818.131912 Z 0.896252  CovXX 0.0524942 XY 0.00538837 XZ 0.0120503 YY 0.0156446 YZ 0.00107146 ZZ 0.0254534 EllAz1  170.147 Dip1  -5.403 Len1  0.228658 Az2  246.076 Dip2  68.7419 Len2  0.272262 Len3  4.516292e-01
+STAT_GEOG  ExpectLat 9818.131912 Long 737.604232 Depth 0.896252
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.00883762  azGap 322.166  secAzGap 322.166  gtLevel -  minDist 1.20669 maxDist 2.84993 medDist 2.18023
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.184953  maxHorUnc 0.350017  azMaxHorUnc 81.8492
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.451629  semiMinorAxisLength 0.228658  semiIntermediateAxisLength 0.272262  majorAxisPlunge 20.4953  majorAxisAzimuth 82.1725  majorAxisRotation 352.376
+FOCALMECH  Hyp  9818.150298 737.587798 0.890625 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015553.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m44"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20019 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 5.040374e-02 scatter_volume 5.017748e-02
+HYPOCENTER  x 737.35 y 9818.28 z 1.31676  OT 52.5095  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 55 52.509459  Lat 9818.284226 Long 737.349702 Depth 1.316761
+QUALITY  Pmax 1.64837e+23 MFmin 28.8493 MFmax 37.3014 RMS 0.00597026 Nphs 8 Gap 317.647 Dist 1.2711 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.52051  Npair 4  Diff 0.138004
+STATISTICS  ExpectX 737.358639 Y 9818.280885 Z 1.315148  CovXX 0.056784 XY 0.00375101 XZ 0.0176752 YY 0.0166067 YZ 0.00273291 ZZ 0.0270732 EllAz1  182.564 Dip1  17.5073 Len1  0.236999 Az2  303.929 Dip2  58.7828 Len2  0.259727 Len3  4.806363e-01
+STAT_GEOG  ExpectLat 9818.280885 Long 737.358639 Depth 1.315148
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.00597026  azGap 317.647  secAzGap 317.647  gtLevel -  minDist 1.2711 maxDist 2.75273 medDist 2.10565
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.193383  maxHorUnc 0.362494  azMaxHorUnc 84.7117
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.480636  semiMinorAxisLength 0.236999  semiIntermediateAxisLength 0.259727  majorAxisPlunge 24.9637  majorAxisAzimuth 84.1193  majorAxisRotation 28.6528
+FOCALMECH  Hyp  9818.284226 737.349702 1.316761 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015601.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m45"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 1.736155e-01 scatter_volume 1.728340e-01
+HYPOCENTER  x 740.318 y 9819.26 z 0.684659  OT 1.15076  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 56 1.150764  Lat 9819.258929 Long 740.318452 Depth 0.684659
+QUALITY  Pmax 2.26688e+21 MFmin 29.1154 MFmax 39.0561 RMS 0.00209601 Nphs 8 Gap 320.643 Dist 2.01346 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.85092  Npair 4  Diff 0.187858
+STATISTICS  ExpectX 738.382625 Y 9818.535555 Z -0.115839  CovXX 2.3759 XY 0.234826 XZ 0.208736 YY 0.568869 YZ 0.693889 ZZ 1.05618 EllAz1  177.786 Dip1  34.9285 Len1  0.514036 Az2  329.807 Dip2  51.6639 Len2  2.26041 Len3  2.957982e+00
+STAT_GEOG  ExpectLat 9818.535555 Long 738.382625 Depth -0.115839
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.00209601  azGap 320.643  secAzGap 320.643  gtLevel -  minDist 2.01346 maxDist 2.9859 medDist 2.54464
+QML_OriginUncertainty  horUnc -1  minHorUnc 1.11327  maxHorUnc 2.35236  azMaxHorUnc 82.7155
+QML_ConfidenceEllipsoid  semiMajorAxisLength 2.95798  semiMinorAxisLength 0.514036  semiIntermediateAxisLength 2.26041  majorAxisPlunge 13.8029  majorAxisAzimuth 77.9074  majorAxisRotation 39.4787
+FOCALMECH  Hyp  9819.258929 740.318452 0.684659 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015609.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m45"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 1.007941e-01 scatter_volume 1.007941e-01
+HYPOCENTER  x 738.146 y 9817.83 z 1.84943  OT 8.32168  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 56 8.321685  Lat 9817.830357 Long 738.145833 Depth 1.849432
+QUALITY  Pmax 6.25205e+29 MFmin 33.1664 MFmax 37.3023 RMS 0.0129949 Nphs 10 Gap 337.52 Dist 1.29707 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.65407  Npair 5  Diff 0.30542
+STATISTICS  ExpectX 738.137591 Y 9817.827628 Z 1.849164  CovXX 0.140172 XY 0.00184457 XZ 0.00120015 YY 0.0234426 YZ 0.00118515 ZZ 0.0238923 EllAz1  179.581 Dip1  39.3468 Len1  0.281558 Az2  358.357 Dip2  50.6468 Len2  0.29609 Len3  7.035315e-01
+STAT_GEOG  ExpectLat 9817.827628 Long 738.137591 Depth 1.849164
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.0129949  azGap 337.52  secAzGap 337.52  gtLevel -  minDist 1.29707 maxDist 4.33085 medDist 2.67896
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.232058  maxHorUnc 0.567859  azMaxHorUnc 89.0949
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.703532  semiMinorAxisLength 0.281558  semiIntermediateAxisLength 0.29609  majorAxisPlunge 0.600333  majorAxisAzimuth 89.0889  majorAxisRotation 39.3556
+FOCALMECH  Hyp  9817.830357 738.145833 1.849432 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015617.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m45"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 1.034483e-01 scatter_volume 1.022139e-01
+HYPOCENTER  x 736.747 y 9817.74 z -0.0255682  OT 16.7643  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 56 16.764345  Lat 9817.741071 Long 736.747024 Depth -0.025568
+QUALITY  Pmax 8.36089e+26 MFmin 35.8144 MFmax 44.2395 RMS 0.0235518 Nphs 10 Gap 305.037 Dist 2.08232 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.80138  Npair 5  Diff 0.44804
+STATISTICS  ExpectX 736.537018 Y 9817.776813 Z -0.525145  CovXX 0.201367 XY -0.0118532 XZ 0.35156 YY 0.0299937 YZ -0.0253947 ZZ 0.745654 EllAz1  133.549 Dip1  -20.7907 Len1  0.317007 Az2  37.6293 Dip2  -15.1982 Len2  0.323064 Len3  1.801109e+00
+STAT_GEOG  ExpectLat 9817.776813 Long 736.537018 Depth -0.525145
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.0235518  azGap 305.037  secAzGap 305.037  gtLevel -  minDist 2.08232 maxDist 4.36849 medDist 3.24267
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.259054  maxHorUnc 0.681924  azMaxHorUnc 93.9379
+QML_ConfidenceEllipsoid  semiMajorAxisLength 1.80111  semiMinorAxisLength 0.317007  semiIntermediateAxisLength 0.323064  majorAxisPlunge 63.815  majorAxisAzimuth 94.0939  majorAxisRotation 65.7275
+FOCALMECH  Hyp  9817.741071 736.747024 -0.025568 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015629.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m46"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 3.252859e-02 scatter_volume 3.252859e-02
+HYPOCENTER  x 737.766 y 9818.12 z 0.947443  OT 29.0518  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 56 29.051755  Lat 9818.120536 Long 737.766369 Depth 0.947443
+QUALITY  Pmax 1.01383e+50 MFmin 55.6435 MFmax 61.9639 RMS 0.0277323 Nphs 16 Gap 310.646 Dist 1.13511 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.69322  Npair 8  Diff 0.660925
+STATISTICS  ExpectX 737.784237 Y 9818.134754 Z 0.923788  CovXX 0.0350562 XY 0.0113061 XZ 0.00790579 YY 0.0261565 YZ -0.000669727 ZZ 0.0149256 EllAz1  308.967 Dip1  56.4606 Len1  0.19318 Az2  335.608 Dip2  -30.6469 Len2  0.275269 Len3  3.945588e-01
+STAT_GEOG  ExpectLat 9818.134754 Long 737.784237 Depth 0.923788
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 16  usedPhCt 16  assocStaCt -1  usedStaCt 8  depthPhCt -1  stdErr 0.0277323  azGap 310.646  secAzGap 310.646  gtLevel -  minDist 1.13511 maxDist 5.33836 medDist 3.16607
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.206031  maxHorUnc 0.313592  azMaxHorUnc 55.7417
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.394559  semiMinorAxisLength 0.19318  semiIntermediateAxisLength 0.275269  majorAxisPlunge 12.3062  majorAxisAzimuth 58.1813  majorAxisRotation 119.074
+FOCALMECH  Hyp  9818.120536 737.766369 0.947443 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015637.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m46"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 3.173102e-02 scatter_volume 3.173102e-02
+HYPOCENTER  x 736.412 y 9817.56 z -0.103693  OT 36.7909  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 56 36.790915  Lat 9817.555060 Long 736.412202 Depth -0.103693
+QUALITY  Pmax 2.49017e+38 MFmin 49.0974 MFmax 59.2993 RMS 0.0585563 Nphs 14 Gap 307.606 Dist 1.86014 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.70062  Npair 7  Diff 0.701481
+STATISTICS  ExpectX 736.410983 Y 9817.673820 Z 0.122932  CovXX 0.0491221 XY -0.00513786 XZ -0.0174656 YY 0.0405104 YZ 0.038528 ZZ 0.074173 EllAz1  348.32 Dip1  -34.6238 Len1  0.225519 Az2  252.014 Dip2  -9.03868 Len2  0.396486 Len3  6.084184e-01
+STAT_GEOG  ExpectLat 9817.673820 Long 736.410983 Depth 0.122932
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 14  usedPhCt 14  assocStaCt -1  usedStaCt 7  depthPhCt -1  stdErr 0.0585563  azGap 307.606  secAzGap 307.606  gtLevel -  minDist 1.86014 maxDist 5.84152 medDist 3.58275
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.296073  maxHorUnc 0.344232  azMaxHorUnc 115.017
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.608418  semiMinorAxisLength 0.225519  semiIntermediateAxisLength 0.396486  majorAxisPlunge -53.8781  majorAxisAzimuth 149.424  majorAxisRotation 94.8199
+FOCALMECH  Hyp  9817.555060 736.412202 -0.103693 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015714.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m47"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20019 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 2.108146e-02 scatter_volume 2.103591e-02
+HYPOCENTER  x 737.647 y 9818.42 z 1.16051  OT 14.2209  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 57 14.220909  Lat 9818.418155 Long 737.647321 Depth 1.160511
+QUALITY  Pmax 1.29912e+56 MFmin 65.7521 MFmax 80.8965 RMS 0.044311 Nphs 18 Gap 269.766 Dist 0.963082 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.82896  Npair 9  Diff 0.458578
+STATISTICS  ExpectX 737.838813 Y 9818.414140 Z 1.090320  CovXX 0.286371 XY 0.00851178 XZ -0.0973519 YY 0.0171929 YZ 0.00764036 ZZ 0.0862109 EllAz1  352.43 Dip1  -15.7508 Len1  0.221414 Az2  229.801 Dip2  -62.3871 Len2  0.419681 Len3  1.072729e+00
+STAT_GEOG  ExpectLat 9818.414140 Long 737.838813 Depth 1.090320
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 18  usedPhCt 18  assocStaCt -1  usedStaCt 9  depthPhCt -1  stdErr 0.044311  azGap 269.766  secAzGap 269.766  gtLevel -  minDist 0.963082 maxDist 3.91652 medDist 2.57755
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.197295  maxHorUnc 0.811955  azMaxHorUnc 88.1906
+QML_ConfidenceEllipsoid  semiMajorAxisLength 1.07273  semiMinorAxisLength 0.221414  semiIntermediateAxisLength 0.419681  majorAxisPlunge -22.0668  majorAxisAzimuth 88.9956  majorAxisRotation 203.114
+FOCALMECH  Hyp  9818.418155 737.647321 1.160511 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015726.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m48"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 1.206477e-02 scatter_volume 1.197900e-02
+HYPOCENTER  x 737.528 y 9818.51 z 0.862216  OT 25.5641  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 57 25.564051  Lat 9818.507440 Long 737.528274 Depth 0.862216
+QUALITY  Pmax 2.51883e+85 MFmin 88.218 MFmax 103.89 RMS 0.0250566 Nphs 24 Gap 261.921 Dist 0.991291 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.77167  Npair 12  Diff 0.574404
+STATISTICS  ExpectX 737.535452 Y 9818.487992 Z 0.841300  CovXX 0.0079483 XY -0.000843574 XZ -0.000207714 YY 0.00954217 YZ -0.000220205 ZZ 0.0106461 EllAz1  66.4213 Dip1  5.1553 Len1  0.163357 Az2  155.638 Dip2  -8.61469 Len2  0.186823 Len3  1.942507e-01
+STAT_GEOG  ExpectLat 9818.487992 Long 737.535452 Depth 0.841300
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 24  usedPhCt 24  assocStaCt -1  usedStaCt 12  depthPhCt -1  stdErr 0.0250566  azGap 261.921  secAzGap 261.921  gtLevel -  minDist 0.991291 maxDist 4.91927 medDist 2.76169
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.132079  maxHorUnc 0.150941  azMaxHorUnc 156.686
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.194251  semiMinorAxisLength 0.163357  semiIntermediateAxisLength 0.186823  majorAxisPlunge -79.9404  majorAxisAzimuth 6.98995  majorAxisRotation 327.427
+FOCALMECH  Hyp  9818.507440 737.528274 0.862216 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015729.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m48"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 2.657035e-02 scatter_volume 2.657035e-02
+HYPOCENTER  x 737.96 y 9818.63 z 0.74858  OT 28.8959  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 57 28.895898  Lat 9818.626488 Long 737.959821 Depth 0.748580
+QUALITY  Pmax 1.36449e+36 MFmin 47.9807 MFmax 67.2875 RMS 0.0229734 Nphs 12 Gap 264.246 Dist 0.602683 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.70984  Npair 6  Diff 0.194721
+STATISTICS  ExpectX 738.094761 Y 9818.804988 Z 0.819440  CovXX 0.0456819 XY 0.0254594 XZ 0.00414441 YY 0.0369231 YZ 2.69582e-05 ZZ 0.0160968 EllAz1  316.777 Dip1  42.5855 Len1  0.214467 Az2  323.923 Dip2  -47.1918 Len2  0.254422 Len3  4.875357e-01
+STAT_GEOG  ExpectLat 9818.804988 Long 738.094761 Depth 0.819440
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 12  usedPhCt 12  assocStaCt -1  usedStaCt 6  depthPhCt -1  stdErr 0.0229734  azGap 264.246  secAzGap 264.246  gtLevel -  minDist 0.602683 maxDist 3.01755 medDist 1.75065
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.188624  maxHorUnc 0.392954  azMaxHorUnc 49.8801
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.487536  semiMinorAxisLength 0.214467  semiIntermediateAxisLength 0.254422  majorAxisPlunge 3.56815  majorAxisAzimuth 50.0627  majorAxisRotation 137.09
+FOCALMECH  Hyp  9818.626488 737.959821 0.748580 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015738.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m48"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20027 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 1.385411e-02 scatter_volume 1.384401e-02
+HYPOCENTER  x 737.618 y 9818.69 z 0.663352  OT 37.6251  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 57 37.625095  Lat 9818.686012 Long 737.617560 Depth 0.663352
+QUALITY  Pmax 6.36904e+51 MFmin 61.8521 MFmax 80.7565 RMS 0.0205425 Nphs 16 Gap 247.101 Dist 0.815613 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.67085  Npair 8  Diff 0.654205
+STATISTICS  ExpectX 737.675880 Y 9818.726484 Z 0.583957  CovXX 0.0117602 XY 0.00400965 XZ -0.0105369 YY 0.0143763 YZ -0.0159524 ZZ 0.0450524 EllAz1  18.7699 Dip1  26.191 Len1  0.162187 Az2  291.787 Dip2  -6.10719 Len2  0.17768 Len3  4.397974e-01
+STAT_GEOG  ExpectLat 9818.726484 Long 737.675880 Depth 0.583957
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 16  usedPhCt 16  assocStaCt -1  usedStaCt 8  depthPhCt -1  stdErr 0.0205425  azGap 247.101  secAzGap 247.101  gtLevel -  minDist 0.815613 maxDist 4.75601 medDist 2.15406
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.142676  maxHorUnc 0.199393  azMaxHorUnc 35.9664
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.439797  semiMinorAxisLength 0.162187  semiIntermediateAxisLength 0.17768  majorAxisPlunge -62.999  majorAxisAzimuth 33.908  majorAxisRotation 261.936
+FOCALMECH  Hyp  9818.686012 737.617560 0.663352 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015746.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m49"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 1.614117e-02 scatter_volume 1.614117e-02
+HYPOCENTER  x 737.618 y 9818.08 z 1.60085  OT 45.3887  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 57 45.388731  Lat 9818.075893 Long 737.617560 Depth 1.600852
+QUALITY  Pmax 1.12736e+79 MFmin 74.8328 MFmax 81.6604 RMS 0.0170101 Nphs 22 Gap 288.874 Dist 1.25035 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.64235  Npair 11  Diff 0.5751
+STATISTICS  ExpectX 737.616579 Y 9818.072919 Z 1.604454  CovXX 0.0135317 XY 0.00142783 XZ 0.00222986 YY 0.00936002 YZ -0.000441812 ZZ 0.0124247 EllAz1  155.578 Dip1  -18.8504 Len1  0.173688 Az2  222.893 Dip2  48.4833 Len2  0.20032 Len3  2.331770e-01
+STAT_GEOG  ExpectLat 9818.072919 Long 737.616579 Depth 1.604454
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 22  usedPhCt 22  assocStaCt -1  usedStaCt 11  depthPhCt -1  stdErr 0.0170101  azGap 288.874  secAzGap 288.874  gtLevel -  minDist 1.25035 maxDist 5.35907 medDist 2.9211
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.143219  maxHorUnc 0.179274  azMaxHorUnc 72.8034
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.233177  semiMinorAxisLength 0.173688  semiIntermediateAxisLength 0.20032  majorAxisPlunge 35.3633  majorAxisAzimuth 79.6  majorAxisRotation 307.414
+FOCALMECH  Hyp  9818.075893 737.617560 1.600852 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015804.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m50"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 1.362263e-02 scatter_volume 1.350949e-02
+HYPOCENTER  x 738.436 y 9819.01 z 1.03267  OT 3.48741  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 58 3.487408  Lat 9819.013393 Long 738.436012 Depth 1.032670
+QUALITY  Pmax 7.32439e+29 MFmin 38.4313 MFmax 50.8972 RMS 0.00833538 Nphs 10 Gap 308.225 Dist 0.163136 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.6762  Npair 5  Diff 0.238419
+STATISTICS  ExpectX 738.433201 Y 9819.000241 Z 1.046688  CovXX 0.0267911 XY 0.00291135 XZ -0.00158029 YY 0.0069097 YZ -0.000826995 ZZ 0.0101202 EllAz1  352.604 Dip1  9.3968 Len1  0.150233 Az2  321.396 Dip2  -79.0491 Len2  0.188394 Len3  3.108466e-01
+STAT_GEOG  ExpectLat 9819.000241 Long 738.433201 Depth 1.046688
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.00833538  azGap 308.225  secAzGap 308.225  gtLevel -  minDist 0.163136 maxDist 3.75918 medDist 1.47693
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.122196  maxHorUnc 0.25016  azMaxHorUnc 81.8381
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.310847  semiMinorAxisLength 0.150233  semiIntermediateAxisLength 0.188394  majorAxisPlunge -5.57274  majorAxisAzimuth 81.679  majorAxisRotation 170.38
+FOCALMECH  Hyp  9819.013393 738.436012 1.032670 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015852.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m50"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20019 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 1.282001e-01 scatter_volume 1.280085e-01
+HYPOCENTER  x 736.688 y 9818.46 z 1.30966  OT 51.2984  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 58 51.298422  Lat 9818.455357 Long 736.687500 Depth 1.309659
+QUALITY  Pmax 4.2791e+20 MFmin 27.8467 MFmax 35.628 RMS 0.0109689 Nphs 8 Gap 285.558 Dist 1.75222 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.79436  Npair 4  Diff 0.406597
+STATISTICS  ExpectX 737.219190 Y 9818.127970 Z 0.955453  CovXX 0.613686 XY -0.178397 XZ -0.0601093 YY 0.228084 YZ 0.277082 ZZ 0.507593 EllAz1  14.0084 Dip1  -28.0904 Len1  0.33163 Az2  256.262 Dip2  -41.0975 Len2  1.34974 Len3  1.682695e+00
+STAT_GEOG  ExpectLat 9818.127970 Long 737.219190 Depth 0.955453
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.0109689  azGap 285.558  secAzGap 285.558  gtLevel -  minDist 1.75222 maxDist 3.65205 medDist 2.24162
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.603228  maxHorUnc 1.25387  azMaxHorUnc 111.389
+QML_ConfidenceEllipsoid  semiMajorAxisLength 1.68269  semiMinorAxisLength 0.33163  semiIntermediateAxisLength 1.34974  majorAxisPlunge -36.0419  majorAxisAzimuth 126.862  majorAxisRotation 246.759
+FOCALMECH  Hyp  9818.455357 736.687500 1.309659 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.015905.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m50"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20019 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 3.072275e-02 scatter_volume 3.057855e-02
+HYPOCENTER  x 737.692 y 9818.43 z 1.71449  OT 4.92614  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  01 59 4.926138  Lat 9818.433036 Long 737.691964 Depth 1.714489
+QUALITY  Pmax 3.54279e+39 MFmin 48.1063 MFmax 55.0048 RMS 0.0301996 Nphs 14 Gap 269.522 Dist 0.921833 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.71231  Npair 7  Diff 0.989082
+STATISTICS  ExpectX 737.732531 Y 9818.375953 Z 1.648896  CovXX 0.0169652 XY -0.0130085 XZ -0.0116845 YY 0.0440084 YZ 0.0187329 ZZ 0.0315828 EllAz1  80.9143 Dip1  21.8152 Len1  0.189272 Az2  197.068 Dip2  47.7575 Len2  0.2551 Len3  4.752094e-01
+STAT_GEOG  ExpectLat 9818.375953 Long 737.732531 Depth 1.648896
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 14  usedPhCt 14  assocStaCt -1  usedStaCt 7  depthPhCt -1  stdErr 0.0301996  azGap 269.522  secAzGap 269.522  gtLevel -  minDist 0.921833 maxDist 5.01777 medDist 2.19813
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.164209  maxHorUnc 0.336563  azMaxHorUnc 158.054
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.475209  semiMinorAxisLength 0.189272  semiIntermediateAxisLength 0.2551  majorAxisPlunge -34.0713  majorAxisAzimuth 155.207  majorAxisRotation 126.563
+FOCALMECH  Hyp  9818.433036 737.691964 1.714489 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.020018.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m51"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 1.343881e-01 scatter_volume 1.333081e-01
+HYPOCENTER  x 740.08 y 9818.19 z 1.05398  OT 18.2959  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 00 18.295900  Lat 9818.187500 Long 740.080357 Depth 1.053977
+QUALITY  Pmax 6.60879e+20 MFmin 27.2671 MFmax 38.9899 RMS 0.0042451 Nphs 8 Gap 332.72 Dist 1.99953 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.66639  Npair 4  Diff 0.32218
+STATISTICS  ExpectX 739.414880 Y 9818.316574 Z 0.668474  CovXX 2.7353 XY -0.526177 XZ 1.20465 YY 0.159769 YZ -0.329441 ZZ 0.870728 EllAz1  183.212 Dip1  -17.2328 Len1  0.313801 Az2  243.223 Dip2  58.1774 Len2  1.02119 Len3  3.485968e+00
+STAT_GEOG  ExpectLat 9818.316574 Long 739.414880 Depth 0.668474
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.0042451  azGap 332.72  secAzGap 332.72  gtLevel -  minDist 1.99953 maxDist 3.55792 medDist 2.964
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.360229  maxHorUnc 2.55517  azMaxHorUnc 101.112
+QML_ConfidenceEllipsoid  semiMajorAxisLength 3.48597  semiMinorAxisLength 0.313801  semiIntermediateAxisLength 1.02119  majorAxisPlunge 25.8615  majorAxisAzimuth 101.86  majorAxisRotation 330.627
+FOCALMECH  Hyp  9818.187500 740.080357 1.053977 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.020050.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m51"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 3.583109e-02 scatter_volume 3.552296e-02
+HYPOCENTER  x 738.109 y 9818.61 z 0.890625  OT 50.3378  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 00 50.337809  Lat 9818.611607 Long 738.108631 Depth 0.890625
+QUALITY  Pmax 2.96301e+45 MFmin 51.444 MFmax 61.0081 RMS 0.0157535 Nphs 14 Gap 310.316 Dist 0.544033 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.666  Npair 7  Diff 0.532562
+STATISTICS  ExpectX 738.248490 Y 9818.612317 Z 1.001051  CovXX 0.0591088 XY 0.00896954 XZ 0.0291006 YY 0.0135853 YZ -0.000965781 ZZ 0.0318047 EllAz1  149.004 Dip1  -33.0124 Len1  0.162327 Az2  204.857 Dip2  40.8252 Len2  0.256652 Len3  5.259851e-01
+STAT_GEOG  ExpectLat 9818.612317 Long 738.248490 Depth 1.001051
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 14  usedPhCt 14  assocStaCt -1  usedStaCt 7  depthPhCt -1  stdErr 0.0157535  azGap 310.316  secAzGap 310.316  gtLevel -  minDist 0.544033 maxDist 4.9312 medDist 2.38419
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.165312  maxHorUnc 0.37399  azMaxHorUnc 79.2463
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.525985  semiMinorAxisLength 0.162327  semiIntermediateAxisLength 0.256652  majorAxisPlunge 31.678  majorAxisAzimuth 82.64  majorAxisRotation 298.285
+FOCALMECH  Hyp  9818.611607 738.108631 0.890625 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.020117.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m52"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 2.311370e-02 scatter_volume 2.304315e-02
+HYPOCENTER  x 737.811 y 9818.33 z 0.975852  OT 17.1505  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 01 17.150517  Lat 9818.328869 Long 737.811012 Depth 0.975852
+QUALITY  Pmax 4.24035e+67 MFmin 71.8868 MFmax 78.7523 RMS 0.0289258 Nphs 20 Gap 279.242 Dist 0.932813 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.80452  Npair 10  Diff 0.662008
+STATISTICS  ExpectX 737.922698 Y 9818.243312 Z 0.873483  CovXX 0.0208509 XY -0.00869289 XZ -0.0105804 YY 0.0156192 YZ 0.00404714 ZZ 0.0238597 EllAz1  47.0573 Dip1  17.6331 Len1  0.16979 Az2  334.881 Dip2  -43.9197 Len2  0.233084 Len3  3.602877e-01
+STAT_GEOG  ExpectLat 9818.243312 Long 737.922698 Depth 0.873483
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 20  usedPhCt 20  assocStaCt -1  usedStaCt 10  depthPhCt -1  stdErr 0.0289258  azGap 279.242  secAzGap 279.242  gtLevel -  minDist 0.932813 maxDist 5.14136 medDist 2.96549
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.145125  maxHorUnc 0.250639  azMaxHorUnc 126.626
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.360288  semiMinorAxisLength 0.16979  semiIntermediateAxisLength 0.233084  majorAxisPlunge -40.8076  majorAxisAzimuth 121.129  majorAxisRotation 108.465
+FOCALMECH  Hyp  9818.328869 737.811012 0.975852 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.020130.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m52"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 8.429576e-02 scatter_volume 8.359070e-02
+HYPOCENTER  x 737.818 y 9817.71 z 0.372159  OT 29.5635  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 01 29.563494  Lat 9817.711310 Long 737.818452 Depth 0.372159
+QUALITY  Pmax 1.18308e+48 MFmin 55.0509 MFmax 68.5834 RMS 0.0470847 Nphs 16 Gap 321.175 Dist 1.48916 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.8029  Npair 8  Diff 0.602263
+STATISTICS  ExpectX 738.171646 Y 9817.813690 Z 0.508799  CovXX 0.417133 XY 0.0562884 XZ 0.14653 YY 0.0454493 YZ 0.0267795 ZZ 0.149001 EllAz1  173.564 Dip1  5.18059 Len1  0.359718 Az2  275.206 Dip2  65.8054 Len2  0.546245 Len3  1.315717e+00
+STAT_GEOG  ExpectLat 9817.813690 Long 738.171646 Depth 0.508799
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 16  usedPhCt 16  assocStaCt -1  usedStaCt 8  depthPhCt -1  stdErr 0.0470847  azGap 321.175  secAzGap 321.175  gtLevel -  minDist 1.48916 maxDist 5.75049 medDist 3.57859
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.29216  maxHorUnc 0.989233  azMaxHorUnc 81.5747
+QML_ConfidenceEllipsoid  semiMajorAxisLength 1.31572  semiMinorAxisLength 0.359718  semiIntermediateAxisLength 0.546245  majorAxisPlunge 23.5636  majorAxisAzimuth 81.2979  majorAxisRotation 8.27815
+FOCALMECH  Hyp  9817.711310 737.818452 0.372159 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.020137.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m53"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.007440/0.007440/0.007102 oct_tree_integral 1.014936e-02 scatter_volume 1.012557e-02
+HYPOCENTER  x 737.964 y 9818.56 z 0.972301  OT 36.9794  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 01 36.979411  Lat 9818.555804 Long 737.963542 Depth 0.972301
+QUALITY  Pmax 2.54256e+66 MFmin 73.1783 MFmax 89.9441 RMS 0.0367535 Nphs 20 Gap 270.199 Dist 0.659526 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.85586  Npair 10  Diff 0.586838
+STATISTICS  ExpectX 738.018731 Y 9818.541196 Z 0.953582  CovXX 0.0358916 XY -0.00168264 XZ -0.00910838 YY 0.00804125 YZ 0.00199322 ZZ 0.021292 EllAz1  0.891452 Dip1  -7.78026 Len1  0.165323 Az2  255.391 Dip2  -62.9206 Len2  0.245277 Len3  3.778243e-01
+STAT_GEOG  ExpectLat 9818.541196 Long 738.018731 Depth 0.953582
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 20  usedPhCt 20  assocStaCt -1  usedStaCt 10  depthPhCt -1  stdErr 0.0367535  azGap 270.199  secAzGap 270.199  gtLevel -  minDist 0.659526 maxDist 4.9506 medDist 2.75869
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.135137  maxHorUnc 0.287721  azMaxHorUnc 93.445
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.377824  semiMinorAxisLength 0.165323  semiIntermediateAxisLength 0.245277  majorAxisPlunge -25.7617  majorAxisAzimuth 94.6722  majorAxisRotation 193.732
+FOCALMECH  Hyp  9818.555804 737.963542 0.972301 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.020155.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m53"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 4.101562e-02 scatter_volume 4.101562e-02
+HYPOCENTER  x 738.243 y 9818.14 z -1.45312  OT 54.4651  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 01 54.465101  Lat 9818.135417 Long 738.242560 Depth -1.453125
+QUALITY  Pmax 1.17813e+27 MFmin 42.2363 MFmax 53.9423 RMS 0.0176233 Nphs 10 Gap 327.958 Dist 0.983897 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.76938  Npair 5  Diff 0.569382
+STATISTICS  ExpectX 739.206363 Y 9818.752860 Z -0.773687  CovXX 0.910616 XY 0.528719 XZ 0.526076 YY 0.33965 YZ 0.37346 ZZ 0.697027 EllAz1  153.784 Dip1  8.57721 Len1  0.241421 Az2  256.124 Dip2  54.7882 Len2  0.982368 Len3  2.418803e+00
+STAT_GEOG  ExpectLat 9818.752860 Long 739.206363 Depth -0.773687
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.0176233  azGap 327.958  secAzGap 327.958  gtLevel -  minDist 0.983897 maxDist 4.41477 medDist 2.36526
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.236229  maxHorUnc 1.67923  azMaxHorUnc 59.1835
+QML_ConfidenceEllipsoid  semiMajorAxisLength 2.4188  semiMinorAxisLength 0.241421  semiIntermediateAxisLength 0.982368  majorAxisPlunge 33.8471  majorAxisAzimuth 57.9781  majorAxisRotation 25.6851
+FOCALMECH  Hyp  9818.135417 738.242560 -1.453125 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.020220.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m54"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 1.808411e-02 scatter_volume 1.787279e-02
+HYPOCENTER  x 737.588 y 9818.63 z 0.947443  OT 19.4031  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 02 19.403085  Lat 9818.626488 Long 737.587798 Depth 0.947443
+QUALITY  Pmax 1.26695e+71 MFmin 74.1876 MFmax 87.2664 RMS 0.0197856 Nphs 20 Gap 252.378 Dist 0.873028 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.74883  Npair 10  Diff 0.584499
+STATISTICS  ExpectX 737.580560 Y 9818.610113 Z 0.930630  CovXX 0.0157954 XY 0.00260612 XZ 0.00462776 YY 0.00959168 YZ -0.00250102 ZZ 0.0125725 EllAz1  147.23 Dip1  -34.5055 Len1  0.143941 Az2  205.209 Dip2  37.6441 Len2  0.213813 Len3  2.599273e-01
+STAT_GEOG  ExpectLat 9818.610113 Long 737.580560 Depth 0.930630
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 20  usedPhCt 20  assocStaCt -1  usedStaCt 10  depthPhCt -1  stdErr 0.0197856  azGap 252.378  secAzGap 252.378  gtLevel -  minDist 0.873028 maxDist 4.81012 medDist 2.65285
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.140986  maxHorUnc 0.196248  azMaxHorUnc 69.9819
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.259927  semiMinorAxisLength 0.143941  semiIntermediateAxisLength 0.213813  majorAxisPlunge 33.5894  majorAxisAzimuth 84.3943  majorAxisRotation 292.693
+FOCALMECH  Hyp  9818.626488 737.587798 0.947443 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.020333.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m54"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 7.516928e-02 scatter_volume 7.496873e-02
+HYPOCENTER  x 740.586 y 9819.02 z -0.338068  OT 32.545  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 03 32.545021  Lat 9819.020833 Long 740.586310 Depth -0.338068
+QUALITY  Pmax 2.5435e+21 MFmin 28.9669 MFmax 39.9989 RMS 0.00543118 Nphs 8 Gap 326.428 Dist 2.27834 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.78413  Npair 4  Diff 0.19717
+STATISTICS  ExpectX 740.349920 Y 9819.049428 Z -0.567591  CovXX 0.925939 XY -0.0168399 XZ -0.606521 YY 0.0309056 YZ 0.000801215 ZZ 0.713959 EllAz1  2.58128 Dip1  2.22067 Len1  0.326384 Az2  275.218 Dip2  -49.8756 Len2  0.850338 Len3  2.251296e+00
+STAT_GEOG  ExpectLat 9819.049428 Long 740.349920 Depth -0.567591
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.00543118  azGap 326.428  secAzGap 326.428  gtLevel -  minDist 2.27834 maxDist 4.00786 medDist 2.96054
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.265244  maxHorUnc 1.45958  azMaxHorUnc 91.0775
+QML_ConfidenceEllipsoid  semiMajorAxisLength 2.2513  semiMinorAxisLength 0.326384  semiIntermediateAxisLength 0.850338  majorAxisPlunge -40.0371  majorAxisAzimuth 90.7142  majorAxisRotation 163.618
+FOCALMECH  Hyp  9819.020833 740.586310 -0.338068 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.020517.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m55"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20019 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 3.131609e-02 scatter_volume 3.131609e-02
+HYPOCENTER  x 737.945 y 9817.76 z 1.14631  OT 16.3006  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 05 16.300642  Lat 9817.763393 Long 737.944940 Depth 1.146307
+QUALITY  Pmax 9.40755e+42 MFmin 48.8979 MFmax 57.3435 RMS 0.0198244 Nphs 14 Gap 305.534 Dist 1.40197 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.86072  Npair 7  Diff 0.545582
+STATISTICS  ExpectX 738.015216 Y 9817.792116 Z 1.162123  CovXX 0.0410776 XY 0.0103378 XZ 0.00264427 YY 0.025713 YZ 0.00217051 ZZ 0.016934 EllAz1  184.646 Dip1  77.8679 Len1  0.240776 Az2  331.958 Dip2  10.2551 Len2  0.27 Len3  4.058019e-01
+STAT_GEOG  ExpectLat 9817.792116 Long 738.015216 Depth 1.162123
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 14  usedPhCt 14  assocStaCt -1  usedStaCt 7  depthPhCt -1  stdErr 0.0198244  azGap 305.534  secAzGap 305.534  gtLevel -  minDist 1.40197 maxDist 4.63442 medDist 2.77614
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.217223  maxHorUnc 0.32624  azMaxHorUnc 63.3085
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.405802  semiMinorAxisLength 0.240776  semiIntermediateAxisLength 0.27  majorAxisPlunge 6.41269  majorAxisAzimuth 63.1234  majorAxisRotation 79.9317
+FOCALMECH  Hyp  9817.763393 737.944940 1.146307 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.021157.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m55"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20019 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 3.623317e-02 scatter_volume 3.623317e-02
+HYPOCENTER  x 737.588 y 9819.44 z 0.40767  OT 56.618  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 11 56.618002  Lat 9819.444940 Long 737.587798 Depth 0.407670
+QUALITY  Pmax 1.14113e+21 MFmin 33.5925 MFmax 44.6832 RMS 0.00595586 Nphs 8 Gap 218.965 Dist 0.793172 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.74368  Npair 4  Diff 0.348339
+STATISTICS  ExpectX 738.401920 Y 9819.587218 Z 0.643006  CovXX 0.634807 XY 0.105815 XZ 0.00132456 YY 0.175551 YZ -0.0999018 ZZ 0.143463 EllAz1  349.617 Dip1  46.3787 Len1  0.418386 Az2  344.976 Dip2  -43.5274 Len2  0.930738 Len3  1.525014e+00
+STAT_GEOG  ExpectLat 9819.587218 Long 738.401920 Depth 0.643006
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.00595586  azGap 218.965  secAzGap 218.965  gtLevel -  minDist 0.793172 maxDist 2.95068 medDist 1.46681
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.591937  maxHorUnc 1.23022  azMaxHorUnc 77.6296
+QML_ConfidenceEllipsoid  semiMajorAxisLength 1.52501  semiMinorAxisLength 0.418386  semiIntermediateAxisLength 0.930738  majorAxisPlunge -2.31934  majorAxisAzimuth 77.1812  majorAxisRotation 133.478
+FOCALMECH  Hyp  9819.444940 737.587798 0.407670 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.025714.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m56"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 1.716543e-02 scatter_volume 1.704313e-02
+HYPOCENTER  x 737.632 y 9818.52 z 1.33097  OT 14.1581  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 57 14.158108  Lat 9818.522321 Long 737.632440 Depth 1.330966
+QUALITY  Pmax 1.68004e+56 MFmin 64.3171 MFmax 70.6956 RMS 0.039691 Nphs 18 Gap 261.751 Dist 0.901515 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.66828  Npair 9  Diff 0.589066
+STATISTICS  ExpectX 737.650250 Y 9818.524292 Z 1.327095  CovXX 0.0143192 XY 0.00467688 XZ 0.000230435 YY 0.0127723 YZ -0.00463326 ZZ 0.0128922 EllAz1  328.354 Dip1  32.2673 Len1  0.150933 Az2  279.028 Dip2  -45.9103 Len2  0.220848 Len3  2.637945e-01
+STAT_GEOG  ExpectLat 9818.524292 Long 737.650250 Depth 1.327095
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 18  usedPhCt 18  assocStaCt -1  usedStaCt 9  depthPhCt -1  stdErr 0.039691  azGap 261.751  secAzGap 261.751  gtLevel -  minDist 0.901515 maxDist 4.91997 medDist 2.47529
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.14231  maxHorUnc 0.205081  azMaxHorUnc 49.6953
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.263794  semiMinorAxisLength 0.150933  semiIntermediateAxisLength 0.220848  majorAxisPlunge -26.5004  majorAxisAzimuth 40.005  majorAxisRotation 128.995
+FOCALMECH  Hyp  9818.522321 737.632440 1.330966 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.025730.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m57"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 2.977116e-02 scatter_volume 2.947721e-02
+HYPOCENTER  x 737.9 y 9818.52 z 1.06108  OT 29.3738  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 57 29.373825  Lat 9818.522321 Long 737.900298 Depth 1.061080
+QUALITY  Pmax 6.07306e+43 MFmin 51.3417 MFmax 62.4672 RMS 0.0195454 Nphs 14 Gap 300.781 Dist 0.722149 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.74706  Npair 7  Diff 0.450306
+STATISTICS  ExpectX 737.923386 Y 9818.508388 Z 1.066427  CovXX 0.0516091 XY 0.0074997 XZ 0.00878071 YY 0.0137631 YZ 0.00117693 ZZ 0.0145331 EllAz1  160.108 Dip1  -36.2391 Len1  0.205531 Az2  5.03718 Dip2  -51.0535 Len2  0.213909 Len3  4.405285e-01
+STAT_GEOG  ExpectLat 9818.508388 Long 737.923386 Depth 1.066427
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 14  usedPhCt 14  assocStaCt -1  usedStaCt 7  depthPhCt -1  stdErr 0.0195454  azGap 300.781  secAzGap 300.781  gtLevel -  minDist 0.722149 maxDist 3.91783 medDist 2.46275
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.168409  maxHorUnc 0.349277  azMaxHorUnc 79.1901
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.440529  semiMinorAxisLength 0.205531  semiIntermediateAxisLength 0.213909  majorAxisPlunge 12.339  majorAxisAzimuth 79.3343  majorAxisRotation 320.088
+FOCALMECH  Hyp  9818.522321 737.900298 1.061080 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.025754.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m57"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 3.664077e-02 scatter_volume 3.662544e-02
+HYPOCENTER  x 738.57 y 9818.69 z 1.30256  OT 54.1067  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 57 54.106710  Lat 9818.686012 Long 738.569940 Depth 1.302557
+QUALITY  Pmax 3.69115e+28 MFmin 35.5538 MFmax 42.8637 RMS 0.0111602 Nphs 10 Gap 329.12 Dist 0.503309 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.68897  Npair 5  Diff 0.528278
+STATISTICS  ExpectX 738.585895 Y 9818.683560 Z 1.283725  CovXX 0.103223 XY 0.0245527 XZ -0.000385341 YY 0.0212929 YZ -0.00358675 ZZ 0.0233255 EllAz1  164.797 Dip1  -18.6449 Len1  0.21722 Az2  341.899 Dip2  -71.3329 Len2  0.293704 Len3  6.232438e-01
+STAT_GEOG  ExpectLat 9818.683560 Long 738.585895 Depth 1.283725
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.0111602  azGap 329.12  secAzGap 329.12  gtLevel -  minDist 0.503309 maxDist 4.10459 medDist 2.39971
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.18261  maxHorUnc 0.503031  azMaxHorUnc 74.5316
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.623244  semiMinorAxisLength 0.21722  semiIntermediateAxisLength 0.293704  majorAxisPlunge -0.878607  majorAxisAzimuth 74.5008  majorAxisRotation 341.345
+FOCALMECH  Hyp  9818.686012 738.569940 1.302557 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.025802.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m58"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 1.259310e-02 scatter_volume 1.259310e-02
+HYPOCENTER  x 738.391 y 9819.43 z 0.137784  OT 2.0766  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 58 2.076602  Lat 9819.430060 Long 738.391369 Depth 0.137784
+QUALITY  Pmax 1.14594e+23 MFmin 38.3982 MFmax 54.5638 RMS 0.00551681 Nphs 8 Gap 190.488 Dist 0.323461 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.72942  Npair 4  Diff 0.173517
+STATISTICS  ExpectX 739.009953 Y 9819.112647 Z -0.818721  CovXX 0.451761 XY 0.0922641 XZ -0.20925 YY 0.0869103 YZ 0.0796769 ZZ 0.480364 EllAz1  338.85 Dip1  -18.1443 Len1  0.286295 Az2  234.259 Dip2  -37.5512 Len2  1.06278 Len3  1.544578e+00
+STAT_GEOG  ExpectLat 9819.112647 Long 739.009953 Depth -0.818721
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.00551681  azGap 190.488  secAzGap 190.488  gtLevel -  minDist 0.323461 maxDist 1.63624 medDist 1.04131
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.386371  maxHorUnc 1.04387  azMaxHorUnc 76.5857
+QML_ConfidenceEllipsoid  semiMajorAxisLength 1.54458  semiMinorAxisLength 0.286295  semiIntermediateAxisLength 1.06278  majorAxisPlunge -46.81  majorAxisAzimuth 89.282  majorAxisRotation 97.0443
+FOCALMECH  Hyp  9819.430060 738.391369 0.137784 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.025818.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m58"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20027 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 6.945333e-02 scatter_volume 6.945333e-02
+HYPOCENTER  x 738.972 y 9818.49 z -1.55256  OT 17.9582  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 58 17.958219  Lat 9818.492560 Long 738.971726 Depth -1.552557
+QUALITY  Pmax 2.26174e+54 MFmin 72.7676 MFmax 86.5295 RMS 0.0389855 Nphs 18 Gap 302.202 Dist 0.909839 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.5429  Npair 9  Diff 0.587214
+STATISTICS  ExpectX 739.148948 Y 9818.379833 Z -1.492776  CovXX 0.0436434 XY -0.0159903 XZ 0.000111224 YY 0.0192455 YZ -0.0103961 ZZ 0.113207 EllAz1  205.734 Dip1  -5.18281 Len1  0.192444 Az2  295.352 Dip2  4.1993 Len2  0.425175 Len3  6.354602e-01
+STAT_GEOG  ExpectLat 9818.379833 Long 739.148948 Depth -1.492776
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 18  usedPhCt 18  assocStaCt -1  usedStaCt 9  depthPhCt -1  stdErr 0.0389855  azGap 302.202  secAzGap 302.202  gtLevel -  minDist 0.909839 maxDist 4.4958 medDist 2.72025
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.161444  maxHorUnc 0.344355  azMaxHorUnc 116.33
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.63546  semiMinorAxisLength 0.192444  semiIntermediateAxisLength 0.425175  majorAxisPlunge 83.3222  majorAxisAzimuth 166.514  majorAxisRotation 51.7374
+FOCALMECH  Hyp  9818.492560 738.971726 -1.552557 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.025841.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m59"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 4.713226e-01 scatter_volume 4.699503e-01
+HYPOCENTER  x 738.473 y 9818.22 z 0.571023  OT 41.3708  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 58 41.370848  Lat 9818.217262 Long 738.473214 Depth 0.571023
+QUALITY  Pmax 7.21662e+20 MFmin 29.508 MFmax 36.1453 RMS 0.0222894 Nphs 8 Gap 348.099 Dist 0.914422 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2.06612  Npair 4  Diff 0.420906
+STATISTICS  ExpectX 739.148623 Y 9818.062207 Z 0.254804  CovXX 1.00823 XY 0.0463266 XZ -0.405536 YY 0.0516633 YZ -0.0335449 ZZ 0.582441 EllAz1  358.168 Dip1  2.2068 Len1  0.415421 Az2  271.813 Dip2  -58.7779 Len2  1.09133 Len3  2.105676e+00
+STAT_GEOG  ExpectLat 9818.062207 Long 739.148623 Depth 0.254804
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.0222894  azGap 348.099  secAzGap 348.099  gtLevel -  minDist 0.914422 maxDist 3.94917 medDist 2.55146
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.337161  maxHorUnc 1.52449  azMaxHorUnc 87.2338
+QML_ConfidenceEllipsoid  semiMajorAxisLength 2.10568  semiMinorAxisLength 0.415421  semiIntermediateAxisLength 1.09133  majorAxisPlunge -31.1262  majorAxisAzimuth 86.8342  majorAxisRotation 174.476
+FOCALMECH  Hyp  9818.217262 738.473214 0.571023 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.025947.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m59"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.014881/0.014881/0.014205 oct_tree_integral 1.543660e-02 scatter_volume 1.530365e-02
+HYPOCENTER  x 738.57 y 9818.37 z 1.06108  OT 47.0102  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  02 59 47.010236  Lat 9818.373512 Long 738.569940 Depth 1.061080
+QUALITY  Pmax 1.19582e+29 MFmin 36.031 MFmax 43.4867 RMS 0.0126027 Nphs 10 Gap 300.409 Dist 0.787619 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.64381  Npair 5  Diff 0.517696
+STATISTICS  ExpectX 738.588520 Y 9818.367370 Z 1.063574  CovXX 0.0198754 XY -0.00364411 XZ -0.00559334 YY 0.0122229 YZ 0.00191966 ZZ 0.0210071 EllAz1  23.1575 Dip1  2.4271 Len1  0.194826 Az2  295.645 Dip2  -45.6791 Len2  0.232182 Len3  3.091869e-01
+STAT_GEOG  ExpectLat 9818.367370 Long 738.588520 Depth 1.063574
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.0126027  azGap 300.409  secAzGap 300.409  gtLevel -  minDist 0.787619 maxDist 4.36674 medDist 2.22677
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.157354  maxHorUnc 0.221509  azMaxHorUnc 111.802
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.309187  semiMinorAxisLength 0.194826  semiIntermediateAxisLength 0.232182  majorAxisPlunge -44.2181  majorAxisAzimuth 110.794  majorAxisRotation 114.752
+FOCALMECH  Hyp  9818.373512 738.569940 1.061080 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230606.224016.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h03m59"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 8.840917e-02 scatter_volume 8.790222e-02
+HYPOCENTER  x 739.336 y 9818.84 z 1.7642  OT 15.802  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 06  22 40 15.801952  Lat 9818.842262 Long 739.336310 Depth 1.764205
+QUALITY  Pmax 1.82822e+28 MFmin 34.1912 MFmax 44.9817 RMS 0.00869342 Nphs 10 Gap 312.802 Dist 1.06245 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.82775  Npair 5  Diff 0.474535
+STATISTICS  ExpectX 738.411335 Y 9818.237049 Z 0.229811  CovXX 1.0554 XY 0.614543 XZ 1.58413 YY 0.442731 YZ 1.04023 ZZ 2.68247 EllAz1  185.765 Dip1  24.2647 Len1  0.343806 Az2  287.741 Dip2  24.7166 Len2  0.573609 Len3  3.782892e+00
+STAT_GEOG  ExpectLat 9818.237049 Long 738.411335 Depth 0.229811
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.00869342  azGap 312.802  secAzGap 312.802  gtLevel -  minDist 1.06245 maxDist 4.46421 medDist 2.13217
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.378852  maxHorUnc 1.81719  azMaxHorUnc 58.2476
+QML_ConfidenceEllipsoid  semiMajorAxisLength 3.78289  semiMinorAxisLength 0.343806  semiIntermediateAxisLength 0.573609  majorAxisPlunge 54.1071  majorAxisAzimuth 57.2382  majorAxisRotation 287.642
+FOCALMECH  Hyp  9818.842262 739.336310 1.764205 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230620.201028.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h04m00"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.059524/0.059524/0.056818 oct_tree_integral 1.127310e+00 scatter_volume 1.127310e+00
+HYPOCENTER  x 740.185 y 9819.36 z 3.76705  OT 27.0136  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 20  20 10 27.013595  Lat 9819.363095 Long 740.184524 Depth 3.767045
+QUALITY  Pmax 7.01717e+25 MFmin 28.3008 MFmax 34.4628 RMS 0.0311621 Nphs 10 Gap 316.601 Dist 1.89061 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.68395  Npair 5  Diff 0.35166
+STATISTICS  ExpectX 740.654833 Y 9819.628954 Z 3.193958  CovXX 0.967366 XY 0.434133 XZ -0.817594 YY 0.552788 YZ -0.443812 ZZ 1.24397 EllAz1  123.362 Dip1  23.8101 Len1  0.938589 Az2  195.068 Dip2  -35.4261 Len2  1.09991 Len3  2.768863e+00
+STAT_GEOG  ExpectLat 9819.628954 Long 740.654833 Depth 3.193958
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.0311621  azGap 316.601  secAzGap 316.601  gtLevel -  minDist 1.89061 maxDist 4.76998 medDist 3.62528
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.801054  maxHorUnc 1.68958  azMaxHorUnc 57.7617
+QML_ConfidenceEllipsoid  semiMajorAxisLength 2.76886  semiMinorAxisLength 0.938589  semiIntermediateAxisLength 1.09991  majorAxisPlunge -45.0586  majorAxisAzimuth 59.6046  majorAxisRotation 270.168
+FOCALMECH  Hyp  9819.363095 740.184524 3.767045 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230621.215416.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h04m00"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.059524/0.059524/0.056818 oct_tree_integral 3.231228e+00 scatter_volume 3.231228e+00
+HYPOCENTER  x 736.494 y 9814.01 z 5.1875  OT 14.8273  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 21  21 54 14.827303  Lat 9814.005952 Long 736.494048 Depth 5.187500
+QUALITY  Pmax 8.6541e+40 MFmin 32.108 MFmax 36.6306 RMS 0.0350303 Nphs 14 Gap 338.823 Dist 5.42407 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.78827  Npair 7  Diff 0.409708
+STATISTICS  ExpectX 736.330811 Y 9814.055566 Z 4.946939  CovXX 1.48953 XY 0.354682 XZ 1.014 YY 0.31839 YZ 0.387239 ZZ 1.1261 EllAz1  190.213 Dip1  30.0109 Len1  0.739747 Az2  305.515 Dip2  36.4983 Len2  1.0539 Len3  2.949435e+00
+STAT_GEOG  ExpectLat 9814.055566 Long 736.330811 Depth 4.946939
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 14  usedPhCt 14  assocStaCt -1  usedStaCt 7  depthPhCt -1  stdErr 0.0350303  azGap 338.823  secAzGap 338.823  gtLevel -  minDist 5.42407 maxDist 9.38088 medDist 7.56602
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.710284  maxHorUnc 1.91147  azMaxHorUnc 74.3982
+QML_ConfidenceEllipsoid  semiMajorAxisLength 2.94944  semiMinorAxisLength 0.739747  semiIntermediateAxisLength 1.0539  majorAxisPlunge 39.0003  majorAxisAzimuth 72.3258  majorAxisRotation 76.1129
+FOCALMECH  Hyp  9814.005952 736.494048 5.187500 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230621.220121.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h04m01"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20011 smallestNodeSide 0.059524/0.059524/0.056818 oct_tree_integral 8.316530e-01 scatter_volume 8.286464e-01
+HYPOCENTER  x 737.327 y 9816.15 z 6.55114  OT 19.8022  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 21  22 01 19.802175  Lat 9816.148810 Long 737.327381 Depth 6.551136
+QUALITY  Pmax 3.78659e+59 MFmin 45.3376 MFmax 48.9958 RMS 0.0347505 Nphs 19 Gap 329.044 Dist 3.12661 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.72847  Npair 9  Diff 0.327595
+STATISTICS  ExpectX 737.359419 Y 9816.114724 Z 6.533374  CovXX 0.407671 XY 0.0518718 XZ 0.0297373 YY 0.141535 YZ 0.0590403 ZZ 0.104123 EllAz1  178.003 Dip1  53.2001 Len1  0.463114 Az2  342.634 Dip2  35.8045 Len2  0.774515 Len3  1.221437e+00
+STAT_GEOG  ExpectLat 9816.114724 Long 737.359419 Depth 6.533374
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 19  usedPhCt 19  assocStaCt -1  usedStaCt 10  depthPhCt -1  stdErr 0.0347505  azGap 329.044  secAzGap 329.044  gtLevel -  minDist 3.12661 maxDist 7.2468 medDist 5.3341
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.550545  maxHorUnc 0.979835  azMaxHorUnc 79.3517
+QML_ConfidenceEllipsoid  semiMajorAxisLength 1.22144  semiMinorAxisLength 0.463114  semiIntermediateAxisLength 0.774515  majorAxisPlunge 7.39783  majorAxisAzimuth 78.0081  majorAxisRotation 54.7633
+FOCALMECH  Hyp  9816.148810 737.327381 6.551136 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230621.222849.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h04m02"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20019 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 2.009699e-01 scatter_volume 2.005613e-01
+HYPOCENTER  x 737.193 y 9816.94 z 4.8892  OT 47.8267  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 21  22 28 47.826652  Lat 9816.937500 Long 737.193452 Depth 4.889205
+QUALITY  Pmax 4.86086e+93 MFmin 69.5674 MFmax 75.5388 RMS 0.0254587 Nphs 26 Gap 319.29 Dist 2.31512 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.78113  Npair 13  Diff 0.290665
+STATISTICS  ExpectX 737.206167 Y 9816.941359 Z 4.900719  CovXX 0.122828 XY 0.0203811 XZ 0.0172027 YY 0.0515906 YZ 0.0179761 ZZ 0.0404177 EllAz1  182.269 Dip1  54.54 Len1  0.309519 Az2  334.64 Dip2  32.2529 Len2  0.43855 Len3  6.857428e-01
+STAT_GEOG  ExpectLat 9816.941359 Long 737.206167 Depth 4.900719
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 26  usedPhCt 26  assocStaCt -1  usedStaCt 13  depthPhCt -1  stdErr 0.0254587  azGap 319.29  secAzGap 319.29  gtLevel -  minDist 2.31512 maxDist 6.45154 medDist 4.10565
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.325876  maxHorUnc 0.543109  azMaxHorUnc 75.1108
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.685743  semiMinorAxisLength 0.309519  semiIntermediateAxisLength 0.43855  majorAxisPlunge 13.1511  majorAxisAzimuth 73.1183  majorAxisRotation 59.5722
+FOCALMECH  Hyp  9816.937500 737.193452 4.889205 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230622.095702.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h04m03"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20003 smallestNodeSide 0.029762/0.029762/0.028409 oct_tree_integral 5.754816e-01 scatter_volume 5.754816e-01
+HYPOCENTER  x 736.896 y 9816.16 z 5.59943  OT 0.386217  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 22  09 57 0.386217  Lat 9816.163690 Long 736.895833 Depth 5.599432
+QUALITY  Pmax 6.94232e+74 MFmin 55.325 MFmax 60.465 RMS 0.0285045 Nphs 22 Gap 328.339 Dist 3.09795 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.74841  Npair 11  Diff 0.294548
+STATISTICS  ExpectX 736.928973 Y 9816.196530 Z 5.585765  CovXX 0.327439 XY 0.10633 XZ 0.0863962 YY 0.134219 YZ 0.0735569 ZZ 0.100805 EllAz1  180.679 Dip1  51.7776 Len1  0.38538 Az2  321.684 Dip2  31.4707 Len2  0.616251 Len3  1.207151e+00
+STAT_GEOG  ExpectLat 9816.196530 Long 736.928973 Depth 5.585765
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 22  usedPhCt 22  assocStaCt -1  usedStaCt 11  depthPhCt -1  stdErr 0.0285045  azGap 328.339  secAzGap 328.339  gtLevel -  minDist 3.09795 maxDist 7.21644 medDist 4.69034
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.447749  maxHorUnc 0.928082  azMaxHorUnc 66.129
+QML_ConfidenceEllipsoid  semiMajorAxisLength 1.20715  semiMinorAxisLength 0.38538  semiIntermediateAxisLength 0.616251  majorAxisPlunge 19.3936  majorAxisAzimuth 64.1279  majorAxisRotation 62.6165
+FOCALMECH  Hyp  9816.163690 736.895833 5.599432 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/SEML.20230627.174700.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo - edelo.17034@mhs.its.ac.id   obs:./obs/2023_06.obs   NLLoc:v7.00.10(30Aug2020)   run:28Dec2023 20h04m03"
+COMMENT "SEML"
+GRID  2001 2001 1001  727 9811 -2  0.01 0.01 0.01 PROB_DENSITY
+SEARCH OCTREE nInitial 4851 nEvaluated 20019 smallestNodeSide 0.007440/0.007440/0.007102 oct_tree_integral 2.107665e-03 scatter_volume 2.107665e-03
+HYPOCENTER  x 737.435 y 9820.41 z -1.29332  OT 0.121354  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2023 06 27  17 47 0.121354  Lat 9820.408482 Long 737.435268 Depth -1.293324
+QUALITY  Pmax 4.05335e+22 MFmin 43.8528 MFmax 43.913 RMS 0.0066685 Nphs 8 Gap 180.815 Dist 1.30678 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.73052  Npair 4  Diff 0.418347
+STATISTICS  ExpectX 737.419915 Y 9820.392665 Z -1.280790  CovXX 0.0103908 XY -0.00359959 XZ -0.0129752 YY 0.0289908 YZ -0.00807711 ZZ 0.0826939 EllAz1  76.7325 Dip1  10.8303 Len1  0.157101 Az2  345.782 Dip2  4.9584 Len2  0.320944 Len3  5.506728e-01
+STAT_GEOG  ExpectLat 9820.392665 Long 737.419915 Depth -1.280790
+TRANSFORM  NONE
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.0066685  azGap 180.815  secAzGap 180.815  gtLevel -  minDist 1.30678 maxDist 2.04235 medDist 1.80109
+QML_OriginUncertainty  horUnc -1  minHorUnc 0.149507  maxHorUnc 0.261199  azMaxHorUnc 169.42
+QML_ConfidenceEllipsoid  semiMajorAxisLength 0.550673  semiMinorAxisLength 0.157101  semiIntermediateAxisLength 0.320944  majorAxisPlunge -78.0635  majorAxisAzimuth 51.5518  majorAxisRotation 292.813
+FOCALMECH  Hyp  9820.408482 737.435268 -1.293324 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+

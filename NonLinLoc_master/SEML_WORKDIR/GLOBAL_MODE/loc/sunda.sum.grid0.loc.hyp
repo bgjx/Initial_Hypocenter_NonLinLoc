@@ -1,0 +1,1273 @@
+NLLOC "./loc/sunda.20150213.161448.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m19"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50021 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 1.431996e+04 scatter_volume 1.431996e+04
+HYPOCENTER  x 105.871 y -6.20536 z 248.958  OT 3.28374  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2015 02 13  16 14 3.283743  Lat -6.205357 Long 105.870536 Depth 248.958333
+QUALITY  Pmax 4.23652e+08 MFmin 4.70596 MFmax 8.2727 RMS 0.266561 Nphs 8 Gap 177.243 Dist 2.36235 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 23.007
+STATISTICS  ExpectX 105.858905 Y -5.757121 Z 149.379267  CovXX 2757.76 XY 3549.84 XZ -761.023 YY 7853.38 YZ -3005.32 ZZ 5937.53 EllAz1  300.484 Dip1  9.63122 Len1  53.7325 Az2  226.811 Dip2  -58.8821 Len2  124.073 Len3  2.003387e+02
+STAT_GEOG  ExpectLat -5.757121 Long 105.858905 Depth 149.379267
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.266561  azGap 177.243  secAzGap 177.243  gtLevel -  minDist 262.682 maxDist 546.953 medDist 385.897
+QML_OriginUncertainty  horUnc -1  minHorUnc 46.3995  maxHorUnc 149.173  azMaxHorUnc 27.166
+QML_ConfidenceEllipsoid  semiMajorAxisLength 200.339  semiMinorAxisLength 53.7325  semiIntermediateAxisLength 124.073  majorAxisPlunge -29.2729  majorAxisAzimuth 25.026  majorAxisRotation 159.468
+FOCALMECH  Hyp  -6.205357 105.870536 248.958333 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20150411.124531.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m19"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 9.928132/6.618755/0.595238 oct_tree_integral 9.931334e+04 scatter_volume 9.931334e+04
+HYPOCENTER  x 104.509 y -6.57738 z 35.4167  OT 40.8294  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2015 04 11  12 44 40.829391  Lat -6.577381 Long 104.508929 Depth 35.416667
+QUALITY  Pmax 930642 MFmin 4.39237 MFmax 10.2786 RMS 1.10322 Nphs 8 Gap 256.125 Dist 3.42963 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 57.689
+STATISTICS  ExpectX 105.275232 Y -6.854540 Z 85.456327  CovXX 41826.8 XY 4195.15 XZ 7861.83 YY 13231.1 YZ 2057.66 ZZ 7549.37 EllAz1  230.859 Dip1  75.6372 Len1  141.292 Az2  349.887 Dip2  7.08276 Len2  212.088 Len3  3.950427e+02
+STAT_GEOG  ExpectLat -6.854540 Long 105.275232 Depth 85.456327
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 1.10322  azGap 256.125  secAzGap 256.125  gtLevel -  minDist 381.358 maxDist 679.403 medDist 533.201
+QML_OriginUncertainty  horUnc -1  minHorUnc 170.427  maxHorUnc 312.391  azMaxHorUnc 81.8238
+QML_ConfidenceEllipsoid  semiMajorAxisLength 395.043  semiMinorAxisLength 141.292  semiIntermediateAxisLength 212.088  majorAxisPlunge 12.4299  majorAxisAzimuth 81.4565  majorAxisRotation 83.4123
+FOCALMECH  Hyp  -6.577381 104.508929 35.416667 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20150413.103013.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m20"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 1.520831e+04 scatter_volume 1.504609e+04
+HYPOCENTER  x 104.442 y -5.87798 z 35.2679  OT 41.0409  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2015 04 13  10 29 41.040918  Lat -5.877976 Long 104.441964 Depth 35.267857
+QUALITY  Pmax 6.02778e+07 MFmin 4.97659 MFmax 8.63988 RMS 0.424545 Nphs 8 Gap 198.915 Dist 2.11728 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 47.852
+STATISTICS  ExpectX 104.462702 Y -5.860403 Z 58.195701  CovXX 1317.11 XY 241.173 XZ 119.891 YY 1325.19 YZ 9.52355 ZZ 1112.32 EllAz1  306.151 Dip1  41.5359 Len1  59.6919 Az2  148.339 Dip2  46.2682 Len2  64.1222 Len3  7.469311e+01
+STAT_GEOG  ExpectLat -5.860403 Long 104.462702 Depth 58.195701
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.424545  azGap 198.915  secAzGap 198.915  gtLevel -  minDist 235.431 maxDist 707.946 medDist 374.829
+QML_OriginUncertainty  horUnc -1  minHorUnc 49.8385  maxHorUnc 59.9452  azMaxHorUnc 44.5202
+QML_ConfidenceEllipsoid  semiMajorAxisLength 74.6931  semiMinorAxisLength 59.6919  semiIntermediateAxisLength 64.1222  majorAxisPlunge 11.269  majorAxisAzimuth 46.318  majorAxisRotation 135.186
+FOCALMECH  Hyp  -5.877976 104.441964 35.267857 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20150805.154231.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m20"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 1.671337e+04 scatter_volume 1.668851e+04
+HYPOCENTER  x 105.156 y -6.71131 z 35.2679  OT 51.2589  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2015 08 05  15 41 51.258888  Lat -6.711310 Long 105.156250 Depth 35.267857
+QUALITY  Pmax 1.96151e+06 MFmin 4.61815 MFmax 9.72549 RMS 0.641237 Nphs 8 Gap 245.213 Dist 2.776 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 104.614
+STATISTICS  ExpectX 105.457133 Y -6.489183 Z 82.403850  CovXX 7738.26 XY 2458.17 XZ 3338.35 YY 9910.36 YZ 4732.66 ZZ 6646.87 EllAz1  218.585 Dip1  56.3047 Len1  99.2721 Az2  305.383 Dip2  -2.13274 Len2  147.28 Len3  2.328448e+02
+STAT_GEOG  ExpectLat -6.489183 Long 105.457133 Depth 82.403850
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.641237  azGap 245.213  secAzGap 245.213  gtLevel -  minDist 308.678 maxDist 606.39 medDist 516.596
+QML_OriginUncertainty  horUnc -1  minHorUnc 118.806  maxHorUnc 162.717  azMaxHorUnc 33.0818
+QML_ConfidenceEllipsoid  semiMajorAxisLength 232.845  semiMinorAxisLength 99.2721  semiIntermediateAxisLength 147.28  majorAxisPlunge 33.6093  majorAxisAzimuth 33.9652  majorAxisRotation 90.9923
+FOCALMECH  Hyp  -6.711310 105.156250 35.267857 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20150923.161932.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m20"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50021 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 2.949912e+04 scatter_volume 2.949912e+04
+HYPOCENTER  x 107.79 y -7.4256 z 23.0655  OT 41.2862  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2015 09 23  16 19 41.286192  Lat -7.425595 Long 107.790179 Depth 23.065476
+QUALITY  Pmax 2.77443e+06 MFmin 6.48425 MFmax 10.3954 RMS 0.0140973 Nphs 8 Gap 274.441 Dist 0.137618 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 36.051
+STATISTICS  ExpectX 105.065579 Y -6.803542 Z 105.940475  CovXX 39073.4 XY 1315.18 XZ 7506.21 YY 26492.4 YZ 7059.74 ZZ 10449.7 EllAz1  212.639 Dip1  68.1378 Len1  150.776 Az2  343.109 Dip2  14.5969 Len2  314.469 Len3  3.830280e+02
+STAT_GEOG  ExpectLat -6.803542 Long 105.065579 Depth 105.940475
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.0140973  azGap 274.441  secAzGap 274.441  gtLevel -  minDist 15.3025 maxDist 305.611 medDist 300.439
+QML_OriginUncertainty  horUnc -1  minHorUnc 246.21  maxHorUnc 300.303  azMaxHorUnc 84.0956
+QML_ConfidenceEllipsoid  semiMajorAxisLength 383.028  semiMinorAxisLength 150.776  semiIntermediateAxisLength 314.469  majorAxisPlunge 15.9107  majorAxisAzimuth 77.3663  majorAxisRotation 77.0074
+FOCALMECH  Hyp  -7.425595 107.790179 23.065476 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20151001.000552.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m21"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 9.928132/6.618755/0.595238 oct_tree_integral 1.252554e+05 scatter_volume 1.252554e+05
+HYPOCENTER  x 103.17 y -6.39881 z 35.4167  OT 56.1937  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2015 10 01  00 04 56.193746  Lat -6.398810 Long 103.169643 Depth 35.416667
+QUALITY  Pmax 794053 MFmin 3.96754 MFmax 10.3954 RMS 1.29949 Nphs 8 Gap 279.226 Dist 3.81674 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 37.856
+STATISTICS  ExpectX 104.283857 Y -6.681002 Z 118.555009  CovXX 54601.1 XY -2415.29 XZ 8439.53 YY 17824 YZ 5195.78 ZZ 9229.77 EllAz1  23.1958 Dip1  -63.8835 Len1  136.248 Az2  357.793 Dip2  23.8863 Len2  267.162 Len3  4.453116e+02
+STAT_GEOG  ExpectLat -6.681002 Long 104.283857 Depth 118.555009
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 1.29949  azGap 279.226  secAzGap 279.226  gtLevel -  minDist 424.403 maxDist 828.154 medDist 667.68
+QML_OriginUncertainty  horUnc -1  minHorUnc 201.574  maxHorUnc 354.888  azMaxHorUnc 93.7414
+QML_ConfidenceEllipsoid  semiMajorAxisLength 445.312  semiMinorAxisLength 136.248  semiIntermediateAxisLength 267.162  majorAxisPlunge 9.94262  majorAxisAzimuth 92.2454  majorAxisRotation 247.019
+FOCALMECH  Hyp  -6.398810 103.169643 35.416667 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20151001.025045.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m21"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50045 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 7.091819e+04 scatter_volume 7.091819e+04
+HYPOCENTER  x 102.522 y -6.83036 z 35.2679  OT 39.8738  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2015 10 01  02 49 39.873812  Lat -6.830357 Long 102.522321 Depth 35.267857
+QUALITY  Pmax 6.26881e+06 MFmin 3.73256 MFmax 9.86364 RMS 1.13997 Nphs 8 Gap 290.749 Dist 4.48932 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 39.761
+STATISTICS  ExpectX 103.893197 Y -7.126767 Z 69.434733  CovXX 48460.4 XY -6582.75 XZ 5485.26 YY 7866.62 YZ -373.542 ZZ 3956.42 EllAz1  50.0093 Dip1  -79.7763 Len1  106.974 Az2  187.998 Dip2  -7.63247 Len2  155.968 Len3  4.207507e+02
+STAT_GEOG  ExpectLat -7.126767 Long 103.893197 Depth 69.434733
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 1.13997  azGap 290.749  secAzGap 290.749  gtLevel -  minDist 499.19 maxDist 890.063 medDist 732.16
+QML_OriginUncertainty  horUnc -1  minHorUnc 125.297  maxHorUnc 337.421  azMaxHorUnc 98.9845
+QML_ConfidenceEllipsoid  semiMajorAxisLength 420.751  semiMinorAxisLength 106.974  semiIntermediateAxisLength 155.968  majorAxisPlunge 6.76164  majorAxisAzimuth 98.9081  majorAxisRotation 262.524
+FOCALMECH  Hyp  -6.830357 102.522321 35.267857 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20151104.061518.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m22"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50021 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 3.426241e+03 scatter_volume 3.426241e+03
+HYPOCENTER  x 104.955 y -6.99405 z 29.4643  OT 34.7497  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2015 11 04  06 14 34.749716  Lat -6.994048 Long 104.955357 Depth 29.464286
+QUALITY  Pmax 5.12329e+10 MFmin 5.92857 MFmax 8.47821 RMS 0.831259 Nphs 10 Gap 221.443 Dist 2.89736 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 55.284
+STATISTICS  ExpectX 104.915636 Y -7.031973 Z 54.057674  CovXX 3255.48 XY 1080.42 XZ -78.2486 YY 1874.48 YZ -71.7365 ZZ 1500.54 EllAz1  151.56 Dip1  -6.67029 Len1  67.2137 Az2  310.749 Dip2  -82.8688 Len2  72.742 Len3  1.166044e+02
+STAT_GEOG  ExpectLat -7.031973 Long 104.915636 Depth 54.057674
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.831259  azGap 221.443  secAzGap 221.443  gtLevel -  minDist 322.173 maxDist 621.92 medDist 456.116
+QML_OriginUncertainty  horUnc -1  minHorUnc 54.3171  maxHorUnc 94.0668  azMaxHorUnc 61.2914
+QML_ConfidenceEllipsoid  semiMajorAxisLength 116.604  semiMinorAxisLength 67.2137  semiIntermediateAxisLength 72.742  majorAxisPlunge -2.51082  majorAxisAzimuth 61.2666  majorAxisRotation 353.298
+FOCALMECH  Hyp  -6.994048 104.955357 29.464286 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20151107.055721.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m22"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50037 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 1.992278e+04 scatter_volume 1.992278e+04
+HYPOCENTER  x 104.754 y -5.96726 z 346.28  OT 31.471  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2015 11 07  05 56 31.470970  Lat -5.967262 Long 104.754464 Depth 346.279762
+QUALITY  Pmax 3.77553e+08 MFmin 5.55797 MFmax 8.91726 RMS 0.685562 Nphs 10 Gap 194.089 Dist 2.40356 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 38.52
+STATISTICS  ExpectX 104.741995 Y -6.127001 Z 309.831608  CovXX 2572.76 XY 497.461 XZ 258.374 YY 2544.6 YZ 3651.27 ZZ 10533 EllAz1  165.403 Dip1  20.0641 Len1  60.5027 Az2  258.076 Dip2  7.27581 Len2  96.6108 Len3  2.055517e+02
+STAT_GEOG  ExpectLat -6.127001 Long 104.741995 Depth 309.831608
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.685562  azGap 194.089  secAzGap 194.089  gtLevel -  minDist 267.264 maxDist 672.034 medDist 382.021
+QML_OriginUncertainty  horUnc -1  minHorUnc 68.8502  maxHorUnc 83.8426  azMaxHorUnc 45.8104
+QML_ConfidenceEllipsoid  semiMajorAxisLength 205.552  semiMinorAxisLength 60.5027  semiIntermediateAxisLength 96.6108  majorAxisPlunge 68.5493  majorAxisAzimuth 7.03775  majorAxisRotation 285.132
+FOCALMECH  Hyp  -5.967262 104.754464 346.279762 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20150120.143511.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m23"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 7.009369e+03 scatter_volume 7.009369e+03
+HYPOCENTER  x 102.333 y -5.42411 z 32.2173  OT 50.4881  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2015 01 20  14 34 50.488080  Lat -5.424107 Long 102.332589 Depth 32.217262
+QUALITY  Pmax 3.29127e+08 MFmin 4.5723 MFmax 8.58492 RMS 0.123674 Nphs 8 Gap 278.773 Dist 1.23414 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 58.802
+STATISTICS  ExpectX 102.101940 Y -5.450782 Z 44.085218  CovXX 9154.67 XY 1690.81 XZ -202.593 YY 1684.11 YZ 48.9027 ZZ 1133.53 EllAz1  164.638 Dip1  68.1516 Len1  62.118 Az2  348.35 Dip2  21.8069 Len2  69.1726 Len3  1.833542e+02
+STAT_GEOG  ExpectLat -5.450782 Long 102.101940 Depth 44.085218
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.123674  azGap 278.773  secAzGap 278.773  gtLevel -  minDist 137.23 maxDist 945.469 medDist 517.698
+QML_OriginUncertainty  horUnc -1  minHorUnc 55.0844  maxHorUnc 147.969  azMaxHorUnc 77.8228
+QML_ConfidenceEllipsoid  semiMajorAxisLength 183.354  semiMinorAxisLength 62.118  semiIntermediateAxisLength 69.1726  majorAxisPlunge -1.28185  majorAxisAzimuth 77.837  majorAxisRotation 68.2072
+FOCALMECH  Hyp  -5.424107 102.332589 32.217262 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20150126.131233.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m23"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50021 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 8.511441e+03 scatter_volume 8.511441e+03
+HYPOCENTER  x 104.475 y -6.61458 z 109.598  OT 51.4332  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2015 01 26  13 11 51.433161  Lat -6.614583 Long 104.475446 Depth 109.598214
+QUALITY  Pmax 3.37437e+07 MFmin 4.77317 MFmax 8.5245 RMS 0.306526 Nphs 8 Gap 220.037 Dist 2.71264 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 29.841
+STATISTICS  ExpectX 104.580007 Y -6.442851 Z 86.455094  CovXX 3360.43 XY 1207.52 XZ -368.679 YY 4030.02 YZ 635.805 ZZ 2320.12 EllAz1  132.77 Dip1  47.9508 Len1  77.16 Az2  299.752 Dip2  41.3083 Len2  103.649 Len3  1.325951e+02
+STAT_GEOG  ExpectLat -6.442851 Long 104.580007 Depth 86.455094
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.306526  azGap 220.037  secAzGap 220.037  gtLevel -  minDist 301.632 maxDist 682.096 medDist 398.762
+QML_OriginUncertainty  horUnc -1  minHorUnc 74.9463  maxHorUnc 106.682  azMaxHorUnc 37.2517
+QML_ConfidenceEllipsoid  semiMajorAxisLength 132.595  semiMinorAxisLength 77.16  semiIntermediateAxisLength 103.649  majorAxisPlunge 6.50734  majorAxisAzimuth 35.505  majorAxisRotation 49.1036
+FOCALMECH  Hyp  -6.614583 104.475446 109.598214 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20150202.213022.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m23"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50053 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 7.391781e+03 scatter_volume 7.379682e+03
+HYPOCENTER  x 105.022 y -5.72917 z 357.292  OT 30.9108  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2015 02 02  21 29 30.910822  Lat -5.729167 Long 105.022321 Depth 357.291667
+QUALITY  Pmax 7.35511e+08 MFmin 5.57884 MFmax 9.06569 RMS 0.191792 Nphs 10 Gap 180.054 Dist 2.46874 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 47.131
+STATISTICS  ExpectX 104.986460 Y -5.887766 Z 352.871822  CovXX 1120.54 XY -444.992 XZ -187.838 YY 1847.44 YZ 155.337 ZZ 821.194 EllAz1  261.013 Dip1  -59.5664 Len1  50.6397 Az2  238.331 Dip2  28.4599 Len2  58.3852 Len3  8.603829e+01
+STAT_GEOG  ExpectLat -5.887766 Long 104.986460 Depth 352.871822
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.191792  azGap 180.054  secAzGap 191.501  gtLevel -  minDist 274.512 maxDist 653.599 medDist 370.022
+QML_OriginUncertainty  horUnc -1  minHorUnc 45.7351  maxHorUnc 68.8089  azMaxHorUnc 154.62
+QML_ConfidenceEllipsoid  semiMajorAxisLength 86.0383  semiMinorAxisLength 50.6397  semiIntermediateAxisLength 58.3852  majorAxisPlunge -9.88773  majorAxisAzimuth 153.753  majorAxisRotation 297.479
+FOCALMECH  Hyp  -5.729167 105.022321 357.291667 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20200217.121209.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m24"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50053 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 1.756515e+03 scatter_volume 1.749208e+03
+HYPOCENTER  x 106.417 y -7.23958 z 0.0744048  OT 49.5401  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2020 02 17  12 11 49.540099  Lat -7.239583 Long 106.417411 Depth 0.074405
+QUALITY  Pmax 638701 MFmin 5.062 MFmax 10.2642 RMS 0.4075 Nphs 8 Gap 209.449 Dist 1.24217 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 45.918
+STATISTICS  ExpectX 107.185942 Y -7.109404 Z 102.673103  CovXX 20825.5 XY -2157.53 XZ 5494 YY 21297.5 YZ 122.085 ZZ 7589.14 EllAz1  81.0123 Dip1  -69.56 Len1  140.091 Az2  212.472 Dip2  -13.8611 Len2  265.442 Len3  2.922308e+02
+STAT_GEOG  ExpectLat -7.109404 Long 107.185942 Depth 102.673103
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.4075  azGap 209.449  secAzGap 209.449  gtLevel -  minDist 138.124 maxDist 498.782 medDist 451.312
+QML_OriginUncertainty  horUnc -1  minHorUnc 208.445  maxHorUnc 231.157  azMaxHorUnc 138.121
+QML_ConfidenceEllipsoid  semiMajorAxisLength 292.231  semiMinorAxisLength 140.091  semiIntermediateAxisLength 265.442  majorAxisPlunge 14.7202  majorAxisAzimuth 126.188  majorAxisRotation 257.448
+FOCALMECH  Hyp  -7.239583 106.417411 0.074405 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20200310.140653.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m24"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 7.132211e+03 scatter_volume 7.132211e+03
+HYPOCENTER  x 102.846 y -5.98958 z 35.1935  OT 27.0388  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2020 03 10  14 06 27.038782  Lat -5.989583 Long 102.845982 Depth 35.193452
+QUALITY  Pmax 1.3502e+12 MFmin 5.53466 MFmax 9.78602 RMS 0.618877 Nphs 10 Gap 256.59 Dist 1.63353 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 112.717
+STATISTICS  ExpectX 102.848081 Y -5.948154 Z 47.361119  CovXX 1162.78 XY -1.53164 XZ 99.0345 YY 194.397 YZ -28.6455 ZZ 576.058 EllAz1  179.645 Dip1  -4.35911 Len1  26.0489 Az2  244.914 Dip2  79.6736 Len2  44.5377 Len3  6.451497e+01
+STAT_GEOG  ExpectLat -5.948154 Long 102.848081 Depth 47.361119
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.618877  azGap 256.59  secAzGap 256.59  gtLevel -  minDist 181.641 maxDist 873.497 medDist 555.116
+QML_OriginUncertainty  horUnc -1  minHorUnc 21.1449  maxHorUnc 51.7147  azMaxHorUnc 90.0906
+QML_ConfidenceEllipsoid  semiMajorAxisLength 64.515  semiMinorAxisLength 26.0489  semiIntermediateAxisLength 44.5377  majorAxisPlunge 9.34295  majorAxisAzimuth 90.3634  majorAxisRotation 355.337
+FOCALMECH  Hyp  -5.989583 102.845982 35.193452 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20200425.044400.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m25"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 8.370647e+03 scatter_volume 8.370647e+03
+HYPOCENTER  x 106.138 y -6.1756 z 154.315  OT 25.1609  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2020 04 25  04 43 25.160933  Lat -6.175595 Long 106.138393 Depth 154.315476
+QUALITY  Pmax 4.87641e+12 MFmin 6.25731 MFmax 9.17569 RMS 0.604736 Nphs 10 Gap 169.045 Dist 1.97544 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 33.825
+STATISTICS  ExpectX 106.178271 Y -6.098349 Z 136.264902  CovXX 348.593 XY 110.139 XZ -35.8842 YY 375.689 YZ -235.355 ZZ 721.972 EllAz1  326.253 Dip1  18.802 Len1  26.9489 Az2  244.117 Dip2  -21.895 Len2  36.9133 Len3  5.492216e+01
+STAT_GEOG  ExpectLat -6.098349 Long 106.178271 Depth 136.264902
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.604736  azGap 169.045  secAzGap 169.045  gtLevel -  minDist 219.659 maxDist 520.559 medDist 405.71
+QML_OriginUncertainty  horUnc -1  minHorUnc 24.0353  maxHorUnc 32.9872  azMaxHorUnc 41.4936
+QML_ConfidenceEllipsoid  semiMajorAxisLength 54.9222  semiMinorAxisLength 26.9489  semiIntermediateAxisLength 36.9133  majorAxisPlunge -60.4696  majorAxisAzimuth 19.309  majorAxisRotation 239.253
+FOCALMECH  Hyp  -6.175595 106.138393 154.315476 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20200503.070727.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m25"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 6.659163e+03 scatter_volume 6.659163e+03
+HYPOCENTER  x 104.52 y -6.2128 z 152.902  OT 47.0599  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2020 05 03  07 06 47.059925  Lat -6.212798 Long 104.520089 Depth 152.901786
+QUALITY  Pmax 9.95018e+09 MFmin 5.94857 MFmax 8.46609 RMS 0.264534 Nphs 10 Gap 207.899 Dist 2.41782 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 47.673
+STATISTICS  ExpectX 104.585230 Y -6.317315 Z 95.361667  CovXX 6195.01 XY 1251.72 XZ -8.55305 YY 2702.49 YZ 253.784 ZZ 4271.02 EllAz1  162.296 Dip1  6.96382 Len1  89.5234 Az2  148.285 Dip2  -82.8248 Len2  123.185 Len3  1.526297e+02
+STAT_GEOG  ExpectLat -6.317315 Long 104.585230 Depth 95.361667
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.264534  azGap 207.899  secAzGap 207.899  gtLevel -  minDist 268.85 maxDist 688.442 medDist 372.339
+QML_OriginUncertainty  horUnc -1  minHorUnc 72.7357  maxHorUnc 123.182  azMaxHorUnc 72.1835
+QML_ConfidenceEllipsoid  semiMajorAxisLength 152.63  semiMinorAxisLength 89.5234  semiIntermediateAxisLength 123.185  majorAxisPlunge 1.72015  majorAxisAzimuth 72.0857  majorAxisRotation 6.97943
+FOCALMECH  Hyp  -6.212798 104.520089 152.901786 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20190102.134058.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m25"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50037 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 1.903488e+04 scatter_volume 1.869064e+04
+HYPOCENTER  x 103.65 y -6.54018 z 126.711  OT 22.6782  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2019 01 02  13 40 22.678242  Lat -6.540179 Long 103.649554 Depth 126.711310
+QUALITY  Pmax 2.27701e+08 MFmin 4.59921 MFmax 8.38537 RMS 0.777255 Nphs 8 Gap 239.208 Dist 2.28568 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 41.993
+STATISTICS  ExpectX 103.704283 Y -6.517041 Z 89.363610  CovXX 1513.42 XY 579.632 XZ 243.202 YY 947.997 YZ 169.298 ZZ 2510.21 EllAz1  148.104 Dip1  0.453527 Len1  45.4696 Az2  238.283 Dip2  21.4992 Len2  78.7996 Len3  9.629629e+01
+STAT_GEOG  ExpectLat -6.517041 Long 103.704283 Depth 89.363610
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.777255  azGap 239.208  secAzGap 239.208  gtLevel -  minDist 254.156 maxDist 773.023 medDist 437.186
+QML_OriginUncertainty  horUnc -1  minHorUnc 36.7063  maxHorUnc 65.6803  azMaxHorUnc 58.0002
+QML_ConfidenceEllipsoid  semiMajorAxisLength 96.2963  semiMinorAxisLength 45.4696  semiIntermediateAxisLength 78.7996  majorAxisPlunge 68.4956  majorAxisAzimuth 56.953  majorAxisRotation 358.308
+FOCALMECH  Hyp  -6.540179 103.649554 126.711310 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20190112.120509.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m25"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 1.266520e+04 scatter_volume 1.251624e+04
+HYPOCENTER  x 104.308 y -6.77083 z 6.99405  OT 24.9819  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2019 01 12  12 04 24.981865  Lat -6.770833 Long 104.308036 Depth 6.994048
+QUALITY  Pmax 3.33031e+07 MFmin 4.63432 MFmax 8.09148 RMS 0.895514 Nphs 8 Gap 228.891 Dist 2.75898 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 32.798
+STATISTICS  ExpectX 104.209270 Y -6.705675 Z 114.352892  CovXX 7123.84 XY 215.435 XZ -2006.72 YY 7680.65 YZ 1877.62 ZZ 4785.99 EllAz1  309.859 Dip1  -56.6116 Len1  102.523 Az2  229.795 Dip2  6.4882 Len2  163.844 Len3  1.783219e+02
+STAT_GEOG  ExpectLat -6.705675 Long 104.209270 Depth 114.352892
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.895514  azGap 228.891  secAzGap 228.891  gtLevel -  minDist 306.785 maxDist 696.674 medDist 404.613
+QML_OriginUncertainty  horUnc -1  minHorUnc 127.34  maxHorUnc 133.547  azMaxHorUnc 18.8667
+QML_ConfidenceEllipsoid  semiMajorAxisLength 178.322  semiMinorAxisLength 102.523  semiIntermediateAxisLength 163.844  majorAxisPlunge -32.5874  majorAxisAzimuth 143.964  majorAxisRotation 273.252
+FOCALMECH  Hyp  -6.770833 104.308036 6.994048 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20190213.234224.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m26"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 5.693709e+03 scatter_volume 5.693709e+03
+HYPOCENTER  x 105.837 y -6.95685 z 35.1935  OT 54.9997  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2019 02 13  23 41 54.999736  Lat -6.956845 Long 105.837054 Depth 35.193452
+QUALITY  Pmax 7.06688e+11 MFmin 6.24315 MFmax 8.26908 RMS 0.724718 Nphs 10 Gap 206.317 Dist 1.86766 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 42.819
+STATISTICS  ExpectX 105.785823 Y -7.081969 Z 39.384886  CovXX 456.428 XY 96.6971 XZ 38.3066 YY 560.071 YZ 25.7186 ZZ 317.858 EllAz1  269.089 Dip1  75.6719 Len1  32.9717 Az2  303.255 Dip2  -11.9332 Len2  37.7032 Len3  4.692138e+01
+STAT_GEOG  ExpectLat -7.081969 Long 105.785823 Depth 39.384886
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.724718  azGap 206.317  secAzGap 206.317  gtLevel -  minDist 207.675 maxDist 527.101 medDist 468.352
+QML_OriginUncertainty  horUnc -1  minHorUnc 30.2762  maxHorUnc 37.7002  azMaxHorUnc 30.9061
+QML_ConfidenceEllipsoid  semiMajorAxisLength 46.9214  semiMinorAxisLength 32.9717  semiIntermediateAxisLength 37.7032  majorAxisPlunge 7.815  majorAxisAzimuth 31.5928  majorAxisRotation 101.614
+FOCALMECH  Hyp  -6.956845 105.837054 35.193452 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20190512.085226.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m26"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50029 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 3.216941e+03 scatter_volume 3.216941e+03
+HYPOCENTER  x 104.632 y -6.61458 z 41.5923  OT 44.3068  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2019 05 12  08 51 44.306759  Lat -6.614583 Long 104.631696 Depth 41.592262
+QUALITY  Pmax 1.36606e+09 MFmin 4.84533 MFmax 8.28377 RMS 0.313134 Nphs 8 Gap 217.545 Dist 2.8021 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 11.07
+STATISTICS  ExpectX 104.711806 Y -6.524981 Z 63.710252  CovXX 3398.65 XY 410.965 XZ 871.56 YY 2449.97 YZ 523.186 ZZ 1471.5 EllAz1  229.137 Dip1  66.9526 Len1  60.7486 Az2  334.358 Dip2  6.37366 Len2  90.4481 Len3  1.181895e+02
+STAT_GEOG  ExpectLat -6.524981 Long 104.711806 Depth 63.710252
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.313134  azGap 217.545  secAzGap 217.545  gtLevel -  minDist 311.58 maxDist 643.088 medDist 379.606
+QML_OriginUncertainty  horUnc -1  minHorUnc 72.6802  maxHorUnc 90.3848  azMaxHorUnc 69.5474
+QML_ConfidenceEllipsoid  semiMajorAxisLength 118.19  semiMinorAxisLength 60.7486  semiIntermediateAxisLength 90.4481  majorAxisPlunge 22.0505  majorAxisAzimuth 66.9517  majorAxisRotation 85.0486
+FOCALMECH  Hyp  -6.614583 104.631696 41.592262 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20190728.142527.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m27"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 4.000622e+03 scatter_volume 3.975547e+03
+HYPOCENTER  x 106.15 y -7.32887 z 36.8304  OT 2.9481  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2019 07 28  14 25 2.948104  Lat -7.328869 Long 106.149554 Depth 36.830357
+QUALITY  Pmax 1.00637e+11 MFmin 6.28845 MFmax 8.18269 RMS 1.00178 Nphs 10 Gap 214.997 Dist 1.49373 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 43.445
+STATISTICS  ExpectX 106.240807 Y -7.224463 Z 43.067959  CovXX 5343.38 XY -825.49 XZ 278.958 YY 1112.19 YZ 103.642 ZZ 477.206 EllAz1  20.6118 Dip1  -73.8031 Len1  38.5276 Az2  189.731 Dip2  -15.9206 Len2  59.4322 Len3  1.394852e+02
+STAT_GEOG  ExpectLat -7.224463 Long 106.240807 Depth 43.067959
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 1.00178  azGap 214.997  secAzGap 214.997  gtLevel -  minDist 166.096 maxDist 517.963 medDist 483.15
+QML_OriginUncertainty  horUnc -1  minHorUnc 46.9121  maxHorUnc 112.459  azMaxHorUnc 100.658
+QML_ConfidenceEllipsoid  semiMajorAxisLength 139.485  semiMinorAxisLength 38.5276  semiIntermediateAxisLength 59.4322  majorAxisPlunge 2.90233  majorAxisAzimuth 100.56  majorAxisRotation 254.136
+FOCALMECH  Hyp  -7.328869 106.149554 36.830357 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20190802.120410.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m27"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 2.025196e+04 scatter_volume 2.025196e+04
+HYPOCENTER  x 104.688 y -7.41071 z 36.6071  OT 26.3042  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2019 08 02  12 03 26.304155  Lat -7.410714 Long 104.687500 Depth 36.607143
+QUALITY  Pmax 1.68604e+10 MFmin 5.80881 MFmax 8.84933 RMS 0.765627 Nphs 10 Gap 235.194 Dist 2.938 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 31.73
+STATISTICS  ExpectX 104.940683 Y -7.126658 Z 52.417183  CovXX 1364.57 XY 696.825 XZ 98.7812 YY 1447.58 YZ -85.1586 ZZ 694.246 EllAz1  313.069 Dip1  46.5144 Len1  44.8817 Az2  313.542 Dip2  -43.4846 Len2  54.1805 Len3  8.618398e+01
+STAT_GEOG  ExpectLat -7.126658 Long 104.940683 Depth 52.417183
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.765627  azGap 235.194  secAzGap 235.194  gtLevel -  minDist 326.691 maxDist 645.144 medDist 501.571
+QML_OriginUncertainty  horUnc -1  minHorUnc 40.3538  maxHorUnc 69.5666  azMaxHorUnc 43.2958
+QML_ConfidenceEllipsoid  semiMajorAxisLength 86.184  semiMinorAxisLength 44.8817  semiIntermediateAxisLength 54.1805  majorAxisPlunge 0.236123  majorAxisAzimuth 43.3179  majorAxisRotation 133.484
+FOCALMECH  Hyp  -7.410714 104.687500 36.607143 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20190811.021154.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m27"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50021 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 1.205919e+04 scatter_volume 1.185072e+04
+HYPOCENTER  x 103.984 y -5.84077 z 191.295  OT 18.3521  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2019 08 11  02 11 18.352088  Lat -5.840774 Long 103.984375 Depth 191.294643
+QUALITY  Pmax 1.84562e+10 MFmin 5.7834 MFmax 10.2039 RMS 0.663795 Nphs 10 Gap 211.204 Dist 1.79824 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 58.902
+STATISTICS  ExpectX 103.631869 Y -6.494503 Z 89.877413  CovXX 5929.23 XY 91.4003 XZ 1539.77 YY 3006.81 YZ 1499.67 ZZ 3291.75 EllAz1  199.261 Dip1  45.67 Len1  70.6142 Az2  327.776 Dip2  31.3133 Len2  119.237 Len3  1.547913e+02
+STAT_GEOG  ExpectLat -6.494503 Long 103.631869 Depth 89.877413
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.663795  azGap 211.204  secAzGap 211.204  gtLevel -  minDist 199.956 maxDist 757.258 medDist 443.074
+QML_OriginUncertainty  horUnc -1  minHorUnc 83.1209  maxHorUnc 116.807  azMaxHorUnc 88.2104
+QML_ConfidenceEllipsoid  semiMajorAxisLength 154.791  semiMinorAxisLength 70.6142  semiIntermediateAxisLength 119.237  majorAxisPlunge 27.8475  majorAxisAzimuth 76.5227  majorAxisRotation 67.7319
+FOCALMECH  Hyp  -5.840774 103.984375 191.294643 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20190811.043946.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m28"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 7.055989e+03 scatter_volume 6.936314e+03
+HYPOCENTER  x 103.627 y -6.48065 z 70.9077  OT 12.1443  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2019 08 11  04 39 12.144306  Lat -6.480655 Long 103.627232 Depth 70.907738
+QUALITY  Pmax 2.48107e+12 MFmin 5.67206 MFmax 10.0976 RMS 0.398872 Nphs 10 Gap 238.556 Dist 2.22224 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 53.173
+STATISTICS  ExpectX 103.645261 Y -6.471793 Z 59.335694  CovXX 611.781 XY 6.73864 XZ 37.0843 YY 252.152 YZ 3.37035 ZZ 740.324 EllAz1  178.96 Dip1  0.316377 Len1  29.8261 Az2  269.044 Dip2  15.0214 Len2  46.0961 Len3  5.146435e+01
+STAT_GEOG  ExpectLat -6.471793 Long 103.645261 Depth 59.335694
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.398872  azGap 238.556  secAzGap 238.556  gtLevel -  minDist 247.102 maxDist 776.811 medDist 457.159
+QML_OriginUncertainty  horUnc -1  minHorUnc 24.0761  maxHorUnc 37.5151  azMaxHorUnc 88.9269
+QML_ConfidenceEllipsoid  semiMajorAxisLength 51.4644  semiMinorAxisLength 29.8261  semiIntermediateAxisLength 46.0961  majorAxisPlunge -74.9751  majorAxisAzimuth 267.781  majorAxisRotation 181.41
+FOCALMECH  Hyp  -6.480655 103.627232 70.907738 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20190905.115635.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m28"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 6.045662e+03 scatter_volume 6.020015e+03
+HYPOCENTER  x 105.513 y -5.13393 z 36.756  OT 37.7153  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2019 09 05  11 56 37.715294  Lat -5.133929 Long 105.513393 Depth 36.755952
+QUALITY  Pmax 9.16562e+07 MFmin 6.40661 MFmax 10.712 RMS 0.0790331 Nphs 10 Gap 202.293 Dist 2.3767 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 53.622
+STATISTICS  ExpectX 105.445412 Y -5.188235 Z 53.413873  CovXX 3274.24 XY 1272.76 XZ 18.411 YY 1615.07 YZ -32.2161 ZZ 426.804 EllAz1  331.365 Dip1  85.7681 Len1  38.6902 Az2  331.549 Dip2  -4.23185 Len2  57.2394 Len3  1.182904e+02
+STAT_GEOG  ExpectLat -5.188235 Long 105.445412 Depth 53.413873
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.0790331  azGap 202.293  secAzGap 202.293  gtLevel -  minDist 264.278 maxDist 633.364 medDist 584.879
+QML_OriginUncertainty  horUnc -1  minHorUnc 46.1348  maxHorUnc 95.483  azMaxHorUnc 61.5481
+QML_ConfidenceEllipsoid  semiMajorAxisLength 118.29  semiMinorAxisLength 38.6902  semiIntermediateAxisLength 57.2394  majorAxisPlunge 0.0135912  majorAxisAzimuth 61.5483  majorAxisRotation 94.2319
+FOCALMECH  Hyp  -5.133929 105.513393 36.755952 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20190922.223305.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m28"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50037 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 1.980228e+04 scatter_volume 1.978139e+04
+HYPOCENTER  x 102.969 y -6.65179 z 35.2679  OT 30.7735  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2019 09 22  22 32 30.773539  Lat -6.651786 Long 102.968750 Depth 35.267857
+QUALITY  Pmax 3.19755e+09 MFmin 5.46879 MFmax 9.3221 RMS 0.484724 Nphs 10 Gap 259.631 Dist 2.2918 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 56.873
+STATISTICS  ExpectX 102.863950 Y -6.702613 Z 69.606311  CovXX 1988.24 XY 840.737 XZ -689.536 YY 976.961 YZ -306.193 ZZ 2338.07 EllAz1  329.485 Dip1  -2.68671 Len1  41.9321 Az2  236.576 Dip2  -47.2352 Len2  76.3143 Len3  1.055385e+02
+STAT_GEOG  ExpectLat -6.702613 Long 102.863950 Depth 69.606311
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.484724  azGap 259.631  secAzGap 259.631  gtLevel -  minDist 254.837 maxDist 844.533 medDist 524.342
+QML_OriginUncertainty  horUnc -1  minHorUnc 33.9633  maxHorUnc 75.2758  azMaxHorUnc 60.5118
+QML_ConfidenceEllipsoid  semiMajorAxisLength 105.538  semiMinorAxisLength 41.9321  semiIntermediateAxisLength 76.3143  majorAxisPlunge -42.6385  majorAxisAzimuth 61.9611  majorAxisRotation 217.792
+FOCALMECH  Hyp  -6.651786 102.968750 35.267857 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20191216.125258.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m29"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50021 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 7.526324e+03 scatter_volume 7.526324e+03
+HYPOCENTER  x 106.06 y -7.18006 z 35.1935  OT 33.1466  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2019 12 16  12 52 33.146620  Lat -7.180060 Long 106.060268 Depth 35.193452
+QUALITY  Pmax 2.71938e+08 MFmin 4.99527 MFmax 10.0814 RMS 0.469807 Nphs 8 Gap 212.101 Dist 1.60143 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 58.873
+STATISTICS  ExpectX 106.280226 Y -6.920447 Z 45.545860  CovXX 7609.34 XY 1018.61 XZ 1292.4 YY 6294.6 YZ 724.446 ZZ 1280.95 EllAz1  240.376 Dip1  78.3534 Len1  58.6837 Az2  331.302 Dip2  0.190811 Len2  142.342 Len3  1.729095e+02
+STAT_GEOG  ExpectLat -6.920447 Long 106.280226 Depth 45.545860
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.469807  azGap 212.101  secAzGap 212.101  gtLevel -  minDist 178.071 maxDist 498.256 medDist 474.085
+QML_OriginUncertainty  horUnc -1  minHorUnc 114.897  maxHorUnc 137.032  azMaxHorUnc 61.4183
+QML_ConfidenceEllipsoid  semiMajorAxisLength 172.91  semiMinorAxisLength 58.6837  semiIntermediateAxisLength 142.342  majorAxisPlunge 11.645  majorAxisAzimuth 61.3411  majorAxisRotation 89.8211
+FOCALMECH  Hyp  -7.180060 106.060268 35.193452 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20181201.223649.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m29"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 1.015221e+04 scatter_volume 1.001258e+04
+HYPOCENTER  x 105.033 y -6.97173 z 63.1696  OT 9.17795  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 12 01  22 36 9.177952  Lat -6.971726 Long 105.033482 Depth 63.169643
+QUALITY  Pmax 8.48971e+09 MFmin 6.03068 MFmax 8.85811 RMS 0.635139 Nphs 10 Gap 220.767 Dist 2.64131 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 56.663
+STATISTICS  ExpectX 105.052232 Y -6.987175 Z 57.445565  CovXX 1903.46 XY -397.016 XZ 253.92 YY 1038.93 YZ -151.623 ZZ 1085.3 EllAz1  196.574 Dip1  -18.5245 Len1  55.3463 Az2  239.325 Dip2  65.4727 Len2  60.0329 Len3  8.689416e+01
+STAT_GEOG  ExpectLat -6.987175 Long 105.052232 Depth 57.445565
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.635139  azGap 220.767  secAzGap 220.767  gtLevel -  minDist 293.7 maxDist 613.856 medDist 454.26
+QML_OriginUncertainty  horUnc -1  minHorUnc 45.0981  maxHorUnc 68.8016  azMaxHorUnc 111.283
+QML_ConfidenceEllipsoid  semiMajorAxisLength 86.8942  semiMinorAxisLength 55.3463  semiIntermediateAxisLength 60.0329  majorAxisPlunge 15.4971  majorAxisAzimuth 111.905  majorAxisRotation 337.834
+FOCALMECH  Hyp  -6.971726 105.033482 63.169643 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20180123.063520.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m29"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50029 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 7.493990e+03 scatter_volume 7.493990e+03
+HYPOCENTER  x 106.362 y -7.12798 z 0.14881  OT 56.3117  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 01 23  06 34 56.311660  Lat -7.127976 Long 106.361607 Depth 0.148810
+QUALITY  Pmax 9.58662e+07 MFmin 4.94235 MFmax 9.88524 RMS 0.581691 Nphs 8 Gap 233.896 Dist 1.32039 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 47.196
+STATISTICS  ExpectX 106.328280 Y -7.264244 Z 34.227746  CovXX 5393.07 XY -1349.73 XZ 1024.64 YY 2371.32 YZ -417.263 ZZ 1655.94 EllAz1  122.881 Dip1  -75.9665 Len1  69.9024 Az2  201.65 Dip2  2.78708 Len2  80.9737 Len3  1.476844e+02
+STAT_GEOG  ExpectLat -7.264244 Long 106.328280 Depth 34.227746
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.581691  azGap 233.896  secAzGap 233.896  gtLevel -  minDist 146.821 maxDist 504.859 medDist 458.349
+QML_OriginUncertainty  horUnc -1  minHorUnc 65.3403  maxHorUnc 116.571  azMaxHorUnc 110.888
+QML_ConfidenceEllipsoid  semiMajorAxisLength 147.684  semiMinorAxisLength 69.9024  semiIntermediateAxisLength 80.9737  majorAxisPlunge 13.7429  majorAxisAzimuth 110.967  majorAxisRotation 272.546
+FOCALMECH  Hyp  -7.127976 106.361607 0.148810 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20180124.063312.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m30"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 4.550132e+03 scatter_volume 4.550132e+03
+HYPOCENTER  x 106.406 y -6.74107 z 0.14881  OT 45.3193  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 01 24  06 32 45.319325  Lat -6.741071 Long 106.406250 Depth 0.148810
+QUALITY  Pmax 2.97643e+08 MFmin 4.95055 MFmax 8.95376 RMS 0.392511 Nphs 8 Gap 215.75 Dist 1.42833 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 48.421
+STATISTICS  ExpectX 106.451806 Y -6.789924 Z 39.968511  CovXX 5067.3 XY 2533.72 XZ 1172.9 YY 3458.86 YZ 595.379 ZZ 1992.95 EllAz1  132.75 Dip1  -39.0497 Len1  71.0342 Az2  340.075 Dip2  -47.6006 Len2  80.7424 Len3  1.598977e+02
+STAT_GEOG  ExpectLat -6.789924 Long 106.451806 Depth 39.968511
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.392511  azGap 215.75  secAzGap 215.75  gtLevel -  minDist 158.823 maxDist 471.937 medDist 456.837
+QML_OriginUncertainty  horUnc -1  minHorUnc 60.7537  maxHorUnc 126.171  azMaxHorUnc 53.8049
+QML_ConfidenceEllipsoid  semiMajorAxisLength 159.898  semiMinorAxisLength 71.0342  semiIntermediateAxisLength 80.7424  majorAxisPlunge 13.9086  majorAxisAzimuth 54.3389  majorAxisRotation 316.033
+FOCALMECH  Hyp  -6.741071 106.406250 0.148810 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20180319.113652.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m30"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50021 smallestNodeSide 1.241017/0.827344/0.074405 oct_tree_integral 1.405594e+03 scatter_volume 1.405594e+03
+HYPOCENTER  x 106.133 y -7.27307 z 35.2307  OT 28.2644  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 03 19  11 36 28.264429  Lat -7.273065 Long 106.132813 Depth 35.230655
+QUALITY  Pmax 3.20382e+10 MFmin 6.30737 MFmax 8.99172 RMS 0.776765 Nphs 10 Gap 213.914 Dist 1.51623 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 58.864
+STATISTICS  ExpectX 106.106381 Y -7.299997 Z 38.705562  CovXX 2891.77 XY 1542.11 XZ -26.1247 YY 3433.23 YZ -63.9698 ZZ 728.839 EllAz1  344.106 Dip1  88.3194 Len1  50.6672 Az2  309.992 Dip2  -1.39156 Len2  75.0902 Len3  1.292066e+02
+STAT_GEOG  ExpectLat -7.299997 Long 106.106381 Depth 38.705562
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.776765  azGap 213.914  secAzGap 213.914  gtLevel -  minDist 168.597 maxDist 511.491 medDist 477.583
+QML_OriginUncertainty  horUnc -1  minHorUnc 60.6025  maxHorUnc 104.283  azMaxHorUnc 40.0214
+QML_ConfidenceEllipsoid  semiMajorAxisLength 129.207  semiMinorAxisLength 50.6672  semiIntermediateAxisLength 75.0902  majorAxisPlunge -0.942197  majorAxisAzimuth 40.015  majorAxisRotation 91.391
+FOCALMECH  Hyp  -7.273065 106.132813 35.230655 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20180326.213302.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m30"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50037 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 1.050194e+04 scatter_volume 1.050194e+04
+HYPOCENTER  x 102.489 y -6.18304 z 35.3423  OT 32.663  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 03 26  21 32 32.662989  Lat -6.183036 Long 102.488839 Depth 35.342262
+QUALITY  Pmax 1.33175e+08 MFmin 4.44163 MFmax 8.85549 RMS 0.423881 Nphs 8 Gap 270.165 Dist 1.88243 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 65.179
+STATISTICS  ExpectX 102.580684 Y -6.129198 Z 52.558381  CovXX 4542.18 XY 263.264 XZ 742.567 YY 1600.1 YZ 309.83 ZZ 1532.62 EllAz1  194.358 Dip1  55.5795 Len1  65.1052 Az2  345.593 Dip2  30.9924 Len2  78.0251 Len3  1.294828e+02
+STAT_GEOG  ExpectLat -6.129198 Long 102.580684 Depth 52.558381
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.423881  azGap 270.165  secAzGap 270.165  gtLevel -  minDist 209.317 maxDist 906.8 medDist 513.464
+QML_OriginUncertainty  horUnc -1  minHorUnc 60.2202  maxHorUnc 102.473  azMaxHorUnc 84.9267
+QML_ConfidenceEllipsoid  semiMajorAxisLength 129.483  semiMinorAxisLength 65.1052  semiIntermediateAxisLength 78.0251  majorAxisPlunge 13.4845  majorAxisAzimuth 83.8746  majorAxisRotation 60.9113
+FOCALMECH  Hyp  -6.183036 102.488839 35.342262 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20180408.160455.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m31"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50021 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 1.426882e+04 scatter_volume 1.426882e+04
+HYPOCENTER  x 104.252 y -6.24256 z 39.9554  OT 21.9008  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 04 08  16 04 21.900848  Lat -6.242560 Long 104.252232 Depth 39.955357
+QUALITY  Pmax 1.36217e+10 MFmin 5.96432 MFmax 9.29294 RMS 0.825339 Nphs 10 Gap 215.545 Dist 2.28024 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 79.596
+STATISTICS  ExpectX 104.093238 Y -6.370461 Z 57.887460  CovXX 1800.22 XY 698.654 XZ -81.2913 YY 706.695 YZ -6.92783 ZZ 1217.98 EllAz1  153.938 Dip1  1.98081 Len1  35.9084 Az2  221.09 Dip2  -84.9101 Len2  65.4295 Len3  8.705416e+01
+STAT_GEOG  ExpectLat -6.370461 Long 104.093238 Depth 57.887460
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.825339  azGap 215.545  secAzGap 215.545  gtLevel -  minDist 253.551 maxDist 716.028 medDist 398.789
+QML_OriginUncertainty  horUnc -1  minHorUnc 29.0252  maxHorUnc 70.1672  azMaxHorUnc 64.0232
+QML_ConfidenceEllipsoid  semiMajorAxisLength 87.0542  semiMinorAxisLength 35.9084  semiIntermediateAxisLength 65.4295  majorAxisPlunge -4.68678  majorAxisAzimuth 64.1007  majorAxisRotation 2.01433
+FOCALMECH  Hyp  -6.242560 104.252232 39.955357 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20180409.114706.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m31"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 1.096965e+04 scatter_volume 1.096965e+04
+HYPOCENTER  x 105.658 y -6.86756 z 35.3423  OT 34.5173  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 04 09  11 46 34.517262  Lat -6.867560 Long 105.658482 Depth 35.342262
+QUALITY  Pmax 1.16846e+10 MFmin 6.22454 MFmax 10.4883 RMS 1.27181 Nphs 10 Gap 206.085 Dist 2.06286 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 52.704
+STATISTICS  ExpectX 105.630929 Y -6.940438 Z 47.556824  CovXX 878.79 XY 448.377 XZ 51.0588 YY 656.88 YZ 41.5795 ZZ 551.644 EllAz1  141.971 Dip1  0.302418 Len1  32.8622 Az2  55.1119 Dip2  -84.4972 Len2  43.8745 Len3  6.605545e+01
+STAT_GEOG  ExpectLat -6.940438 Long 105.630929 Depth 47.556824
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 1.27181  azGap 206.085  secAzGap 206.085  gtLevel -  minDist 229.38 maxDist 548.466 medDist 453.768
+QML_OriginUncertainty  horUnc -1  minHorUnc 26.5264  maxHorUnc 53.1826  azMaxHorUnc 51.9496
+QML_ConfidenceEllipsoid  semiMajorAxisLength 66.0555  semiMinorAxisLength 32.8622  semiIntermediateAxisLength 43.8745  majorAxisPlunge 5.4944  majorAxisAzimuth 51.9421  majorAxisRotation 0.309489
+FOCALMECH  Hyp  -6.867560 105.658482 35.342262 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20180414.180300.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m31"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 6.263187e+03 scatter_volume 6.263187e+03
+HYPOCENTER  x 108.371 y -8.16964 z 106.399  OT 11.7511  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 04 14  18 03 11.751068  Lat -8.169643 Long 108.370536 Depth 106.398810
+QUALITY  Pmax 1.36531e+06 MFmin 5.79392 MFmax 10.3266 RMS 0.0203068 Nphs 8 Gap 231.586 Dist 1.00656 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 57.896
+STATISTICS  ExpectX 106.219412 Y -6.894665 Z 151.802329  CovXX 83365 XY -39186.5 XZ 6310.46 YY 78819.8 YZ 1902.89 ZZ 8449.42 EllAz1  53.2764 Dip1  -80.4358 Len1  161.683 Az2  222.938 Dip2  -9.41173 Len2  388.638 Len3  6.520415e+02
+STAT_GEOG  ExpectLat -6.894665 Long 106.219412 Depth 151.802329
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.0203068  azGap 231.586  secAzGap 338.317  gtLevel -  minDist 111.924 maxDist 259.85 medDist 249.132
+QML_OriginUncertainty  horUnc -1  minHorUnc 310.213  maxHorUnc 526.111  azMaxHorUnc 133.34
+QML_ConfidenceEllipsoid  semiMajorAxisLength 652.041  semiMinorAxisLength 161.683  semiIntermediateAxisLength 388.638  majorAxisPlunge 1.68563  majorAxisAzimuth 133.218  majorAxisRotation 260.6
+FOCALMECH  Hyp  -8.169643 108.370536 106.398810 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20180509.212644.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m32"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 1.737889e+04 scatter_volume 1.735629e+04
+HYPOCENTER  x 104.855 y -6.49554 z 35.3423  OT 0.907065  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 05 09  21 26 0.907065  Lat -6.495536 Long 104.854911 Depth 35.342262
+QUALITY  Pmax 4.51245e+10 MFmin 6.06693 MFmax 7.44301 RMS 0.743881 Nphs 10 Gap 209.115 Dist 2.84932 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 40.735
+STATISTICS  ExpectX 104.733550 Y -6.628381 Z 50.897442  CovXX 788.708 XY -24.6094 XZ 167.93 YY 692.897 YZ -82.7866 ZZ 753.682 EllAz1  127.978 Dip1  -46.7653 Len1  45.3 Az2  208.968 Dip2  8.37549 Len2  49.4673 Len3  5.823621e+01
+STAT_GEOG  ExpectLat -6.628381 Long 104.733550 Depth 50.897442
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.743881  azGap 209.115  secAzGap 209.115  gtLevel -  minDist 316.831 maxDist 644.426 medDist 400.174
+QML_OriginUncertainty  horUnc -1  minHorUnc 39.7489  maxHorUnc 42.7518  azMaxHorUnc 103.595
+QML_ConfidenceEllipsoid  semiMajorAxisLength 58.2362  semiMinorAxisLength 45.3  semiIntermediateAxisLength 49.4673  majorAxisPlunge 42.0148  majorAxisAzimuth 111.346  majorAxisRotation 271.191
+FOCALMECH  Hyp  -6.495536 104.854911 35.342262 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20180605.230120.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m32"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50037 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 6.283933e+03 scatter_volume 6.283933e+03
+HYPOCENTER  x 105.658 y -4.87351 z 174.628  OT 41.291  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 06 05  23 00 41.291039  Lat -4.873512 Long 105.658482 Depth 174.627976
+QUALITY  Pmax 3.43063e+06 MFmin 4.66597 MFmax 10.1492 RMS 0.0439988 Nphs 8 Gap 191.446 Dist 2.19297 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 54.602
+STATISTICS  ExpectX 106.028206 Y -5.877223 Z 217.021962  CovXX 17977.7 XY -4387.34 XZ -4616.59 YY 34450.4 YZ -8576.38 ZZ 9267.47 EllAz1  232.035 Dip1  -60.4698 Len1  122.008 Az2  268.175 Dip2  24.5825 Len2  265.381 Len3  3.639679e+02
+STAT_GEOG  ExpectLat -5.877223 Long 106.028206 Depth 217.021962
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.0439988  azGap 191.446  secAzGap 191.446  gtLevel -  minDist 243.848 maxDist 634.454 medDist 471.856
+QML_OriginUncertainty  horUnc -1  minHorUnc 197.05  maxHorUnc 285.93  azMaxHorUnc 165.978
+QML_ConfidenceEllipsoid  semiMajorAxisLength 363.968  semiMinorAxisLength 122.008  semiIntermediateAxisLength 265.381  majorAxisPlunge 15.3276  majorAxisAzimuth 170.972  majorAxisRotation 292.357
+FOCALMECH  Hyp  -4.873512 105.658482 174.627976 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20180708.194704.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m32"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 4.496110e+03 scatter_volume 4.485176e+03
+HYPOCENTER  x 106.775 y -7.40327 z 13.4673  OT 27.9948  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 07 08  19 47 27.994844  Lat -7.403274 Long 106.774554 Depth 13.467262
+QUALITY  Pmax 4.688e+08 MFmin 6.48817 MFmax 9.75848 RMS 0.0179131 Nphs 10 Gap 210.501 Dist 0.869944 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 57.688
+STATISTICS  ExpectX 106.630787 Y -7.305334 Z 59.983962  CovXX 23908.6 XY -3871.01 XZ 2796.16 YY 2805.06 YZ 531.581 ZZ 8959.92 EllAz1  191.093 Dip1  8.61289 Len1  83.2648 Az2  322.832 Dip2  77.1825 Len2  174.963 Len3  2.972922e+02
+STAT_GEOG  ExpectLat -7.305334 Long 106.630787 Depth 59.983962
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.0179131  azGap 210.501  secAzGap 237.232  gtLevel -  minDist 96.7335 maxDist 550.907 medDist 416.587
+QML_OriginUncertainty  horUnc -1  minHorUnc 69.7856  maxHorUnc 237.847  azMaxHorUnc 100.073
+QML_ConfidenceEllipsoid  semiMajorAxisLength 297.292  semiMinorAxisLength 83.2648  semiIntermediateAxisLength 174.963  majorAxisPlunge 9.42009  majorAxisAzimuth 99.6531  majorAxisRotation 9.21757
+FOCALMECH  Hyp  -7.403274 106.774554 13.467262 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20180823.034440.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m33"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 1.193621e+04 scatter_volume 1.189646e+04
+HYPOCENTER  x 103.56 y -6.37649 z 124.182  OT 5.90583  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 08 23  03 44 5.905833  Lat -6.376488 Long 103.560268 Depth 124.181548
+QUALITY  Pmax 2.34526e+12 MFmin 5.63263 MFmax 8.06186 RMS 0.454783 Nphs 10 Gap 238.28 Dist 2.10318 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 76.597
+STATISTICS  ExpectX 103.666639 Y -6.363766 Z 74.384799  CovXX 406.222 XY 63.7868 XZ -257.5 YY 116.687 YZ -39.486 ZZ 1813.05 EllAz1  347.657 Dip1  -0.55188 Len1  19.0789 Az2  257.557 Dip2  -10.2308 Len2  36.2718 Len3  8.103269e+01
+STAT_GEOG  ExpectLat -6.363766 Long 103.666639 Depth 74.384799
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.454783  azGap 238.28  secAzGap 238.28  gtLevel -  minDist 233.863 maxDist 786.556 medDist 467.239
+QML_OriginUncertainty  horUnc -1  minHorUnc 15.4107  maxHorUnc 31.0677  azMaxHorUnc 78.1105
+QML_ConfidenceEllipsoid  semiMajorAxisLength 81.0327  semiMinorAxisLength 19.0789  semiIntermediateAxisLength 36.2718  majorAxisPlunge -79.754  majorAxisAzimuth 80.7117  majorAxisRotation 176.687
+FOCALMECH  Hyp  -6.376488 103.560268 124.181548 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20180902.010801.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m33"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 1.172336e+04 scatter_volume 1.164838e+04
+HYPOCENTER  x 103.516 y -6.80804 z 34.1518  OT 23.5511  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 09 02  01 07 23.551054  Lat -6.808036 Long 103.515625 Depth 34.151786
+QUALITY  Pmax 2.22755e+08 MFmin 4.20508 MFmax 9.97772 RMS 0.418059 Nphs 8 Gap 247.791 Dist 2.50971 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 29.584
+STATISTICS  ExpectX 103.705359 Y -6.772737 Z 59.259121  CovXX 13510.1 XY -259.125 XZ 2814.92 YY 1661.8 YZ -60.6669 ZZ 2856.86 EllAz1  181.274 Dip1  0.0932542 Len1  76.4602 Az2  271.651 Dip2  76.0759 Len2  87.2966 Len3  2.239972e+02
+STAT_GEOG  ExpectLat -6.772737 Long 103.705359 Depth 59.259121
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.418059  azGap 247.791  secAzGap 247.791  gtLevel -  minDist 279.067 maxDist 782.075 medDist 613.341
+QML_OriginUncertainty  horUnc -1  minHorUnc 61.7181  maxHorUnc 176.313  azMaxHorUnc 91.2523
+QML_ConfidenceEllipsoid  semiMajorAxisLength 223.997  semiMinorAxisLength 76.4602  semiIntermediateAxisLength 87.2966  majorAxisPlunge 13.9238  majorAxisAzimuth 91.2513  majorAxisRotation 0.108661
+FOCALMECH  Hyp  -6.808036 103.515625 34.151786 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20181025.054919.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m33"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50029 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 7.005371e+03 scatter_volume 6.986577e+03
+HYPOCENTER  x 105.926 y -6.42113 z 183.705  OT 42.6587  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 10 25  05 48 42.658663  Lat -6.421131 Long 105.926339 Depth 183.705357
+QUALITY  Pmax 8.25555e+07 MFmin 4.75921 MFmax 9.50961 RMS 0.566035 Nphs 8 Gap 219.437 Dist 2.0017 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 31.966
+STATISTICS  ExpectX 106.053998 Y -6.749834 Z 183.781236  CovXX 20088 XY -2418.74 XZ 1008.77 YY 13365.4 YZ -200.081 ZZ 2591.36 EllAz1  95.8632 Dip1  -86.74 Len1  94.5601 Az2  197.786 Dip2  -0.674192 Len2  210.789 Len3  2.717797e+02
+STAT_GEOG  ExpectLat -6.749834 Long 106.053998 Depth 183.781236
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.566035  azGap 219.437  secAzGap 219.437  gtLevel -  minDist 222.579 maxDist 533.142 medDist 458.877
+QML_OriginUncertainty  horUnc -1  minHorUnc 170.138  maxHorUnc 219.08  azMaxHorUnc 107.869
+QML_ConfidenceEllipsoid  semiMajorAxisLength 271.78  semiMinorAxisLength 94.5601  semiIntermediateAxisLength 210.789  majorAxisPlunge 3.18943  majorAxisAzimuth 107.823  majorAxisRotation 269.329
+FOCALMECH  Hyp  -6.421131 105.926339 183.705357 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20181029.211200.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m34"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50053 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 1.150156e+04 scatter_volume 1.134411e+04
+HYPOCENTER  x 106.451 y -5.96726 z 199.256  OT 22.9663  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 10 29  21 11 22.966323  Lat -5.967262 Long 106.450893 Depth 199.255952
+QUALITY  Pmax 1.06472e+07 MFmin 4.89903 MFmax 9.49912 RMS 0.133615 Nphs 8 Gap 188.796 Dist 1.90955 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 50.446
+STATISTICS  ExpectX 105.892571 Y -6.204879 Z 95.123214  CovXX 8238.11 XY 3394.21 XZ 3464.36 YY 7394.52 YZ 2447.55 ZZ 5651.79 EllAz1  265.623 Dip1  56.523 Len1  107.01 Az2  329.207 Dip2  -16.394 Len2  126.504 Len3  2.183565e+02
+STAT_GEOG  ExpectLat -6.204879 Long 105.892571 Depth 95.123214
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.133615  azGap 188.796  secAzGap 188.796  gtLevel -  minDist 212.333 maxDist 498.378 medDist 424.636
+QML_OriginUncertainty  horUnc -1  minHorUnc 100.552  maxHorUnc 160.761  azMaxHorUnc 48.5419
+QML_ConfidenceEllipsoid  semiMajorAxisLength 218.357  semiMinorAxisLength 107.01  semiIntermediateAxisLength 126.504  majorAxisPlunge 28.2894  majorAxisAzimuth 50.0968  majorAxisRotation 100.557
+FOCALMECH  Hyp  -5.967262 106.450893 199.255952 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20160306.115122.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m34"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50029 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 5.225139e+03 scatter_volume 5.196402e+03
+HYPOCENTER  x 104.721 y -2.89435 z 69.8661  OT 12.5709  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2016 03 06  11 51 12.570871  Lat -2.894345 Long 104.720982 Depth 69.866071
+QUALITY  Pmax 1.7684e+07 MFmin 5.1944 MFmax 8.72183 RMS 0.00125348 Nphs 8 Gap 231.428 Dist 0.0217049 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 51.865
+STATISTICS  ExpectX 106.316747 Y -4.934601 Z 84.076002  CovXX 14937.3 XY -14286.1 XZ -396.918 YY 21796.8 YZ 1090.93 ZZ 2812.62 EllAz1  45.8848 Dip1  -70.4699 Len1  96.6151 Az2  232.511 Dip2  -19.4094 Len2  115.867 Len3  3.418189e+02
+STAT_GEOG  ExpectLat -4.934601 Long 106.316747 Depth 84.076002
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.00125348  azGap 231.428  secAzGap 231.428  gtLevel -  minDist 2.41348 maxDist 784.033 medDist 519.244
+QML_OriginUncertainty  horUnc -1  minHorUnc 91.9378  maxHorUnc 275.746  azMaxHorUnc 141.75
+QML_ConfidenceEllipsoid  semiMajorAxisLength 341.819  semiMinorAxisLength 96.6151  semiIntermediateAxisLength 115.867  majorAxisPlunge -2.085  majorAxisAzimuth 141.776  majorAxisRotation 250.625
+FOCALMECH  Hyp  -2.894345 104.720982 69.866071 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20160317.130351.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m34"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50029 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 8.137300e+03 scatter_volume 8.137300e+03
+HYPOCENTER  x 104.33 y -6.57738 z 49.7024  OT 11.8504  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2016 03 17  13 03 11.850442  Lat -6.577381 Long 104.330357 Depth 49.702381
+QUALITY  Pmax 6.05824e+08 MFmin 4.40269 MFmax 8.42343 RMS 0.430775 Nphs 8 Gap 225.708 Dist 2.60334 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 46.528
+STATISTICS  ExpectX 104.351412 Y -6.552612 Z 73.108813  CovXX 7252.43 XY 864.93 XZ 1024.97 YY 1656.64 YZ 440.658 ZZ 2148.45 EllAz1  176.522 Dip1  26.3362 Len1  69.9351 Az2  329.874 Dip2  61.0204 Len2  85.577 Len3  1.637642e+02
+STAT_GEOG  ExpectLat -6.552612 Long 104.351412 Depth 73.108813
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.430775  azGap 225.708  secAzGap 225.708  gtLevel -  minDist 289.478 maxDist 698.639 medDist 543.777
+QML_OriginUncertainty  horUnc -1  minHorUnc 59.2435  maxHorUnc 130.311  azMaxHorUnc 81.4109
+QML_ConfidenceEllipsoid  semiMajorAxisLength 163.764  semiMinorAxisLength 69.9351  semiIntermediateAxisLength 85.577  majorAxisPlunge 11.2298  majorAxisAzimuth 80.8813  majorAxisRotation 28.7561
+FOCALMECH  Hyp  -6.577381 104.330357 49.702381 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20160321.022557.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m35"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50021 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 2.602194e+03 scatter_volume 2.602194e+03
+HYPOCENTER  x 105.022 y -4.86607 z 182.292  OT 20.2595  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2016 03 21  02 25 20.259516  Lat -4.866071 Long 105.022321 Depth 182.291667
+QUALITY  Pmax 1.09543e+07 MFmin 4.71901 MFmax 8.17161 RMS 0.0288786 Nphs 8 Gap 164.338 Dist 1.9922 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 62.995
+STATISTICS  ExpectX 105.087640 Y -4.784216 Z 186.683869  CovXX 5316.33 XY 1085.92 XZ -357.473 YY 7918.05 YZ 1771.11 ZZ 2901.24 EllAz1  146.176 Dip1  66.9122 Len1  87.9085 Az2  281.286 Dip2  16.8047 Len2  135.611 Len3  1.756149e+02
+STAT_GEOG  ExpectLat -4.784216 Long 105.087640 Depth 186.683869
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.0288786  azGap 164.338  secAzGap 164.338  gtLevel -  minDist 221.522 maxDist 695.376 medDist 440.936
+QML_OriginUncertainty  horUnc -1  minHorUnc 106.405  maxHorUnc 138.264  azMaxHorUnc 19.9271
+QML_ConfidenceEllipsoid  semiMajorAxisLength 175.615  semiMinorAxisLength 87.9085  semiIntermediateAxisLength 135.611  majorAxisPlunge 15.363  majorAxisAzimuth 16.0456  majorAxisRotation 74.8816
+FOCALMECH  Hyp  -4.866071 105.022321 182.291667 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20160424.043308.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m35"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50021 smallestNodeSide 9.928132/6.618755/0.595238 oct_tree_integral 1.223251e+05 scatter_volume 1.223251e+05
+HYPOCENTER  x 103.348 y -4.375 z 322.917  OT 27.6538  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2016 04 24  04 32 27.653761  Lat -4.375000 Long 103.348214 Depth 322.916667
+QUALITY  Pmax 91488.2 MFmin 4.2687 MFmax 9.155 RMS 0.173498 Nphs 8 Gap 155.483 Dist 0.387377 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 51.341
+STATISTICS  ExpectX 104.294068 Y -6.351133 Z 203.381246  CovXX 107685 XY 1338.64 XZ 4093.17 YY 46027 YZ 10628.1 ZZ 13136.2 EllAz1  187.37 Dip1  73.5642 Len1  186.676 Az2  357.529 Dip2  16.2068 Len2  416.156 Len3  6.172048e+02
+STAT_GEOG  ExpectLat -6.351133 Long 104.294068 Depth 203.381246
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.173498  azGap 155.483  secAzGap 155.483  gtLevel -  minDist 43.0745 maxDist 884.853 medDist 530.667
+QML_OriginUncertainty  horUnc -1  minHorUnc 325.262  maxHorUnc 497.738  azMaxHorUnc 88.7569
+QML_ConfidenceEllipsoid  semiMajorAxisLength 617.205  semiMinorAxisLength 186.676  semiIntermediateAxisLength 416.156  majorAxisPlunge 2.66159  majorAxisAzimuth 88.3036  majorAxisRotation 73.8416
+FOCALMECH  Hyp  -4.375000 103.348214 322.916667 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20160506.020448.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m35"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50045 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 1.218586e+04 scatter_volume 1.196845e+04
+HYPOCENTER  x 104.185 y -6.40625 z 133.854  OT 9.86402  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2016 05 06  02 04 9.864017  Lat -6.406250 Long 104.185268 Depth 133.854167
+QUALITY  Pmax 3.79296e+08 MFmin 4.38786 MFmax 8.27281 RMS 0.355817 Nphs 8 Gap 225.303 Dist 2.38224 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 39.261
+STATISTICS  ExpectX 104.248145 Y -6.401076 Z 95.410425  CovXX 1940.7 XY 285.569 XZ 19.6585 YY 1449.3 YZ 309.244 ZZ 2971.51 EllAz1  157.075 Dip1  9.27164 Len1  67.0538 Az2  248.417 Dip2  8.15961 Len2  85.0809 Len3  1.035431e+02
+STAT_GEOG  ExpectLat -6.401076 Long 104.248145 Depth 95.410425
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.355817  azGap 225.303  secAzGap 225.303  gtLevel -  minDist 264.893 maxDist 718.599 medDist 544.212
+QML_OriginUncertainty  horUnc -1  minHorUnc 55.064  maxHorUnc 69.0287  azMaxHorUnc 65.3542
+QML_ConfidenceEllipsoid  semiMajorAxisLength 103.543  semiMinorAxisLength 67.0538  semiIntermediateAxisLength 85.0809  majorAxisPlunge 77.6012  majorAxisAzimuth 19.1248  majorAxisRotation 308.649
+FOCALMECH  Hyp  -6.406250 104.185268 133.854167 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20160606.092202.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m36"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 2.434836e+04 scatter_volume 2.434836e+04
+HYPOCENTER  x 103.147 y -6.05655 z 214.137  OT 25.4599  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2016 06 06  09 21 25.459910  Lat -6.056548 Long 103.147321 Depth 214.136905
+QUALITY  Pmax 3.69764e+06 MFmin 4.2352 MFmax 8.5273 RMS 0.725359 Nphs 8 Gap 249.074 Dist 1.70677 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 58.822
+STATISTICS  ExpectX 103.618382 Y -6.117343 Z 175.164647  CovXX 49564.1 XY -2709.25 XZ -800.915 YY 10911.4 YZ 4218.19 ZZ 8402.75 EllAz1  2.13226 Dip1  -52.8744 Len1  135.931 Az2  185.308 Dip2  -37.0832 Len2  221.205 Len3  4.192032e+02
+STAT_GEOG  ExpectLat -6.117343 Long 103.618382 Depth 175.164647
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.725359  azGap 249.074  secAzGap 249.074  gtLevel -  minDist 189.785 maxDist 839.374 medDist 602.024
+QML_OriginUncertainty  horUnc -1  minHorUnc 157.04  maxHorUnc 338.278  azMaxHorUnc 93.99
+QML_ConfidenceEllipsoid  semiMajorAxisLength 419.203  semiMinorAxisLength 135.931  semiIntermediateAxisLength 221.205  majorAxisPlunge -1.52864  majorAxisAzimuth 94.1525  majorAxisRotation 232.941
+FOCALMECH  Hyp  -6.056548 103.147321 214.136905 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20160628.033335.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m36"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50053 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 2.204921e+04 scatter_volume 2.186993e+04
+HYPOCENTER  x 105.201 y -5.75893 z 171.28  OT 51.123  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2016 06 28  03 32 51.123018  Lat -5.758929 Long 105.200893 Depth 171.279762
+QUALITY  Pmax 2.22347e+06 MFmin 4.64974 MFmax 8.40519 RMS 0.203954 Nphs 8 Gap 189.511 Dist 2.63425 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 51.26
+STATISTICS  ExpectX 104.091340 Y -6.744380 Z 225.592716  CovXX 39912.2 XY 15943.2 XZ 4855.71 YY 48001.5 YZ 5785.18 ZZ 12041.4 EllAz1  224.192 Dip1  81.2816 Len1  196.032 Az2  308.097 Dip2  -0.932859 Len2  311.643 Len3  4.661454e+02
+STAT_GEOG  ExpectLat -6.744380 Long 104.091340 Depth 225.592716
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.203954  azGap 189.511  secAzGap 189.511  gtLevel -  minDist 292.916 maxDist 634.062 medDist 459.58
+QML_OriginUncertainty  horUnc -1  minHorUnc 251.535  maxHorUnc 372.735  azMaxHorUnc 37.8824
+QML_ConfidenceEllipsoid  semiMajorAxisLength 466.145  semiMinorAxisLength 196.032  semiIntermediateAxisLength 311.643  majorAxisPlunge 8.66754  majorAxisAzimuth 37.9543  majorAxisRotation 90.9008
+FOCALMECH  Hyp  -5.758929 105.200893 171.279762 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20160911.153602.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m36"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 1.510273e+04 scatter_volume 1.508027e+04
+HYPOCENTER  x 105.156 y -5.99702 z 297.47  OT 9.41448  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2016 09 11  15 35 9.414482  Lat -5.997024 Long 105.156250 Depth 297.470238
+QUALITY  Pmax 966698 MFmin 4.39005 MFmax 9.57845 RMS 0.50801 Nphs 8 Gap 196.635 Dist 2.73198 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 40.621
+STATISTICS  ExpectX 104.440154 Y -4.791843 Z 242.855199  CovXX 87915 XY -55263.3 XZ -6512.99 YY 62979 YZ 31.621 ZZ 10987 EllAz1  224.334 Dip1  -67.2833 Len1  179.14 Az2  217.553 Dip2  22.5738 Len2  268.847 Len3  6.834254e+02
+STAT_GEOG  ExpectLat -4.791843 Long 104.440154 Depth 242.855199
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.50801  azGap 196.635  secAzGap 196.635  gtLevel -  minDist 303.783 maxDist 629.059 medDist 471.703
+QML_OriginUncertainty  horUnc -1  minHorUnc 207.913  maxHorUnc 551.206  azMaxHorUnc 128.643
+QML_ConfidenceEllipsoid  semiMajorAxisLength 683.425  semiMinorAxisLength 179.14  semiIntermediateAxisLength 268.847  majorAxisPlunge -2.41303  majorAxisAzimuth 128.557  majorAxisRotation 292.523
+FOCALMECH  Hyp  -5.997024 105.156250 297.470238 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20161112.210806.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m37"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 1.253076e+04 scatter_volume 1.253076e+04
+HYPOCENTER  x 103.594 y -6.35417 z 35.2679  OT 34.3083  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2016 11 12  21 07 34.308305  Lat -6.354167 Long 103.593750 Depth 35.267857
+QUALITY  Pmax 1.3732e+07 MFmin 4.73377 MFmax 8.49364 RMS 0.412729 Nphs 8 Gap 236.818 Dist 2.0916 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 13.64
+STATISTICS  ExpectX 103.731075 Y -6.213810 Z 94.021211  CovXX 14081.1 XY 3153.66 XZ 637.885 YY 7102.04 YZ 1865.64 ZZ 6168.95 EllAz1  165.313 Dip1  43.5613 Len1  125.211 Az2  329.564 Dip2  45.3432 Len2  162.049 Len3  2.336988e+02
+STAT_GEOG  ExpectLat -6.213810 Long 103.731075 Depth 94.021211
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.412729  azGap 236.818  secAzGap 236.818  gtLevel -  minDist 232.576 maxDist 783.512 medDist 433.753
+QML_OriginUncertainty  horUnc -1  minHorUnc 116.373  maxHorUnc 187.559  azMaxHorUnc 68.9472
+QML_ConfidenceEllipsoid  semiMajorAxisLength 233.699  semiMinorAxisLength 125.211  semiIntermediateAxisLength 162.049  majorAxisPlunge 7.94606  majorAxisAzimuth 67.6854  majorAxisRotation 45.2081
+FOCALMECH  Hyp  -6.354167 103.593750 35.267857 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20170118.105217.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m37"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50053 smallestNodeSide 9.928132/6.618755/0.595238 oct_tree_integral 1.596101e+05 scatter_volume 1.596101e+05
+HYPOCENTER  x 105.491 y -6.57738 z 35.4167  OT 41.8079  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 01 18  10 51 41.807870  Lat -6.577381 Long 105.491071 Depth 35.416667
+QUALITY  Pmax 1.25893e+06 MFmin 4.01224 MFmax 6.66044 RMS 1.91663 Nphs 8 Gap 198.706 Dist 2.31739 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 1.79199  Npair 4  Diff 29.691
+STATISTICS  ExpectX 105.547320 Y -7.527080 Z 73.237281  CovXX 4265.07 XY -328.191 XZ 1111.67 YY 4483.02 YZ -246.618 ZZ 5101.82 EllAz1  80.6481 Dip1  -33.0546 Len1  110.801 Az2  1.86734 Dip2  16.6455 Len2  124.607 Len3  1.452120e+02
+STAT_GEOG  ExpectLat -7.527080 Long 105.547320 Depth 73.237281
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 1.91663  azGap 198.706  secAzGap 198.706  gtLevel -  minDist 257.682 maxDist 574.164 medDist 461.06
+QML_OriginUncertainty  horUnc -1  minHorUnc 96.2546  maxHorUnc 104.191  azMaxHorUnc 144.184
+QML_ConfidenceEllipsoid  semiMajorAxisLength 145.212  semiMinorAxisLength 110.801  semiIntermediateAxisLength 124.607  majorAxisPlunge 51.9695  majorAxisAzimuth 114.341  majorAxisRotation 97.2101
+FOCALMECH  Hyp  -6.577381 105.491071 35.416667 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20170219.151451.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m37"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50021 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 1.469568e+04 scatter_volume 1.469568e+04
+HYPOCENTER  x 105.647 y -6.23512 z 110.565  OT 22.7743  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 02 19  15 14 22.774331  Lat -6.235119 Long 105.647321 Depth 110.565476
+QUALITY  Pmax 9.93604e+08 MFmin 6.29471 MFmax 9.06358 RMS 0.636172 Nphs 10 Gap 183.141 Dist 2.33535 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 25.536
+STATISTICS  ExpectX 105.671265 Y -6.132413 Z 77.592073  CovXX 14004.5 XY 168.31 XZ 739.321 YY 2245.42 YZ -411.556 ZZ 2244.28 EllAz1  175.564 Dip1  -46.3937 Len1  79.6895 Az2  2.677 Dip2  -43.3853 Len2  96.5854 Len3  2.227224e+02
+STAT_GEOG  ExpectLat -6.132413 Long 105.671265 Depth 77.592073
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.636172  azGap 183.141  secAzGap 183.141  gtLevel -  minDist 259.68 maxDist 569.014 medDist 385.424
+QML_OriginUncertainty  horUnc -1  minHorUnc 71.8257  maxHorUnc 179.488  azMaxHorUnc 89.1801
+QML_ConfidenceEllipsoid  semiMajorAxisLength 222.722  semiMinorAxisLength 79.6895  semiIntermediateAxisLength 96.5854  majorAxisPlunge 3.55835  majorAxisAzimuth 89.3075  majorAxisRotation 313.269
+FOCALMECH  Hyp  -6.235119 105.647321 110.565476 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20170310.161416.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m38"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50021 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 4.298391e+03 scatter_volume 4.250617e+03
+HYPOCENTER  x 105.346 y -6.39137 z 25.372  OT 37.4283  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 03 10  16 13 37.428310  Lat -6.391369 Long 105.345982 Depth 25.372024
+QUALITY  Pmax 5.56646e+10 MFmin 5.74923 MFmax 7.72898 RMS 0.432939 Nphs 10 Gap 195.239 Dist 2.5245 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 77.488
+STATISTICS  ExpectX 105.343403 Y -6.394583 Z 62.210423  CovXX 464.19 XY -238.847 XZ 69.0027 YY 1240.02 YZ 6.07823 ZZ 1631.9 EllAz1  74.2338 Dip1  -3.14389 Len1  37.2377 Az2  164.357 Dip2  -2.24877 Len2  67.9282 Len3  7.599732e+01
+STAT_GEOG  ExpectLat -6.394583 Long 105.343403 Depth 62.210423
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.432939  azGap 195.239  secAzGap 195.239  gtLevel -  minDist 280.712 maxDist 595.283 medDist 394.767
+QML_OriginUncertainty  horUnc -1  minHorUnc 30.2006  maxHorUnc 54.8417  azMaxHorUnc 164.189
+QML_ConfidenceEllipsoid  semiMajorAxisLength 75.9973  semiMinorAxisLength 37.2377  semiIntermediateAxisLength 67.9282  majorAxisPlunge -86.1333  majorAxisAzimuth 289.878  majorAxisRotation 54.6653
+FOCALMECH  Hyp  -6.391369 105.345982 25.372024 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20170424.212939.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m38"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50029 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 7.869520e+03 scatter_volume 7.804677e+03
+HYPOCENTER  x 105.525 y -6.01935 z 49.628  OT 4.00125  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 04 24  21 29 4.001253  Lat -6.019345 Long 105.524554 Depth 49.627976
+QUALITY  Pmax 1.14156e+09 MFmin 6.18881 MFmax 8.89413 RMS 0.78545 Nphs 10 Gap 178.455 Dist 2.55549 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 38.56
+STATISTICS  ExpectX 105.392483 Y -5.914969 Z 81.271816  CovXX 3235.69 XY -2591.26 XZ -2883.32 YY 4299.68 YZ 3787.9 ZZ 5360.94 EllAz1  15.0315 Dip1  -33.667 Len1  59.157 Az2  262.571 Dip2  -29.8372 Len2  65.894 Len3  1.941196e+02
+STAT_GEOG  ExpectLat -5.914969 Long 105.392483 Depth 81.271816
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.78545  azGap 178.455  secAzGap 178.455  gtLevel -  minDist 284.158 maxDist 590.063 medDist 358.695
+QML_OriginUncertainty  horUnc -1  minHorUnc 50.8081  maxHorUnc 121.449  azMaxHorUnc 140.801
+QML_ConfidenceEllipsoid  semiMajorAxisLength 194.12  semiMinorAxisLength 59.157  semiIntermediateAxisLength 65.894  majorAxisPlunge -41.8502  majorAxisAzimuth 141.658  majorAxisRotation 264.376
+FOCALMECH  Hyp  -6.019345 105.524554 49.627976 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20170708.224903.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m38"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50037 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 8.155634e+03 scatter_volume 8.046604e+03
+HYPOCENTER  x 105.926 y -7.73065 z 29.9851  OT 35.5978  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 07 08  22 48 35.597772  Lat -7.730655 Long 105.926339 Depth 29.985119
+QUALITY  Pmax 2.68824e+11 MFmin 5.98067 MFmax 7.93891 RMS 0.788354 Nphs 10 Gap 226.074 Dist 1.72984 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 29.514
+STATISTICS  ExpectX 105.992422 Y -7.533153 Z 37.795469  CovXX 2135.59 XY 276.894 XZ 196.55 YY 940.737 YZ 5.1072 ZZ 419.669 EllAz1  293.321 Dip1  82.4742 Len1  37.3925 Az2  348.206 Dip2  -4.34562 Len2  55.815 Len3  8.847236e+01
+STAT_GEOG  ExpectLat -7.533153 Long 105.992422 Depth 37.795469
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.788354  azGap 226.074  secAzGap 226.074  gtLevel -  minDist 192.35 maxDist 554.03 medDist 503.444
+QML_OriginUncertainty  horUnc -1  minHorUnc 44.981  maxHorUnc 71.0794  azMaxHorUnc 77.5667
+QML_ConfidenceEllipsoid  semiMajorAxisLength 88.4724  semiMinorAxisLength 37.3925  semiIntermediateAxisLength 55.815  majorAxisPlunge 6.13248  majorAxisAzimuth 77.7385  majorAxisRotation 94.2713
+FOCALMECH  Hyp  -7.730655 105.926339 29.985119 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20170902.033303.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m39"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 2.966880e+03 scatter_volume 2.955988e+03
+HYPOCENTER  x 104.944 y -6.06399 z 35.3423  OT 24.3444  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 09 02  03 32 24.344431  Lat -6.063988 Long 104.944196 Depth 35.342262
+QUALITY  Pmax 1.13938e+13 MFmin 6.12447 MFmax 10.1012 RMS 0.452279 Nphs 10 Gap 193.07 Dist 2.60918 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 54.284
+STATISTICS  ExpectX 104.931930 Y -6.083430 Z 52.195604  CovXX 498.798 XY 188.937 XZ 82.2595 YY 423.036 YZ 3.65221 ZZ 439.736 EllAz1  137.998 Dip1  -15.7585 Len1  29.9607 Az2  6.09333 Dip2  -67.0956 Len2  39.1641 Len3  4.873266e+01
+STAT_GEOG  ExpectLat -6.083430 Long 104.931930 Depth 52.195604
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.452279  azGap 193.07  secAzGap 193.07  gtLevel -  minDist 290.128 maxDist 648.699 medDist 352.86
+QML_OriginUncertainty  horUnc -1  minHorUnc 24.8376  maxHorUnc 38.7726  azMaxHorUnc 50.6686
+QML_ConfidenceEllipsoid  semiMajorAxisLength 48.7327  semiMinorAxisLength 29.9607  semiIntermediateAxisLength 39.1641  majorAxisPlunge 16.1871  majorAxisAzimuth 52.6964  majorAxisRotation 340.757
+FOCALMECH  Hyp  -6.063988 104.944196 35.342262 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20170321.131416.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m39"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50045 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 3.126721e+04 scatter_volume 3.101438e+04
+HYPOCENTER  x 103.437 y -6.69643 z 375.298  OT 20.1748  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 03 21  13 13 20.174813  Lat -6.696429 Long 103.437500 Depth 375.297619
+QUALITY  Pmax 2.19465e+07 MFmin 5.19924 MFmax 8.82327 RMS 0.872128 Nphs 10 Gap 247.872 Dist 2.38427 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 80.305
+STATISTICS  ExpectX 103.270526 Y -5.320312 Z 296.306878  CovXX 49123.5 XY 29957.5 XZ -12756.5 YY 94888.6 YZ -15065.6 ZZ 11836.1 EllAz1  69.6634 Dip1  75.5567 Len1  161.697 Az2  298.794 Dip2  9.56629 Len2  352.056 Len3  6.324990e+02
+STAT_GEOG  ExpectLat -5.320312 Long 103.270526 Depth 296.306878
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.872128  azGap 247.872  secAzGap 247.872  gtLevel -  minDist 265.119 maxDist 792.697 medDist 472.525
+QML_OriginUncertainty  horUnc -1  minHorUnc 280.911  maxHorUnc 502.312  azMaxHorUnc 26.3131
+QML_ConfidenceEllipsoid  semiMajorAxisLength 632.499  semiMinorAxisLength 161.697  semiIntermediateAxisLength 352.056  majorAxisPlunge -10.7189  majorAxisAzimuth 26.9659  majorAxisRotation 80.9243
+FOCALMECH  Hyp  -6.696429 103.437500 375.297619 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20171108.191752.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m39"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50029 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 1.109485e+04 scatter_volume 1.098523e+04
+HYPOCENTER  x 104.654 y -6.61458 z 28.7946  OT 8.82713  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 11 08  19 17 8.827128  Lat -6.614583 Long 104.654018 Depth 28.794643
+QUALITY  Pmax 2.5534e+11 MFmin 5.94415 MFmax 8.89943 RMS 0.62139 Nphs 10 Gap 217.07 Dist 2.81535 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 62.128
+STATISTICS  ExpectX 104.633542 Y -6.640849 Z 56.523062  CovXX 354.365 XY 93.8918 XZ 15.4338 YY 394.92 YZ -62.2181 ZZ 893.192 EllAz1  129.851 Dip1  -4.77693 Len1  31.1181 Az2  40.2722 Dip2  5.0311 Len2  40.6144 Len3  5.639216e+01
+STAT_GEOG  ExpectLat -6.640849 Long 104.633542 Depth 56.523062
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.62139  azGap 217.07  secAzGap 217.07  gtLevel -  minDist 313.054 maxDist 662.857 medDist 413.075
+QML_OriginUncertainty  horUnc -1  minHorUnc 25.313  maxHorUnc 32.903  azMaxHorUnc 38.9065
+QML_ConfidenceEllipsoid  semiMajorAxisLength 56.3922  semiMinorAxisLength 31.1181  semiIntermediateAxisLength 40.6144  majorAxisPlunge 83.0538  majorAxisAzimuth 176.542  majorAxisRotation 135.631
+FOCALMECH  Hyp  -6.614583 104.654018 28.794643 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20171126.190723.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m40"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 9.751430e+03 scatter_volume 9.751430e+03
+HYPOCENTER  x 105.647 y -6.20536 z 320.089  OT 32.071  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 11 26  19 06 32.070994  Lat -6.205357 Long 105.647321 Depth 320.089286
+QUALITY  Pmax 1.30177e+07 MFmin 4.59933 MFmax 7.99713 RMS 0.389392 Nphs 8 Gap 182.095 Dist 2.35115 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 35.763
+STATISTICS  ExpectX 105.572587 Y -5.946889 Z 294.155989  CovXX 14398.7 XY -2923.9 XZ 371.637 YY 12575.2 YZ -2978.65 ZZ 3271.07 EllAz1  188.068 Dip1  -72.9028 Len1  91.659 Az2  221.786 Dip2  14.3509 Len2  196.912 Len3  2.441087e+02
+STAT_GEOG  ExpectLat -5.946889 Long 105.572587 Depth 294.155989
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.389392  azGap 182.095  secAzGap 182.095  gtLevel -  minDist 261.436 maxDist 537.621 medDist 371.835
+QML_OriginUncertainty  horUnc -1  minHorUnc 154.841  maxHorUnc 195.101  azMaxHorUnc 126.34
+QML_ConfidenceEllipsoid  semiMajorAxisLength 244.109  semiMinorAxisLength 91.659  semiIntermediateAxisLength 196.912  majorAxisPlunge 9.09701  majorAxisAzimuth 129.438  majorAxisRotation 283.84
+FOCALMECH  Hyp  -6.205357 105.647321 320.089286 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20170310.163349.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m40"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50045 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 1.261894e+04 scatter_volume 1.261894e+04
+HYPOCENTER  x 105.067 y -6.26488 z 45.0893  OT 6.42969  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 03 10  16 33 6.429692  Lat -6.264881 Long 105.066964 Depth 45.089286
+QUALITY  Pmax 2.01643e+06 MFmin 4.71934 MFmax 9.96231 RMS 0.582202 Nphs 8 Gap 197 Dist 2.82929 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 31.942
+STATISTICS  ExpectX 107.022209 Y -7.357719 Z 129.002079  CovXX 85178.4 XY -16526.8 XZ 13303 YY 17494.8 YZ -5580.43 ZZ 13695.2 EllAz1  176.6 Dip1  -57.6169 Len1  184.68 Az2  199.471 Dip2  30.2998 Len2  230.955 Len3  5.686239e+02
+STAT_GEOG  ExpectLat -7.357719 Long 107.022209 Depth 129.002079
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.582202  azGap 197  secAzGap 197  gtLevel -  minDist 314.603 maxDist 628.885 medDist 457.445
+QML_OriginUncertainty  horUnc -1  minHorUnc 177.348  maxHorUnc 452.433  azMaxHorUnc 103.014
+QML_ConfidenceEllipsoid  semiMajorAxisLength 568.624  semiMinorAxisLength 184.68  semiIntermediateAxisLength 230.955  majorAxisPlunge 10.3532  majorAxisAzimuth 103.342  majorAxisRotation 299.198
+FOCALMECH  Hyp  -6.264881 105.066964 45.089286 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20170425.163812.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m40"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 6.732347e+03 scatter_volume 6.732347e+03
+HYPOCENTER  x 105.346 y -7.35863 z 34.3006  OT 36.9019  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 04 25  16 37 36.901918  Lat -7.358631 Long 105.345982 Depth 34.300595
+QUALITY  Pmax 7.91852e+12 MFmin 5.97181 MFmax 7.83354 RMS 0.503671 Nphs 10 Gap 225.032 Dist 2.28702 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 122.166
+STATISTICS  ExpectX 105.369394 Y -7.313371 Z 42.686689  CovXX 55.3498 XY 85.8034 XZ -20.3602 YY 165.798 YZ -54.8195 ZZ 411.039 EllAz1  298.969 Dip1  1.2432 Len1  5.43013 Az2  209.305 Dip2  -15.1038 Len2  26.3701 Len3  3.881688e+01
+STAT_GEOG  ExpectLat -7.313371 Long 105.369394 Depth 42.686689
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.503671  azGap 225.032  secAzGap 225.032  gtLevel -  minDist 254.306 maxDist 573.506 medDist 500.91
+QML_OriginUncertainty  horUnc -1  minHorUnc 4.43063  maxHorUnc 22.1135  azMaxHorUnc 28.6171
+QML_ConfidenceEllipsoid  semiMajorAxisLength 38.8169  semiMinorAxisLength 5.43013  semiIntermediateAxisLength 26.3701  majorAxisPlunge -74.8427  majorAxisAzimuth 24.3746  majorAxisRotation 185.509
+FOCALMECH  Hyp  -7.358631 105.345982 34.300595 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20170424.212938.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m41"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50045 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 7.516386e+03 scatter_volume 7.490144e+03
+HYPOCENTER  x 105.145 y -6.46577 z 224.33  OT 58.6338  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 04 24  21 28 58.633780  Lat -6.465774 Long 105.145089 Depth 224.330357
+QUALITY  Pmax 1.19269e+09 MFmin 5.9204 MFmax 9.87718 RMS 0.73427 Nphs 10 Gap 202.018 Dist 2.67781 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 5  Diff 41.734
+STATISTICS  ExpectX 105.173473 Y -6.316585 Z 252.171903  CovXX 1631.11 XY -343.305 XZ -53.644 YY 1804.3 YZ 540.27 ZZ 824.917 EllAz1  12.251 Dip1  -64.3751 Len1  45.1363 Az2  244.59 Dip2  -16.3339 Len2  71.559 Len3  8.877492e+01
+STAT_GEOG  ExpectLat -6.316585 Long 105.173473 Depth 252.171903
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 10  usedPhCt 10  assocStaCt -1  usedStaCt 5  depthPhCt -1  stdErr 0.73427  azGap 202.018  secAzGap 202.018  gtLevel -  minDist 297.76 maxDist 614.309 medDist 399.552
+QML_OriginUncertainty  horUnc -1  minHorUnc 56.0035  maxHorUnc 69.0294  azMaxHorUnc 142.079
+QML_ConfidenceEllipsoid  semiMajorAxisLength 88.7749  semiMinorAxisLength 45.1363  semiIntermediateAxisLength 71.559  majorAxisPlunge -19.1807  majorAxisAzimuth 148.739  majorAxisRotation 256.257
+FOCALMECH  Hyp  -6.465774 105.145089 224.330357 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20170717.161924.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m41"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50021 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 2.690742e+03 scatter_volume 2.690742e+03
+HYPOCENTER  x 103.025 y -5.29018 z 109.301  OT 3.81612  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 07 17  16 19 3.816120  Lat -5.290179 Long 103.024554 Depth 109.300595
+QUALITY  Pmax 4.43394e+08 MFmin 4.81206 MFmax 8.76671 RMS 0.349717 Nphs 8 Gap 240.529 Dist 0.9324 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 73.828
+STATISTICS  ExpectX 103.032282 Y -5.272107 Z 104.265640  CovXX 2358.36 XY 678.389 XZ 296.148 YY 1884.38 YZ 505.02 ZZ 946.666 EllAz1  180.03 Dip1  66.4432 Len1  50.6383 Az2  317.393 Dip2  17.7831 Len2  72.292 Len3  1.026072e+02
+STAT_GEOG  ExpectLat -5.272107 Long 103.032282 Depth 104.265640
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.349717  azGap 240.529  secAzGap 240.529  gtLevel -  minDist 103.678 maxDist 877.609 medDist 444.744
+QML_OriginUncertainty  horUnc -1  minHorUnc 56.8013  maxHorUnc 80.8203  azMaxHorUnc 54.6282
+QML_ConfidenceEllipsoid  semiMajorAxisLength 102.607  semiMinorAxisLength 50.6383  semiIntermediateAxisLength 72.292  majorAxisPlunge 14.9381  majorAxisAzimuth 52.3017  majorAxisRotation 73.8859
+FOCALMECH  Hyp  -5.290179 103.024554 109.300595 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20170403.195551.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m41"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 1.718781e+04 scatter_volume 1.718781e+04
+HYPOCENTER  x 103.46 y -6.41369 z 174.851  OT 13.6219  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 04 03  19 55 13.621876  Lat -6.413690 Long 103.459821 Depth 174.851190
+QUALITY  Pmax 4.02161e+07 MFmin 4.54631 MFmax 8.45648 RMS 0.408499 Nphs 8 Gap 241.989 Dist 2.11311 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 44.853
+STATISTICS  ExpectX 103.590048 Y -6.215479 Z 126.523947  CovXX 4296.6 XY -35.1783 XZ -924.856 YY 3872.73 YZ 773.335 ZZ 4565.36 EllAz1  322.561 Dip1  -38.977 Len1  104.804 Az2  224.389 Dip2  -9.96368 Len2  119.249 Len3  1.405320e+02
+STAT_GEOG  ExpectLat -6.215479 Long 103.590048 Depth 126.523947
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.408499  azGap 241.989  secAzGap 241.989  gtLevel -  minDist 234.968 maxDist 796.474 medDist 445.543
+QML_OriginUncertainty  horUnc -1  minHorUnc 94.343  maxHorUnc 99.4427  azMaxHorUnc 94.7122
+QML_ConfidenceEllipsoid  semiMajorAxisLength 140.532  semiMinorAxisLength 104.804  semiIntermediateAxisLength 119.249  majorAxisPlunge -49.2793  majorAxisAzimuth 122.613  majorAxisRotation 92.3442
+FOCALMECH  Hyp  -6.413690 103.459821 174.851190 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20170505.112551.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m42"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50021 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 1.555798e+04 scatter_volume 1.548064e+04
+HYPOCENTER  x 105.067 y -6.86012 z 41.5179  OT 11.0578  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 05 05  11 25 11.057786  Lat -6.860119 Long 105.066964 Depth 41.517857
+QUALITY  Pmax 1.78079e+07 MFmin 4.88912 MFmax 8.14246 RMS 0.63186 Nphs 8 Gap 216.572 Dist 2.63215 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 24.391
+STATISTICS  ExpectX 105.355682 Y -6.400502 Z 78.632058  CovXX 3606.2 XY 1070.52 XZ -197.712 YY 4805.78 YZ 124.129 ZZ 2710.75 EllAz1  120.617 Dip1  59.9413 Len1  95.353 Az2  300.267 Dip2  30.0582 Len2  104.844 Len3  1.384877e+02
+STAT_GEOG  ExpectLat -6.400502 Long 105.355682 Depth 78.632058
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.63186  azGap 216.572  secAzGap 216.572  gtLevel -  minDist 292.682 maxDist 612.536 medDist 402.52
+QML_OriginUncertainty  horUnc -1  minHorUnc 82.7736  maxHorUnc 111.786  azMaxHorUnc 30.3694
+QML_ConfidenceEllipsoid  semiMajorAxisLength 138.488  semiMinorAxisLength 95.353  semiIntermediateAxisLength 104.844  majorAxisPlunge 0.151487  majorAxisAzimuth 30.355  majorAxisRotation 59.942
+FOCALMECH  Hyp  -6.860119 105.066964 41.517857 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+
+NLLOC "./loc/sunda.20170107.033844.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m42"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50013 smallestNodeSide 4.964066/3.309377/0.297619 oct_tree_integral 1.450666e+04 scatter_volume 1.431047e+04
+HYPOCENTER  x 104.308 y -6.05655 z 35.2679  OT 10.7492  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2017 01 07  03 38 10.749222  Lat -6.056548 Long 104.308036 Depth 35.267857
+QUALITY  Pmax 2.51511e+08 MFmin 4.46216 MFmax 9.59299 RMS 0.369665 Nphs 8 Gap 208.469 Dist 2.16341 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 45.036
+STATISTICS  ExpectX 104.605237 Y -5.982541 Z 60.620441  CovXX 18082.2 XY -7897.07 XZ 3399.09 YY 6765.87 YZ -1976.1 ZZ 2212.5 EllAz1  157.442 Dip1  -76.0453 Len1  71.1729 Az2  208.982 Dip2  8.78557 Len2  98.3619 Len3  2.842238e+02
+STAT_GEOG  ExpectLat -5.982541 Long 104.605237 Depth 60.620441
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.369665  azGap 208.469  secAzGap 208.469  gtLevel -  minDist 240.561 maxDist 715.887 medDist 543.492
+QML_OriginUncertainty  horUnc -1  minHorUnc 78.9374  maxHorUnc 225.653  azMaxHorUnc 117.189
+QML_ConfidenceEllipsoid  semiMajorAxisLength 284.224  semiMinorAxisLength 71.1729  semiIntermediateAxisLength 98.3619  majorAxisPlunge 10.7556  majorAxisAzimuth 117.3  majorAxisRotation 278.33
+FOCALMECH  Hyp  -6.056548 104.308036 35.267857 Mech  0 0 0 mf  0 nObs -1
+END_NLLOC
+

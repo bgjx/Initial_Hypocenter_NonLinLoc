@@ -1,0 +1,29 @@
+NLLOC "./loc/sunda.20180902.010801.grid0" "LOCATED" "Location completed."
+PUBLIC_ID None
+SIGNATURE "Arham Zakki Edelo (03411740000030)   obs:./obs/event.obs   NLLoc:v7.00.10(30Aug2020)   run:31Oct2021 20h56m33"
+COMMENT "TA Selat Sunda"
+GRID  61 41 401  90 -20 0  1 1 1 PROB_DENSITY
+SEARCH OCTREE nInitial 9093 nEvaluated 50005 smallestNodeSide 2.482033/1.654689/0.148810 oct_tree_integral 1.172336e+04 scatter_volume 1.164838e+04
+HYPOCENTER  x 103.516 y -6.80804 z 34.1518  OT 23.5511  ix -1 iy -1 iz -1 MAXIMUM_LIKELIHOOD
+GEOGRAPHIC  OT 2018 09 02  01 07 23.551054  Lat -6.808036 Long 103.515625 Depth 34.151786
+QUALITY  Pmax 2.22755e+08 MFmin 4.20508 MFmax 9.97772 RMS 0.418059 Nphs 8 Gap 247.791 Dist 2.50971 Mamp -9.90 0 Mdur -9.90 0
+VPVSRATIO  VpVsRatio 2  Npair 4  Diff 29.584
+STATISTICS  ExpectX 103.705359 Y -6.772737 Z 59.259121  CovXX 13510.1 XY -259.125 XZ 2814.92 YY 1661.8 YZ -60.6669 ZZ 2856.86 EllAz1  181.274 Dip1  0.0932542 Len1  76.4602 Az2  271.651 Dip2  76.0759 Len2  87.2966 Len3  2.239972e+02
+STAT_GEOG  ExpectLat -6.772737 Long 103.705359 Depth 59.259121
+TRANSFORM  GLOBAL
+QML_OriginQuality  assocPhCt 8  usedPhCt 8  assocStaCt -1  usedStaCt 4  depthPhCt -1  stdErr 0.418059  azGap 247.791  secAzGap 247.791  gtLevel -  minDist 279.067 maxDist 782.075 medDist 613.341
+QML_OriginUncertainty  horUnc -1  minHorUnc 61.7181  maxHorUnc 176.313  azMaxHorUnc 91.2523
+QML_ConfidenceEllipsoid  semiMajorAxisLength 223.997  semiMinorAxisLength 76.4602  semiIntermediateAxisLength 87.2966  majorAxisPlunge 13.9238  majorAxisAzimuth 91.2513  majorAxisRotation 0.108661
+FOCALMECH  Hyp  -6.808036 103.515625 34.151786 Mech  0 0 0 mf  0 nObs -1
+PHASE ID Ins Cmp On Pha  FM Date     HrMn   Sec     Err  ErrMag    Coda      Amp       Per  >   TTpred    Res       Weight    StaLoc(X  Y         Z)        SDist    SAzim  RAz  RDip RQual    Tcorr 
+MNAI   ?    Z    i P      c 20180902 0108    1.8990 GAU  0.00e+00 -1.00e+00 -1.00e+00 -1.00e+00 >   38.3594   -0.0114    1.6487  102.9600   -4.3600   -0.0900    2.5097 347.24  -1.0  -1.0  0     0.0000
+MNAI   ?    Z    e S      ? 20180902 0108   31.4910 GAU  0.00e+00 -1.00e+00 -1.00e+00 -1.00e+00 >   67.7581    0.1819    1.5345  102.9600   -4.3600   -0.0900    2.5097 347.24  -1.0  -1.0  0     0.0000
+BBJI   ?    Z    i P      c 20180902 0108   24.0820 GAU  0.00e+00 -1.00e+00  1.15e+03 -1.00e+00 >   60.9635   -0.4326    1.3304  107.6500   -7.4600   -0.5500    4.1538  99.28  -1.0  -1.0  0     0.0000
+BBJI   ?    Z    e S      ? 20180902 0109   11.8460 GAU  0.00e+00 -1.00e+00  2.26e+02 -1.00e+00 >  108.3175   -0.0226    1.2607  107.6500   -7.4600   -0.5500    4.1538  99.28  -1.0  -1.0  0     0.0000
+SMRI   ?    Z    e P      c 20180902 0109    2.8450 GAU  0.00e+00 -1.00e+00  1.93e+03 -1.00e+00 >   98.3863    0.9076    1.0867  110.4400   -7.0500   -0.2040    6.8780  92.43  -1.0  -1.0  0     0.0000
+SMRI   ?    Z    e S      ? 20180902 0109   36.2120 GAU  0.00e+00 -1.00e+00  1.45e+03 -1.00e+00 >  175.4413  -42.7804    0.0000  110.4400   -7.0500   -0.2040    6.8780  92.43  -1.0  -1.0  0     0.0000
+UGM    ?    Z    e P      c 20180902 0109    4.8720 GAU  0.00e+00 -1.00e+00 -1.00e+00 -1.00e+00 >  100.5191    0.8019    1.1390  110.5200   -7.9100   -0.1120    7.0334  99.45  -1.0  -1.0  0     0.0000
+UGM    ?    Z    e S      ? 20180902 0110    4.0480 GAU  0.00e+00 -1.00e+00  8.28e+02 -1.00e+00 >  179.2654  -18.7685    0.0000  110.5200   -7.9100   -0.1120    7.0334  99.45  -1.0  -1.0  0     0.0000
+END_PHASE
+END_NLLOC
+
