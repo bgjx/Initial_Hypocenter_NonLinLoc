@@ -7,45 +7,91 @@ Created on Wed Jun  2 21:55:02 2021
 @contact: edelo.arham@gmail.com
 """
 from collections import defaultdict as dfdict
-import glob
+import glob, os
 from pyproj import Proj
+import pandas as pd
+from pathlib import Path
 
 print ("""
-----------------------------------------------------------------
-This code is used for making initial hiposenter catalog from NonLinLoc output
-
-
+Python code for generating initial hiposenter catalog from NonLinLoc output
 """)
 
-# initialize input output
-custom_name1 = input("Input your desired hypocenter detail output name: ")
-zone_input   = int(input("Insert UTM zone for convertion to Geographic system : "))
-myProj       = Proj(proj='utm', zone=zone_input, ellps='WGS84', datum='WGS84', units='m', south=True )
-ID           = int(input('Insert custom ID (4 digits integer ex. 1000) : '))
+def create_catalog(file_hyp, _id, myProj, df_holder):    
+    data_to_formated=[line.split() for line in open(file_hyp,'r').readlines()]
+    for i in data_to_formated:
+        try:
+            if i[0]=="GEOGRAPHIC":
+                long, lat=myProj((float(i[11])*1000), (float(i[9])*1000), inverse=True)
+                df_holder["ID"].append(_id)
+                df_holder["Lat"].append(lat)
+                df_holder["Lon"].append(long)
+                df_holder["UTM_X"].append((float(i[11])*1000))
+                df_holder["UTM_Y"].append((float(i[9])*1000))
+                df_holder["Depth"].append((float(i[13])*1000))
+                df_holder["Elev"].append((float(-1*(float(i[13])*1000))))
+                df_holder["Year"].append((int(i[2])))
+                df_holder["Month"].append((int(i[3])))
+                df_holder["Day"].append((int(i[4])))
+                df_holder["Hour"].append((int(i[5])))
+                df_holder["Minute"].append((float(i[6])))
+                df_holder["T0"].append((float(i[7])))
+            elif i[0]=="QUALITY" :
+                df_holder["RMS_error"].append((float(i[8])))
+                df_holder["N_Phases"].append((int(i[10])))
+                df_holder["GAP"].append((float(i[12])))
+            elif i[0]=="STATISTICS":
+                errXX=(3.53 * float(i[8]))**0.5  # it is the double error
+                errYY=(3.53 * float(i[14]))**0.5
+                errZZ=(3.53 * float(i[18]))**0.5
+                df_holder["PDF_errXX(m)"].append(errXX*1000)
+                df_holder["PDF errYY(m)"].append(errYY*1000)
+                df_holder["PDF errZZ(m)"].append(errZZ*1000)
+            else:
+                pass
+        except Exception:
+                continue
+    return None
+
+# initialize input and output path
+hyp_path    = Path(r"F:\SEML\DATA PROCESSING\MEQ MISCELANEOUS PROCESSING\NonLinLoc Results\2023\re run 2023_01 2023_10\re run all 2023")  # file solusi NLL
+output_path = Path(r"F:\SEML\DD RELOCATION\ph2dt")
+
+# dinamic input prompt
+output_name = input("Input your desired hypocenter detail output name: ")
+zone_input  = int(input("Insert UTM zone for convertion to Geographic system : "))
+myProj      = Proj(proj='utm', zone=zone_input, ellps='WGS84', datum='WGS84', units='m', south=True )
+ID          = int(input('Insert custom ID (4 digits integer ex. 1000) : '))
 
 # gather all .hyp file
-file_name=glob.glob('*.grid0.loc.hyp')
+file_name = glob.glob(os.path.join(hyp_path, '*.grid0.loc.hyp'), recursive=True)
 file_name.sort()
-with open (custom_name1 + ".csv", "w") as file_output_hypo:
-    file_output_hypo.write("ID\tLat\tLong\tUTM X (m)\tUTM Y (m) \tDepth (m)\tElev (m)\tYear\tMonth\tDay\tHour\tMinute\tOT(sec)\tRMS error\tN Phases\tGAP\tPDF errXX +/- (m)\tPDF errYY +/- (m)\tPDF errZZ +/- (m)\n")
-    for i in file_name:
-        data_to_formated=[line.split() for line in open(i,'r').readlines()]
-        for i in data_to_formated:
-            try:
-                if i[0]=="GEOGRAPHIC":
-                    long, lat=myProj((float(i[11])*1000), (float(i[9])*1000), inverse=True)
-                    file_output_hypo.write("%4i\t%.12f\t%.12f\t%.6f\t%.6f\t%.6f\t%.6f\t%2i\t%2i\t%2i\t%2s\t%2s\t%.7f\t" % (ID,lat,long,float(i[11])*1000,float(i[9])*1000,float(i[13])*1000 ,float(-1*(float(i[13])*1000 )),int(i[2]),int(i[3]),int(i[4]),int(i[5]),float(i[6]),float(i[7])))
-                elif i[0]=="QUALITY" :
-                    file_output_hypo.write("%s\t%i\t%.6f\t" % (i[8], float(i[10]),float(i[12]))) 
-                elif i[0]=="STATISTICS":
-                    errXX=((3.53 * float(i[8]))**0.5)*0.5
-                    errYY=((3.53 * float(i[14]))**0.5)*0.5
-                    errZZ=((3.53 * float(i[18]))**0.5)*0.5
-                    file_output_hypo.write("%.6f\t%.6f\t%.6f\n" % (errXX*1000, errYY*1000, errZZ*1000))
-                else:
-                    pass
-            except Exception:
-                    continue
-        ID+=1 #adding 1 to create uniq id per events    
-    file_output_hypo.close()
-    print('-----------  The code has run succesfully! --------------')
+
+# initiate dataframe for initial catalog
+df_catalog   = {
+                 "ID":[],
+                 "Lat":[],
+                 "Lon":[], 
+                 "UTM_X":[],
+                 "UTM_Y":[], 
+                 "Depth":[], 
+                 "Elev":[], 
+                 "Year":[], 
+                 "Month":[],
+                 "Day":[], 
+                 "Hour":[], 
+                 "Minute":[],
+                 "T0":[],
+                 "RMS_error":[],
+                 "N_Phases":[],
+                 "GAP":[],
+                 "PDF_errXX(m)":[], 
+                 "PDF errYY(m)":[],
+                 "PDF errZZ(m)":[]
+                    }
+for i in file_name:
+    create_catalog (i, ID, myProj, df_catalog)
+    ID+=1 #adding 1 to create uniq id per events    
+df_cat = pd.DataFrame.from_dict(df_catalog)
+# save and set dataframe index
+df_cat.to_excel(output_path.joinpath(f"{output_name}.xlsx"), index = False)
+print('-----------  The code has run succesfully! --------------')
