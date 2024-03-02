@@ -44,8 +44,8 @@ def create_catalog(file_hyp, _id, myProj, df_holder):
                 errYY=(3.53 * float(i[14]))**0.5
                 errZZ=(3.53 * float(i[18]))**0.5
                 df_holder["PDF_errXX(m)"].append(errXX*1000)
-                df_holder["PDF errYY(m)"].append(errYY*1000)
-                df_holder["PDF errZZ(m)"].append(errZZ*1000)
+                df_holder["PDF_errYY(m)"].append(errYY*1000)
+                df_holder["PDF_errZZ(m)"].append(errZZ*1000)
             else:
                 pass
         except Exception:
@@ -85,8 +85,8 @@ df_catalog   = {
                  "N_Phases":[],
                  "GAP":[],
                  "PDF_errXX(m)":[], 
-                 "PDF errYY(m)":[],
-                 "PDF errZZ(m)":[]
+                 "PDF_errYY(m)":[],
+                 "PDF_errZZ(m)":[]
                     }
 for i in file_name:
     create_catalog (i, ID, myProj, df_catalog)
